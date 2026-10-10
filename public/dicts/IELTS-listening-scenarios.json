@@ -1,0 +1,14056 @@
+[
+  {
+    "name": "landlord / landlady",
+    "trans": [
+      "(女)房东"
+    ]
+  },
+  {
+    "name": "tenant",
+    "trans": [
+      "房客"
+    ]
+  },
+  {
+    "name": "neighbour",
+    "trans": [
+      "邻居"
+    ]
+  },
+  {
+    "name": "resident / citizen / inhabitant / dweller",
+    "trans": [
+      "居民"
+    ]
+  },
+  {
+    "name": "utility bill",
+    "trans": [
+      "水电费"
+    ]
+  },
+  {
+    "name": "rent",
+    "trans": [
+      "租金"
+    ]
+  },
+  {
+    "name": "deposit",
+    "trans": [
+      "押金",
+      "存款"
+    ]
+  },
+  {
+    "name": "laundry fee",
+    "trans": [
+      "洗衣费"
+    ]
+  },
+  {
+    "name": "incoming call",
+    "trans": [
+      "来电"
+    ]
+  },
+  {
+    "name": "Location",
+    "trans": [
+      "位置"
+    ]
+  },
+  {
+    "name": "rural / country / village",
+    "trans": [
+      "乡村"
+    ]
+  },
+  {
+    "name": "suburb / outskirts",
+    "trans": [
+      "郊区"
+    ]
+  },
+  {
+    "name": "suburban",
+    "trans": [
+      "郊区的"
+    ]
+  },
+  {
+    "name": "urban / downtown / city centre",
+    "trans": [
+      "城市"
+    ]
+  },
+  {
+    "name": "address",
+    "trans": [
+      "地址"
+    ]
+  },
+  {
+    "name": "living quarter",
+    "trans": [
+      "生活区"
+    ]
+  },
+  {
+    "name": "road / street / avenue / lane / drive",
+    "trans": [
+      "街道"
+    ]
+  },
+  {
+    "name": "alley",
+    "trans": [
+      "小巷",
+      "音标（原词组）：[ˈæli]"
+    ]
+  },
+  {
+    "name": "for sale",
+    "trans": [
+      "待售"
+    ]
+  },
+  {
+    "name": "for lease / rent",
+    "trans": [
+      "待租"
+    ]
+  },
+  {
+    "name": "refundable",
+    "trans": [
+      "可归还"
+    ]
+  },
+  {
+    "name": "noisy",
+    "trans": [
+      "吵闹"
+    ]
+  },
+  {
+    "name": "shade",
+    "trans": [
+      "树荫"
+    ]
+  },
+  {
+    "name": "blackout",
+    "trans": [
+      "停电"
+    ]
+  },
+  {
+    "name": "House alteration",
+    "trans": [
+      "房屋改造",
+      "音标（原词组）：[ˌɔ:ltəˈreɪʃn]"
+    ]
+  },
+  {
+    "name": "room allocation",
+    "trans": [
+      "房屋分配",
+      "音标（原词组）：[ˌæləˈkeɪʃn]"
+    ]
+  },
+  {
+    "name": "property",
+    "trans": [
+      "资产，财产"
+    ]
+  },
+  {
+    "name": "enquiry",
+    "trans": [
+      "咨询"
+    ]
+  },
+  {
+    "name": "settle",
+    "trans": [
+      "定居"
+    ]
+  },
+  {
+    "name": "contract",
+    "trans": [
+      "合同"
+    ]
+  },
+  {
+    "name": "contact number",
+    "trans": [
+      "联系号码"
+    ]
+  },
+  {
+    "name": "Cotehele House",
+    "trans": [
+      "考特黑尔宅第（英国）"
+    ]
+  },
+  {
+    "name": "Accommodation",
+    "trans": [
+      "住宿"
+    ]
+  },
+  {
+    "name": "student hostel",
+    "trans": [
+      "学生宿舍"
+    ]
+  },
+  {
+    "name": "dormitory (dorm)",
+    "trans": [
+      "学生宿舍"
+    ]
+  },
+  {
+    "name": "homestay",
+    "trans": [
+      "寄宿家庭"
+    ]
+  },
+  {
+    "name": "youth hostel",
+    "trans": [
+      "青年旅店"
+    ]
+  },
+  {
+    "name": "bungalow",
+    "trans": [
+      "平房",
+      "音标（原词组）：[ˈbʌŋgələʊ]"
+    ]
+  },
+  {
+    "name": "flat / apartment",
+    "trans": [
+      "公寓"
+    ]
+  },
+  {
+    "name": "studio apartment",
+    "trans": [
+      "单间公寓"
+    ]
+  },
+  {
+    "name": "single bedroom",
+    "trans": [
+      "单人间"
+    ]
+  },
+  {
+    "name": "double bedroom",
+    "trans": [
+      "双人间（单床）"
+    ]
+  },
+  {
+    "name": "twin room",
+    "trans": [
+      "双人间（两个床）"
+    ]
+  },
+  {
+    "name": "bedsit / bedsitting room",
+    "trans": [
+      "单间（卧室兼起居室）"
+    ]
+  },
+  {
+    "name": "living room",
+    "trans": [
+      "客厅"
+    ]
+  },
+  {
+    "name": "shared kitchen",
+    "trans": [
+      "公用厨房"
+    ]
+  },
+  {
+    "name": "bathroom",
+    "trans": [
+      "浴室（带厕所）"
+    ]
+  },
+  {
+    "name": "shower space",
+    "trans": [
+      "淋浴室"
+    ]
+  },
+  {
+    "name": "garage",
+    "trans": [
+      "车库"
+    ]
+  },
+  {
+    "name": "study",
+    "trans": [
+      "书房"
+    ]
+  },
+  {
+    "name": "storeroom",
+    "trans": [
+      "储藏室"
+    ]
+  },
+  {
+    "name": "laundry room",
+    "trans": [
+      "洗衣房"
+    ]
+  },
+  {
+    "name": "entrance hall / lobby / foyer",
+    "trans": [
+      "大厅"
+    ]
+  },
+  {
+    "name": "courtyard",
+    "trans": [
+      "庭院"
+    ]
+  },
+  {
+    "name": "basement",
+    "trans": [
+      "地下室"
+    ]
+  },
+  {
+    "name": "fire door / fire escape",
+    "trans": [
+      "安全出口"
+    ]
+  },
+  {
+    "name": "corridor / hallway / porch / aisle",
+    "trans": [
+      "走廊",
+      "音标（原词组）：[aɪl]"
+    ]
+  },
+  {
+    "name": "sloping ramp",
+    "trans": [
+      "斜坡",
+      "音标（原词组）：[ræmp]"
+    ]
+  },
+  {
+    "name": "balcony",
+    "trans": [
+      "阳台"
+    ]
+  },
+  {
+    "name": "fountain",
+    "trans": [
+      "喷泉",
+      "泉水"
+    ]
+  },
+  {
+    "name": "refreshment",
+    "trans": [
+      "茶点"
+    ]
+  },
+  {
+    "name": "special food / dietary requirement",
+    "trans": [
+      "对于食物特殊要求",
+      "音标（原词组）：['daɪətərɪ]"
+    ]
+  },
+  {
+    "name": "vegetarian / vegetable only / vegan",
+    "trans": [
+      "素食的",
+      "音标（原词组）：[ˈvi:gən]"
+    ]
+  },
+  {
+    "name": "no red meat",
+    "trans": [
+      "（印度人）不吃牛羊肉"
+    ]
+  },
+  {
+    "name": "brunch",
+    "trans": [
+      "早午饭"
+    ]
+  },
+  {
+    "name": "estate",
+    "trans": [
+      "房产"
+    ]
+  },
+  {
+    "name": "roof",
+    "trans": [
+      "屋顶"
+    ]
+  },
+  {
+    "name": "sun sheet",
+    "trans": [
+      "阳光板"
+    ]
+  },
+  {
+    "name": "Facility / Equipment / Apparatus",
+    "trans": [
+      "设备",
+      "音标（原词组）：[ˌæpəreɪtəs]"
+    ]
+  },
+  {
+    "name": "close circuit television",
+    "trans": [
+      "闭路电视",
+      "音标（原词组）：[ˈsɜ:kɪt]"
+    ]
+  },
+  {
+    "name": "video surveillance",
+    "trans": [
+      "监控系统",
+      "音标（原词组）：[sɜ:ˈveɪləns]"
+    ]
+  },
+  {
+    "name": "air conditioner / conditioning",
+    "trans": [
+      "（中央）空调"
+    ]
+  },
+  {
+    "name": "heater / stove / radiator",
+    "trans": [
+      "取暖器"
+    ]
+  },
+  {
+    "name": "fireplace",
+    "trans": [
+      "壁炉"
+    ]
+  },
+  {
+    "name": "heating",
+    "trans": [
+      "取暖"
+    ]
+  },
+  {
+    "name": "stuffy",
+    "trans": [
+      "空气不流通"
+    ]
+  },
+  {
+    "name": "airy",
+    "trans": [
+      "通风的"
+    ]
+  },
+  {
+    "name": "ventilation",
+    "trans": [
+      "通风",
+      "音标（原词组）：[ˌventɪ'leɪʃn]"
+    ]
+  },
+  {
+    "name": "stair",
+    "trans": [
+      "楼梯"
+    ]
+  },
+  {
+    "name": "escalator",
+    "trans": [
+      "自动扶梯",
+      "音标（原词组）：[ˈeskəleɪtə(r)]"
+    ]
+  },
+  {
+    "name": "lift / elevator",
+    "trans": [
+      "电梯"
+    ]
+  },
+  {
+    "name": "ladder",
+    "trans": [
+      "梯子"
+    ]
+  },
+  {
+    "name": "pool",
+    "trans": [
+      "水池"
+    ]
+  },
+  {
+    "name": "paddling pool",
+    "trans": [
+      "戏水池"
+    ]
+  },
+  {
+    "name": "rubbish / dust / contaminant",
+    "trans": [
+      "垃圾"
+    ]
+  },
+  {
+    "name": "decoration",
+    "trans": [
+      "装饰 exquisite"
+    ]
+  },
+  {
+    "name": "unfurnished",
+    "trans": [
+      "没有配家具的"
+    ]
+  },
+  {
+    "name": "cream",
+    "trans": [
+      "奶油（色）"
+    ]
+  },
+  {
+    "name": "carpet / rug",
+    "trans": [
+      "地毯"
+    ]
+  },
+  {
+    "name": "lamp",
+    "trans": [
+      "灯"
+    ]
+  },
+  {
+    "name": "cushion",
+    "trans": [
+      "垫子"
+    ]
+  },
+  {
+    "name": "table",
+    "trans": [
+      "桌子"
+    ]
+  },
+  {
+    "name": "chair",
+    "trans": [
+      "椅子"
+    ]
+  },
+  {
+    "name": "sofa / couch",
+    "trans": [
+      "沙发"
+    ]
+  },
+  {
+    "name": "coffee table",
+    "trans": [
+      "咖啡桌"
+    ]
+  },
+  {
+    "name": "armchair",
+    "trans": [
+      "扶手椅"
+    ]
+  },
+  {
+    "name": "stereo system",
+    "trans": [
+      "立体声"
+    ]
+  },
+  {
+    "name": "television",
+    "trans": [
+      "电视"
+    ]
+  },
+  {
+    "name": "digital TV set",
+    "trans": [
+      "数字电视"
+    ]
+  },
+  {
+    "name": "personal computer",
+    "trans": [
+      "个人电脑"
+    ]
+  },
+  {
+    "name": "(ceiling ) fan",
+    "trans": [
+      "吊扇",
+      "音标（原词组）：[ˈsi:lɪŋ]"
+    ]
+  },
+  {
+    "name": "bookcase",
+    "trans": [
+      "书橱"
+    ]
+  },
+  {
+    "name": "wardrobe",
+    "trans": [
+      "衣柜"
+    ]
+  },
+  {
+    "name": "Queen Size / King Size",
+    "trans": [
+      "（超）大床"
+    ]
+  },
+  {
+    "name": "double decker / bunk bed",
+    "trans": [
+      "双层床"
+    ]
+  },
+  {
+    "name": "bed linen",
+    "trans": [
+      "床上编织品"
+    ]
+  },
+  {
+    "name": "pillow (case)",
+    "trans": [
+      "枕头(枕套)"
+    ]
+  },
+  {
+    "name": "sheet",
+    "trans": [
+      "床单"
+    ]
+  },
+  {
+    "name": "mattress",
+    "trans": [
+      "床垫"
+    ]
+  },
+  {
+    "name": "blanket",
+    "trans": [
+      "毛毯"
+    ]
+  },
+  {
+    "name": "curtain",
+    "trans": [
+      "窗帘"
+    ]
+  },
+  {
+    "name": "gas cooker",
+    "trans": [
+      "煤气灶"
+    ]
+  },
+  {
+    "name": "utensils",
+    "trans": [
+      "器皿",
+      "音标（原词组）：[ju:'tensɪlz]"
+    ]
+  },
+  {
+    "name": "spoon",
+    "trans": [
+      "勺子"
+    ]
+  },
+  {
+    "name": "water pipe",
+    "trans": [
+      "水管"
+    ]
+  },
+  {
+    "name": "running water",
+    "trans": [
+      "自来水"
+    ]
+  },
+  {
+    "name": "dishwasher",
+    "trans": [
+      "洗碗机"
+    ]
+  },
+  {
+    "name": "squeezer",
+    "trans": [
+      "榨汁机"
+    ]
+  },
+  {
+    "name": "microwave oven",
+    "trans": [
+      "微波炉"
+    ]
+  },
+  {
+    "name": "toaster",
+    "trans": [
+      "吐司机，烤面包机"
+    ]
+  },
+  {
+    "name": "refrigerator / fridge / freezer",
+    "trans": [
+      "冰箱"
+    ]
+  },
+  {
+    "name": "shower",
+    "trans": [
+      "淋浴头"
+    ]
+  },
+  {
+    "name": "mirror",
+    "trans": [
+      "镜子"
+    ]
+  },
+  {
+    "name": "basin",
+    "trans": [
+      "脸盆"
+    ]
+  },
+  {
+    "name": "bathtub",
+    "trans": [
+      "浴缸"
+    ]
+  },
+  {
+    "name": "detergent",
+    "trans": [
+      "清洁剂"
+    ]
+  },
+  {
+    "name": "soap",
+    "trans": [
+      "肥皂"
+    ]
+  },
+  {
+    "name": "shampoo",
+    "trans": [
+      "香波"
+    ]
+  },
+  {
+    "name": "sponge",
+    "trans": [
+      "海绵",
+      "音标（原词组）：[spʌndʒ]"
+    ]
+  },
+  {
+    "name": "toilet",
+    "trans": [
+      "厕所，马桶"
+    ]
+  },
+  {
+    "name": "lotion",
+    "trans": [
+      "洗液",
+      "音标（原词组）：[ˈləʊʃn]"
+    ]
+  },
+  {
+    "name": "towel",
+    "trans": [
+      "毛巾"
+    ]
+  },
+  {
+    "name": "mop",
+    "trans": [
+      "拖把"
+    ]
+  },
+  {
+    "name": "broom",
+    "trans": [
+      "扫帚"
+    ]
+  },
+  {
+    "name": "razor / shaver",
+    "trans": [
+      "(手动/电动)剃须刀"
+    ]
+  },
+  {
+    "name": "dryer",
+    "trans": [
+      "烘干机"
+    ]
+  },
+  {
+    "name": "vacuum cleaner",
+    "trans": [
+      "吸尘器"
+    ]
+  },
+  {
+    "name": "washing machine",
+    "trans": [
+      "洗衣机"
+    ]
+  },
+  {
+    "name": "water heater",
+    "trans": [
+      "热水器"
+    ]
+  },
+  {
+    "name": "ashtray",
+    "trans": [
+      "烟灰缸"
+    ]
+  },
+  {
+    "name": "Occupancy",
+    "trans": [
+      "占据"
+    ]
+  },
+  {
+    "name": "job / work",
+    "trans": [
+      "工作"
+    ]
+  },
+  {
+    "name": "career",
+    "trans": [
+      "事业"
+    ]
+  },
+  {
+    "name": "occupation / vocation",
+    "trans": [
+      "职业"
+    ]
+  },
+  {
+    "name": "profession",
+    "trans": [
+      "工作专业"
+    ]
+  },
+  {
+    "name": "interviewer",
+    "trans": [
+      "面试官"
+    ]
+  },
+  {
+    "name": "personnel manager",
+    "trans": [
+      "人事经理"
+    ]
+  },
+  {
+    "name": "human resource",
+    "trans": [
+      "人力资源"
+    ]
+  },
+  {
+    "name": "interviewee",
+    "trans": [
+      "面试者"
+    ]
+  },
+  {
+    "name": "applicant",
+    "trans": [
+      "申请人"
+    ]
+  },
+  {
+    "name": "candidate",
+    "trans": [
+      "求职者"
+    ]
+  },
+  {
+    "name": "employer / employee",
+    "trans": [
+      "雇主（雇员）"
+    ]
+  },
+  {
+    "name": "job-hunting / job-seeking",
+    "trans": [
+      "找工作"
+    ]
+  },
+  {
+    "name": "recruit",
+    "trans": [
+      "招聘，吸引（新成员）"
+    ]
+  },
+  {
+    "name": "job fair",
+    "trans": [
+      "招聘会"
+    ]
+  },
+  {
+    "name": "personnel market",
+    "trans": [
+      "人才市场"
+    ]
+  },
+  {
+    "name": "apply for a job / position",
+    "trans": [
+      "申请工作"
+    ]
+  },
+  {
+    "name": "vacant positions",
+    "trans": [
+      "职位空缺"
+    ]
+  },
+  {
+    "name": "appointment",
+    "trans": [
+      "预约"
+    ]
+  },
+  {
+    "name": "application letter",
+    "trans": [
+      "求职信"
+    ]
+  },
+  {
+    "name": "resume",
+    "trans": [
+      "简历"
+    ]
+  },
+  {
+    "name": "C.V. (curriculum vitae)",
+    "trans": [
+      "简历"
+    ]
+  },
+  {
+    "name": "letter of reference / recommendation",
+    "trans": [
+      "推荐信"
+    ]
+  },
+  {
+    "name": "enclose",
+    "trans": [
+      "附上"
+    ]
+  },
+  {
+    "name": "format",
+    "trans": [
+      "格式"
+    ]
+  },
+  {
+    "name": "personal information / details",
+    "trans": [
+      "个人信息"
+    ]
+  },
+  {
+    "name": "surname",
+    "trans": [
+      "姓氏"
+    ]
+  },
+  {
+    "name": "full name",
+    "trans": [
+      "全名"
+    ]
+  },
+  {
+    "name": "birth date",
+    "trans": [
+      "出生日期"
+    ]
+  },
+  {
+    "name": "sex / gender",
+    "trans": [
+      "性别"
+    ]
+  },
+  {
+    "name": "male / female",
+    "trans": [
+      "男性/女性"
+    ]
+  },
+  {
+    "name": "contact",
+    "trans": [
+      "联系方式"
+    ]
+  },
+  {
+    "name": "letterbox",
+    "trans": [
+      "邮箱"
+    ]
+  },
+  {
+    "name": "education background",
+    "trans": [
+      "教育背景"
+    ]
+  },
+  {
+    "name": "university attended",
+    "trans": [
+      "毕业院校"
+    ]
+  },
+  {
+    "name": "college",
+    "trans": [
+      "学院"
+    ]
+  },
+  {
+    "name": "high school",
+    "trans": [
+      "高中"
+    ]
+  },
+  {
+    "name": "secondary school",
+    "trans": [
+      "初中"
+    ]
+  },
+  {
+    "name": "major",
+    "trans": [
+      "专业",
+      "专业，主修"
+    ]
+  },
+  {
+    "name": "computer science",
+    "trans": [
+      "计算机科学"
+    ]
+  },
+  {
+    "name": "programming",
+    "trans": [
+      "编程"
+    ]
+  },
+  {
+    "name": "accounting",
+    "trans": [
+      "会计",
+      "会计学"
+    ]
+  },
+  {
+    "name": "finance",
+    "trans": [
+      "金融",
+      "金融学"
+    ]
+  },
+  {
+    "name": "sociology",
+    "trans": [
+      "社会学"
+    ]
+  },
+  {
+    "name": "medicine",
+    "trans": [
+      "医学",
+      "内科学"
+    ]
+  },
+  {
+    "name": "law",
+    "trans": [
+      "法律",
+      "法学"
+    ]
+  },
+  {
+    "name": "philosophy",
+    "trans": [
+      "哲学"
+    ]
+  },
+  {
+    "name": "civil engineering",
+    "trans": [
+      "土木工程"
+    ]
+  },
+  {
+    "name": "tourism and hospitality management",
+    "trans": [
+      "酒店与旅游管理"
+    ]
+  },
+  {
+    "name": "social and public policy",
+    "trans": [
+      "社会与公共政策"
+    ]
+  },
+  {
+    "name": "subject",
+    "trans": [
+      "科目",
+      "学科分类"
+    ]
+  },
+  {
+    "name": "English",
+    "trans": [
+      "英语"
+    ]
+  },
+  {
+    "name": "Mathematics",
+    "trans": [
+      "数学"
+    ]
+  },
+  {
+    "name": "History",
+    "trans": [
+      "历史"
+    ]
+  },
+  {
+    "name": "Physics",
+    "trans": [
+      "物理",
+      "物理学"
+    ]
+  },
+  {
+    "name": "Chemistry",
+    "trans": [
+      "化学"
+    ]
+  },
+  {
+    "name": "Politics",
+    "trans": [
+      "政治",
+      "政治学"
+    ]
+  },
+  {
+    "name": "Biology",
+    "trans": [
+      "生物",
+      "生物学"
+    ]
+  },
+  {
+    "name": "Ecology",
+    "trans": [
+      "地质",
+      "生态学"
+    ]
+  },
+  {
+    "name": "Geography",
+    "trans": [
+      "地理",
+      "地理学"
+    ]
+  },
+  {
+    "name": "course",
+    "trans": [
+      "课程"
+    ]
+  },
+  {
+    "name": "degree",
+    "trans": [
+      "学位"
+    ]
+  },
+  {
+    "name": "bachelor",
+    "trans": [
+      "学士"
+    ]
+  },
+  {
+    "name": "master",
+    "trans": [
+      "硕士"
+    ]
+  },
+  {
+    "name": "doctor",
+    "trans": [
+      "博士",
+      "医生（注意和 daughter 的读音相似）"
+    ]
+  },
+  {
+    "name": "certificate",
+    "trans": [
+      "证书"
+    ]
+  },
+  {
+    "name": "diploma",
+    "trans": [
+      "文凭"
+    ]
+  },
+  {
+    "name": "graduation year",
+    "trans": [
+      "毕业年份"
+    ]
+  },
+  {
+    "name": "work experience",
+    "trans": [
+      "工作经验"
+    ]
+  },
+  {
+    "name": "employment background",
+    "trans": [
+      "工作背景"
+    ]
+  },
+  {
+    "name": "unemployed",
+    "trans": [
+      "失业的"
+    ]
+  },
+  {
+    "name": "qualification",
+    "trans": [
+      "资历"
+    ]
+  },
+  {
+    "name": "colleague / workmate",
+    "trans": [
+      "同事"
+    ]
+  },
+  {
+    "name": "cater for / to",
+    "trans": [
+      "迎合"
+    ]
+  },
+  {
+    "name": "prestige",
+    "trans": [
+      "声望"
+    ]
+  },
+  {
+    "name": "competition",
+    "trans": [
+      "比赛"
+    ]
+  },
+  {
+    "name": "competitive",
+    "trans": [
+      "竞争的"
+    ]
+  },
+  {
+    "name": "cooperative",
+    "trans": [
+      "合作的，合作社"
+    ]
+  },
+  {
+    "name": "teamwork",
+    "trans": [
+      "团队合作"
+    ]
+  },
+  {
+    "name": "requirements",
+    "trans": [
+      "必备条件"
+    ]
+  },
+  {
+    "name": "workload",
+    "trans": [
+      "工作负荷"
+    ]
+  },
+  {
+    "name": "challenging",
+    "trans": [
+      "有挑战性的"
+    ]
+  },
+  {
+    "name": "well-paid",
+    "trans": [
+      "薪水高的"
+    ]
+  },
+  {
+    "name": "previous position",
+    "trans": [
+      "前任职位"
+    ]
+  },
+  {
+    "name": "job responsibilities",
+    "trans": [
+      "工作职责"
+    ]
+  },
+  {
+    "name": "routine work",
+    "trans": [
+      "日常工作"
+    ]
+  },
+  {
+    "name": "workshop",
+    "trans": [
+      "工作间，专题讨论会"
+    ]
+  },
+  {
+    "name": "showroom",
+    "trans": [
+      "展厅"
+    ]
+  },
+  {
+    "name": "role culture",
+    "trans": [
+      "（企业中的）“任务”文化"
+    ]
+  },
+  {
+    "name": "personal culture",
+    "trans": [
+      "“个人”文化"
+    ]
+  },
+  {
+    "name": "duty",
+    "trans": [
+      "职责"
+    ]
+  },
+  {
+    "name": "day shift",
+    "trans": [
+      "白班"
+    ]
+  },
+  {
+    "name": "part-time",
+    "trans": [
+      "兼职"
+    ]
+  },
+  {
+    "name": "promotion",
+    "trans": [
+      "升职",
+      "促销"
+    ]
+  },
+  {
+    "name": "ambition",
+    "trans": [
+      "野心"
+    ]
+  },
+  {
+    "name": "project / program",
+    "trans": [
+      "项目"
+    ]
+  },
+  {
+    "name": "expected salary",
+    "trans": [
+      "期望薪水"
+    ]
+  },
+  {
+    "name": "salary / wage / pay / income",
+    "trans": [
+      "工资"
+    ]
+  },
+  {
+    "name": "allowance",
+    "trans": [
+      "津贴"
+    ]
+  },
+  {
+    "name": "bonus",
+    "trans": [
+      "奖金"
+    ]
+  },
+  {
+    "name": "commission",
+    "trans": [
+      "佣金"
+    ]
+  },
+  {
+    "name": "benefit",
+    "trans": [
+      "福利"
+    ]
+  },
+  {
+    "name": "insurance",
+    "trans": [
+      "保险"
+    ]
+  },
+  {
+    "name": "further education",
+    "trans": [
+      "进修深造"
+    ]
+  },
+  {
+    "name": "holiday",
+    "trans": [
+      "假期"
+    ]
+  },
+  {
+    "name": "coffee break / tea time",
+    "trans": [
+      "休息时间"
+    ]
+  },
+  {
+    "name": "pension",
+    "trans": [
+      "养老金"
+    ]
+  },
+  {
+    "name": "retire",
+    "trans": [
+      "退休"
+    ]
+  },
+  {
+    "name": "welfare",
+    "trans": [
+      "福利"
+    ]
+  },
+  {
+    "name": "staffing",
+    "trans": [
+      "安置员工"
+    ]
+  },
+  {
+    "name": "newsletter",
+    "trans": [
+      "简报"
+    ]
+  },
+  {
+    "name": "profit",
+    "trans": [
+      "利润，收益"
+    ]
+  },
+  {
+    "name": "blue / white collar",
+    "trans": [
+      "蓝（白）领"
+    ]
+  },
+  {
+    "name": "office work",
+    "trans": [
+      "文员工作"
+    ]
+  },
+  {
+    "name": "Tour guide",
+    "trans": [
+      "导游（guided tours 有导游的旅行"
+    ]
+  },
+  {
+    "name": "Travel agent",
+    "trans": [
+      "旅行代理"
+    ]
+  },
+  {
+    "name": "Nurse",
+    "trans": [
+      "护士"
+    ]
+  },
+  {
+    "name": "Pilot",
+    "trans": [
+      "飞行员"
+    ]
+  },
+  {
+    "name": "Captain",
+    "trans": [
+      "船长"
+    ]
+  },
+  {
+    "name": "Computer programmer",
+    "trans": [
+      "电脑程序员"
+    ]
+  },
+  {
+    "name": "Administrator",
+    "trans": [
+      "管理员"
+    ]
+  },
+  {
+    "name": "Designer",
+    "trans": [
+      "设计员"
+    ]
+  },
+  {
+    "name": "Scientist",
+    "trans": [
+      "科学家"
+    ]
+  },
+  {
+    "name": "Writer",
+    "trans": [
+      "作家"
+    ]
+  },
+  {
+    "name": "Editor",
+    "trans": [
+      "编辑"
+    ]
+  },
+  {
+    "name": "Reporter / journalist",
+    "trans": [
+      "记者"
+    ]
+  },
+  {
+    "name": "Police officer",
+    "trans": [
+      "警官"
+    ]
+  },
+  {
+    "name": "Photographer",
+    "trans": [
+      "摄影师（注意读音）"
+    ]
+  },
+  {
+    "name": "Mayor",
+    "trans": [
+      "市长（注意读音）"
+    ]
+  },
+  {
+    "name": "Researcher",
+    "trans": [
+      "研究员"
+    ]
+  },
+  {
+    "name": "Accountant",
+    "trans": [
+      "会计师"
+    ]
+  },
+  {
+    "name": "Engineer",
+    "trans": [
+      "工程师"
+    ]
+  },
+  {
+    "name": "Cleaner",
+    "trans": [
+      "清洁工"
+    ]
+  },
+  {
+    "name": "Receptionist",
+    "trans": [
+      "接待员"
+    ]
+  },
+  {
+    "name": "Assistant",
+    "trans": [
+      "助理"
+    ]
+  },
+  {
+    "name": "Networker",
+    "trans": [
+      "网络工作者"
+    ]
+  },
+  {
+    "name": "Secretary",
+    "trans": [
+      "秘书"
+    ]
+  },
+  {
+    "name": "Businessman / merchant",
+    "trans": [
+      "商人"
+    ]
+  },
+  {
+    "name": "Attendant",
+    "trans": [
+      "侍从"
+    ]
+  },
+  {
+    "name": "Actor / actress",
+    "trans": [
+      "（女）演员"
+    ]
+  },
+  {
+    "name": "Physical therapist",
+    "trans": [
+      "理疗师"
+    ]
+  },
+  {
+    "name": "Stockbroker",
+    "trans": [
+      "股票经纪人"
+    ]
+  },
+  {
+    "name": "Salesman",
+    "trans": [
+      "销售员"
+    ]
+  },
+  {
+    "name": "Cashier",
+    "trans": [
+      "出纳",
+      "收银员"
+    ]
+  },
+  {
+    "name": "Dietician",
+    "trans": [
+      "营养师"
+    ]
+  },
+  {
+    "name": "Hospitality staff",
+    "trans": [
+      "餐厅员工"
+    ]
+  },
+  {
+    "name": "Chef",
+    "trans": [
+      "主厨"
+    ]
+  },
+  {
+    "name": "Kitchen hand",
+    "trans": [
+      "厨房帮工"
+    ]
+  },
+  {
+    "name": "butler",
+    "trans": [
+      "男管家"
+    ]
+  },
+  {
+    "name": "maid servant",
+    "trans": [
+      "女仆"
+    ]
+  },
+  {
+    "name": "craftsman",
+    "trans": [
+      "手工艺者"
+    ]
+  },
+  {
+    "name": "athlete",
+    "trans": [
+      "运动员"
+    ]
+  },
+  {
+    "name": "carpenter",
+    "trans": [
+      "木匠"
+    ]
+  },
+  {
+    "name": "melody",
+    "trans": [
+      "旋律"
+    ]
+  },
+  {
+    "name": "rhythm",
+    "trans": [
+      "韵律"
+    ]
+  },
+  {
+    "name": "pastime",
+    "trans": [
+      "消遣"
+    ]
+  },
+  {
+    "name": "juggling",
+    "trans": [
+      "杂耍"
+    ]
+  },
+  {
+    "name": "journey / trip / tour / travel",
+    "trans": [
+      "旅游"
+    ]
+  },
+  {
+    "name": "travel agency",
+    "trans": [
+      "旅行社"
+    ]
+  },
+  {
+    "name": "passenger",
+    "trans": [
+      "旅客"
+    ]
+  },
+  {
+    "name": "guide",
+    "trans": [
+      "导游，指南"
+    ]
+  },
+  {
+    "name": "membership",
+    "trans": [
+      "会员资格"
+    ]
+  },
+  {
+    "name": "recreation / entertainment",
+    "trans": [
+      "娱乐"
+    ]
+  },
+  {
+    "name": "package tour",
+    "trans": [
+      "团队游"
+    ]
+  },
+  {
+    "name": "free tour",
+    "trans": [
+      "自由行"
+    ]
+  },
+  {
+    "name": "business trip",
+    "trans": [
+      "出差"
+    ]
+  },
+  {
+    "name": "mid-range",
+    "trans": [
+      "中距离（旅游）"
+    ]
+  },
+  {
+    "name": "economy / tourist class",
+    "trans": [
+      "经济舱"
+    ]
+  },
+  {
+    "name": "business class",
+    "trans": [
+      "商务舱"
+    ]
+  },
+  {
+    "name": "first / VIP class",
+    "trans": [
+      "头等舱"
+    ]
+  },
+  {
+    "name": "one-way ticket",
+    "trans": [
+      "单程票"
+    ]
+  },
+  {
+    "name": "round-trip / return ticket",
+    "trans": [
+      "往返票"
+    ]
+  },
+  {
+    "name": "layover / stopover",
+    "trans": [
+      "中途停留"
+    ]
+  },
+  {
+    "name": "non-stop flight",
+    "trans": [
+      "直达航班"
+    ]
+  },
+  {
+    "name": "connecting-flight",
+    "trans": [
+      "转机"
+    ]
+  },
+  {
+    "name": "airport tax",
+    "trans": [
+      "机场税"
+    ]
+  },
+  {
+    "name": "duty-free shop",
+    "trans": [
+      "免税店"
+    ]
+  },
+  {
+    "name": "excess charge",
+    "trans": [
+      "超重"
+    ]
+  },
+  {
+    "name": "vacant seat",
+    "trans": [
+      "空座"
+    ]
+  },
+  {
+    "name": "destination",
+    "trans": [
+      "目的地"
+    ]
+  },
+  {
+    "name": "terminal",
+    "trans": [
+      "终点站"
+    ]
+  },
+  {
+    "name": "notice board",
+    "trans": [
+      "通知板"
+    ]
+  },
+  {
+    "name": "fare",
+    "trans": [
+      "票价"
+    ]
+  },
+  {
+    "name": "extra charge / surcharge",
+    "trans": [
+      "附加费"
+    ]
+  },
+  {
+    "name": "air host / hostess",
+    "trans": [
+      "空中先生（小姐）"
+    ]
+  },
+  {
+    "name": "ground steward",
+    "trans": [
+      "地勤"
+    ]
+  },
+  {
+    "name": "steward / stewardess",
+    "trans": [
+      "男（女）乘务员"
+    ]
+  },
+  {
+    "name": "seat reservation / assignment / arrangement",
+    "trans": [
+      "定座"
+    ]
+  },
+  {
+    "name": "fulling-booked",
+    "trans": [
+      "满了"
+    ]
+  },
+  {
+    "name": "underneath / underside / bottom",
+    "trans": [
+      "底部"
+    ]
+  },
+  {
+    "name": "lounge",
+    "trans": [
+      "休息室，候机厅"
+    ]
+  },
+  {
+    "name": "Tourist Attraction",
+    "trans": [
+      "旅游景点"
+    ]
+  },
+  {
+    "name": "hotspot / highlight",
+    "trans": [
+      "热点"
+    ]
+  },
+  {
+    "name": "scenic spot / view point",
+    "trans": [
+      "景点"
+    ]
+  },
+  {
+    "name": "historic(al) interest",
+    "trans": [
+      "历史遗迹"
+    ]
+  },
+  {
+    "name": "sightseeing",
+    "trans": [
+      "观光"
+    ]
+  },
+  {
+    "name": "landscape",
+    "trans": [
+      "风景",
+      "风景画"
+    ]
+  },
+  {
+    "name": "seascape scenery",
+    "trans": [
+      "海景"
+    ]
+  },
+  {
+    "name": "viewpoint / look-up point",
+    "trans": [
+      "观景台"
+    ]
+  },
+  {
+    "name": "heritage",
+    "trans": [
+      "遗迹"
+    ]
+  },
+  {
+    "name": "relics",
+    "trans": [
+      "残迹"
+    ]
+  },
+  {
+    "name": "castle",
+    "trans": [
+      "城堡"
+    ]
+  },
+  {
+    "name": "cathedral",
+    "trans": [
+      "大教堂"
+    ]
+  },
+  {
+    "name": "mountain resort",
+    "trans": [
+      "山林风景区"
+    ]
+  },
+  {
+    "name": "botanical garden",
+    "trans": [
+      "植物园"
+    ]
+  },
+  {
+    "name": "art gallery",
+    "trans": [
+      "画廊"
+    ]
+  },
+  {
+    "name": "concert",
+    "trans": [
+      "音乐会"
+    ]
+  },
+  {
+    "name": "museum",
+    "trans": [
+      "博物馆"
+    ]
+  },
+  {
+    "name": "ancient temple",
+    "trans": [
+      "古寺"
+    ]
+  },
+  {
+    "name": "theme park",
+    "trans": [
+      "主题公园"
+    ]
+  },
+  {
+    "name": "organic farm",
+    "trans": [
+      "有机农场"
+    ]
+  },
+  {
+    "name": "harbour",
+    "trans": [
+      "海港"
+    ]
+  },
+  {
+    "name": "beach / coast",
+    "trans": [
+      "沙滩、海滨"
+    ]
+  },
+  {
+    "name": "hot spring / spa",
+    "trans": [
+      "温泉"
+    ]
+  },
+  {
+    "name": "cave / cavern",
+    "trans": [
+      "大洞穴"
+    ]
+  },
+  {
+    "name": "club",
+    "trans": [
+      "俱乐部"
+    ]
+  },
+  {
+    "name": "cinema",
+    "trans": [
+      "电影院"
+    ]
+  },
+  {
+    "name": "theatre",
+    "trans": [
+      "剧院"
+    ]
+  },
+  {
+    "name": "aquarium",
+    "trans": [
+      "水族馆"
+    ]
+  },
+  {
+    "name": "amusement park",
+    "trans": [
+      "游乐园"
+    ]
+  },
+  {
+    "name": "orchard",
+    "trans": [
+      "果园"
+    ]
+  },
+  {
+    "name": "ice rink",
+    "trans": [
+      "旱冰场"
+    ]
+  },
+  {
+    "name": "water mill",
+    "trans": [
+      "水力发电站"
+    ]
+  },
+  {
+    "name": "bay",
+    "trans": [
+      "海湾"
+    ]
+  },
+  {
+    "name": "dock",
+    "trans": [
+      "港口"
+    ]
+  },
+  {
+    "name": "dam",
+    "trans": [
+      "水坝"
+    ]
+  },
+  {
+    "name": "reservoir",
+    "trans": [
+      "水库"
+    ]
+  },
+  {
+    "name": "Town Hall",
+    "trans": [
+      "市政大厅"
+    ]
+  },
+  {
+    "name": "government",
+    "trans": [
+      "政府"
+    ]
+  },
+  {
+    "name": "Post Office",
+    "trans": [
+      "邮局"
+    ]
+  },
+  {
+    "name": "Teletech",
+    "trans": [
+      "电信"
+    ]
+  },
+  {
+    "name": "Great Barrier Reef",
+    "trans": [
+      "大堡礁"
+    ]
+  },
+  {
+    "name": "Stonehenge",
+    "trans": [
+      "巨石阵"
+    ]
+  },
+  {
+    "name": "Studio Theatre",
+    "trans": [
+      "演播剧场"
+    ]
+  },
+  {
+    "name": "Footbridge",
+    "trans": [
+      "人行小桥"
+    ]
+  },
+  {
+    "name": "Sydney Opera House",
+    "trans": [
+      "悉尼歌剧院"
+    ]
+  },
+  {
+    "name": "Tower of London",
+    "trans": [
+      "伦敦塔"
+    ]
+  },
+  {
+    "name": "dome",
+    "trans": [
+      "圆顶"
+    ]
+  },
+  {
+    "name": "rainforest",
+    "trans": [
+      "雨林"
+    ]
+  },
+  {
+    "name": "swamp / marsh / wetland",
+    "trans": [
+      "沼泽"
+    ]
+  },
+  {
+    "name": "desert",
+    "trans": [
+      "沙漠"
+    ]
+  },
+  {
+    "name": "grassland",
+    "trans": [
+      "草原"
+    ]
+  },
+  {
+    "name": "bush",
+    "trans": [
+      "灌木丛"
+    ]
+  },
+  {
+    "name": "hilly area",
+    "trans": [
+      "丘陵地带"
+    ]
+  },
+  {
+    "name": "waterfall",
+    "trans": [
+      "瀑布"
+    ]
+  },
+  {
+    "name": "Schedule / Itinerary / Route / Agenda / Timetable",
+    "trans": [
+      "日程安排/线路"
+    ]
+  },
+  {
+    "name": "scheme",
+    "trans": [
+      "计划，方案"
+    ]
+  },
+  {
+    "name": "outdoors",
+    "trans": [
+      "户外活动"
+    ]
+  },
+  {
+    "name": "hitch-hike",
+    "trans": [
+      "搭便车旅行"
+    ]
+  },
+  {
+    "name": "hiking",
+    "trans": [
+      "徒步旅行"
+    ]
+  },
+  {
+    "name": "camp",
+    "trans": [
+      "野营"
+    ]
+  },
+  {
+    "name": "outing / excursion",
+    "trans": [
+      "短途旅行，远足"
+    ]
+  },
+  {
+    "name": "voyage",
+    "trans": [
+      "航行"
+    ]
+  },
+  {
+    "name": "outtrip",
+    "trans": [
+      "郊游"
+    ]
+  },
+  {
+    "name": "expedition",
+    "trans": [
+      "探险，远征"
+    ]
+  },
+  {
+    "name": "cycling",
+    "trans": [
+      "骑自行车"
+    ]
+  },
+  {
+    "name": "yoga",
+    "trans": [
+      "瑜伽"
+    ]
+  },
+  {
+    "name": "rock climbing / cliff walks",
+    "trans": [
+      "攀岩"
+    ]
+  },
+  {
+    "name": "bungee jumping",
+    "trans": [
+      "蹦极跳"
+    ]
+  },
+  {
+    "name": "hang-gliding",
+    "trans": [
+      "滑翔"
+    ]
+  },
+  {
+    "name": "judo",
+    "trans": [
+      "柔道"
+    ]
+  },
+  {
+    "name": "surf",
+    "trans": [
+      "冲浪"
+    ]
+  },
+  {
+    "name": "scuba dive",
+    "trans": [
+      "（带水肺的）潜水"
+    ]
+  },
+  {
+    "name": "skiing",
+    "trans": [
+      "滑雪"
+    ]
+  },
+  {
+    "name": "ice-skating",
+    "trans": [
+      "滑冰"
+    ]
+  },
+  {
+    "name": "tennis",
+    "trans": [
+      "网球"
+    ]
+  },
+  {
+    "name": "golf",
+    "trans": [
+      "高尔夫球"
+    ]
+  },
+  {
+    "name": "badminton",
+    "trans": [
+      "羽毛球"
+    ]
+  },
+  {
+    "name": "rowing",
+    "trans": [
+      "划船"
+    ]
+  },
+  {
+    "name": "volleyball",
+    "trans": [
+      "排球"
+    ]
+  },
+  {
+    "name": "basketball",
+    "trans": [
+      "篮球"
+    ]
+  },
+  {
+    "name": "table tennis",
+    "trans": [
+      "兵乓球"
+    ]
+  },
+  {
+    "name": "squash",
+    "trans": [
+      "壁球"
+    ]
+  },
+  {
+    "name": "jogging",
+    "trans": [
+      "慢跑"
+    ]
+  },
+  {
+    "name": "motel / hotel",
+    "trans": [
+      "（汽车）酒店"
+    ]
+  },
+  {
+    "name": "B&B / bed and breakfast",
+    "trans": [
+      "早餐旅店"
+    ]
+  },
+  {
+    "name": "Sea View Restaurant",
+    "trans": [
+      "海景餐馆"
+    ]
+  },
+  {
+    "name": "cottage / cabin / lodge",
+    "trans": [
+      "小屋"
+    ]
+  },
+  {
+    "name": "hostel",
+    "trans": [
+      "招待所"
+    ]
+  },
+  {
+    "name": "inn",
+    "trans": [
+      "小酒店"
+    ]
+  },
+  {
+    "name": "hut",
+    "trans": [
+      "小屋"
+    ]
+  },
+  {
+    "name": "Mandarin",
+    "trans": [
+      "普通话"
+    ]
+  },
+  {
+    "name": "Cantonese",
+    "trans": [
+      "粤语"
+    ]
+  },
+  {
+    "name": "Public Transportation",
+    "trans": [
+      "公共交通"
+    ]
+  },
+  {
+    "name": "traffic",
+    "trans": [
+      "交通"
+    ]
+  },
+  {
+    "name": "traffic jam",
+    "trans": [
+      "交通堵塞"
+    ]
+  },
+  {
+    "name": "ride bicycle",
+    "trans": [
+      "骑车"
+    ]
+  },
+  {
+    "name": "(mini)bus",
+    "trans": [
+      "（小）巴士"
+    ]
+  },
+  {
+    "name": "boat / ship",
+    "trans": [
+      "船"
+    ]
+  },
+  {
+    "name": "plane / aircraft",
+    "trans": [
+      "飞机，飞行器"
+    ]
+  },
+  {
+    "name": "craft",
+    "trans": [
+      "工艺品，船舶"
+    ]
+  },
+  {
+    "name": "subway / underground / tube / Metro",
+    "trans": [
+      "地铁"
+    ]
+  },
+  {
+    "name": "railway station",
+    "trans": [
+      "火车站"
+    ]
+  },
+  {
+    "name": "commuter",
+    "trans": [
+      "乘公共车辆上下班者"
+    ]
+  },
+  {
+    "name": "coach",
+    "trans": [
+      "长途客车"
+    ]
+  },
+  {
+    "name": "ferry",
+    "trans": [
+      "轮渡",
+      "渡船"
+    ]
+  },
+  {
+    "name": "caravan",
+    "trans": [
+      "大篷车"
+    ]
+  },
+  {
+    "name": "tram",
+    "trans": [
+      "有轨电车"
+    ]
+  },
+  {
+    "name": "river cruise",
+    "trans": [
+      "游艇游览",
+      "巡游"
+    ]
+  },
+  {
+    "name": "helicopter",
+    "trans": [
+      "直升飞机"
+    ]
+  },
+  {
+    "name": "submarine",
+    "trans": [
+      "潜艇"
+    ]
+  },
+  {
+    "name": "4-Wheel-Drive",
+    "trans": [
+      "四驱车"
+    ]
+  },
+  {
+    "name": "van",
+    "trans": [
+      "中巴"
+    ]
+  },
+  {
+    "name": "shuttle bus",
+    "trans": [
+      "班车"
+    ]
+  },
+  {
+    "name": "airport limousine",
+    "trans": [
+      "机场大巴"
+    ]
+  },
+  {
+    "name": "berth",
+    "trans": [
+      "铺位（火车上）"
+    ]
+  },
+  {
+    "name": "pullman / sleeping-car",
+    "trans": [
+      "卧铺车"
+    ]
+  },
+  {
+    "name": "cab / taxi",
+    "trans": [
+      "计程车"
+    ]
+  },
+  {
+    "name": "express",
+    "trans": [
+      "快车"
+    ]
+  },
+  {
+    "name": "Central Station",
+    "trans": [
+      "中心车站"
+    ]
+  },
+  {
+    "name": "stop watch",
+    "trans": [
+      "停车灯"
+    ]
+  },
+  {
+    "name": "casual clothes",
+    "trans": [
+      "休闲服"
+    ]
+  },
+  {
+    "name": "sportswear",
+    "trans": [
+      "运动服"
+    ]
+  },
+  {
+    "name": "jacket",
+    "trans": [
+      "夹克"
+    ]
+  },
+  {
+    "name": "hat",
+    "trans": [
+      "帽子"
+    ]
+  },
+  {
+    "name": "bathing suit / swimming costume",
+    "trans": [
+      "泳衣"
+    ]
+  },
+  {
+    "name": "watch",
+    "trans": [
+      "手表"
+    ]
+  },
+  {
+    "name": "sweater",
+    "trans": [
+      "毛衣"
+    ]
+  },
+  {
+    "name": "raincoat",
+    "trans": [
+      "雨衣"
+    ]
+  },
+  {
+    "name": "trousers / long pants",
+    "trans": [
+      "裤子"
+    ]
+  },
+  {
+    "name": "jeans",
+    "trans": [
+      "牛仔裤"
+    ]
+  },
+  {
+    "name": "shoes",
+    "trans": [
+      "鞋子"
+    ]
+  },
+  {
+    "name": "boots",
+    "trans": [
+      "靴子"
+    ]
+  },
+  {
+    "name": "(fancy) dress",
+    "trans": [
+      "（高档的）连衣裙"
+    ]
+  },
+  {
+    "name": "socks / stockings",
+    "trans": [
+      "短（长）袜"
+    ]
+  },
+  {
+    "name": "shirt",
+    "trans": [
+      "衬衫"
+    ]
+  },
+  {
+    "name": "skirt",
+    "trans": [
+      "短裙"
+    ]
+  },
+  {
+    "name": "coat",
+    "trans": [
+      "外套"
+    ]
+  },
+  {
+    "name": "suit",
+    "trans": [
+      "西装"
+    ]
+  },
+  {
+    "name": "tie",
+    "trans": [
+      "领带"
+    ]
+  },
+  {
+    "name": "necklace",
+    "trans": [
+      "项链"
+    ]
+  },
+  {
+    "name": "trunks",
+    "trans": [
+      "泳裤"
+    ]
+  },
+  {
+    "name": "scarf",
+    "trans": [
+      "围巾"
+    ]
+  },
+  {
+    "name": "pullover",
+    "trans": [
+      "套衫"
+    ]
+  },
+  {
+    "name": "jumper",
+    "trans": [
+      "上衣"
+    ]
+  },
+  {
+    "name": "underwear",
+    "trans": [
+      "内衣"
+    ]
+  },
+  {
+    "name": "pajamas",
+    "trans": [
+      "睡衣"
+    ]
+  },
+  {
+    "name": "sandals",
+    "trans": [
+      "凉鞋"
+    ]
+  },
+  {
+    "name": "slippers",
+    "trans": [
+      "拖鞋"
+    ]
+  },
+  {
+    "name": "sneakers",
+    "trans": [
+      "运动鞋"
+    ]
+  },
+  {
+    "name": "sunglasses",
+    "trans": [
+      "太阳镜"
+    ]
+  },
+  {
+    "name": "mosquito net",
+    "trans": [
+      "蚊帐"
+    ]
+  },
+  {
+    "name": "(micro)film",
+    "trans": [
+      "（缩微）胶片"
+    ]
+  },
+  {
+    "name": "telescope / binoculars",
+    "trans": [
+      "(双筒)望远镜"
+    ]
+  },
+  {
+    "name": "First Aid kit",
+    "trans": [
+      "急救箱"
+    ]
+  },
+  {
+    "name": "torch / flashlight",
+    "trans": [
+      "手电筒"
+    ]
+  },
+  {
+    "name": "sunbed",
+    "trans": [
+      "日光浴床"
+    ]
+  },
+  {
+    "name": "sleeping bag",
+    "trans": [
+      "睡袋"
+    ]
+  },
+  {
+    "name": "backpack",
+    "trans": [
+      "双肩背包"
+    ]
+  },
+  {
+    "name": "tent",
+    "trans": [
+      "帐篷"
+    ]
+  },
+  {
+    "name": "compass",
+    "trans": [
+      "指南针"
+    ]
+  },
+  {
+    "name": "insect repellent",
+    "trans": [
+      "驱虫剂"
+    ]
+  },
+  {
+    "name": "sun cream / suntan lotion / sun block",
+    "trans": [
+      "防晒霜"
+    ]
+  },
+  {
+    "name": "camera",
+    "trans": [
+      "照相机"
+    ]
+  },
+  {
+    "name": "battery",
+    "trans": [
+      "电池"
+    ]
+  },
+  {
+    "name": "stinger",
+    "trans": [
+      "带刺的东西"
+    ]
+  },
+  {
+    "name": "sunburnt",
+    "trans": [
+      "太阳晒伤的"
+    ]
+  },
+  {
+    "name": "Activities",
+    "trans": [
+      "活动"
+    ]
+  },
+  {
+    "name": "picnic",
+    "trans": [
+      "野餐"
+    ]
+  },
+  {
+    "name": "barbecue",
+    "trans": [
+      "烧烤"
+    ]
+  },
+  {
+    "name": "karaoke",
+    "trans": [
+      "卡拉 OK"
+    ]
+  },
+  {
+    "name": "chess",
+    "trans": [
+      "象棋"
+    ]
+  },
+  {
+    "name": "jigsaw puzzle",
+    "trans": [
+      "七巧板"
+    ]
+  },
+  {
+    "name": "rover",
+    "trans": [
+      "漫游者"
+    ]
+  },
+  {
+    "name": "music(al) instrument",
+    "trans": [
+      "乐器"
+    ]
+  },
+  {
+    "name": "jazz",
+    "trans": [
+      "爵士乐"
+    ]
+  },
+  {
+    "name": "classical",
+    "trans": [
+      "古典音乐"
+    ]
+  },
+  {
+    "name": "disco",
+    "trans": [
+      "迪斯科"
+    ]
+  },
+  {
+    "name": "drama",
+    "trans": [
+      "戏剧"
+    ]
+  },
+  {
+    "name": "magic(ian)",
+    "trans": [
+      "魔术（师）"
+    ]
+  },
+  {
+    "name": "comedy",
+    "trans": [
+      "喜剧"
+    ]
+  },
+  {
+    "name": "animated cartoons",
+    "trans": [
+      "动画片"
+    ]
+  },
+  {
+    "name": "tragedy",
+    "trans": [
+      "悲剧"
+    ]
+  },
+  {
+    "name": "romance",
+    "trans": [
+      "浪漫故事片"
+    ]
+  },
+  {
+    "name": "science fiction",
+    "trans": [
+      "科幻"
+    ]
+  },
+  {
+    "name": "rock",
+    "trans": [
+      "摇滚乐",
+      "岩石"
+    ]
+  },
+  {
+    "name": "blues",
+    "trans": [
+      "蓝调"
+    ]
+  },
+  {
+    "name": "hip-hop",
+    "trans": [
+      "街舞"
+    ]
+  },
+  {
+    "name": "folk music",
+    "trans": [
+      "民间音乐"
+    ]
+  },
+  {
+    "name": "guitar",
+    "trans": [
+      "吉他"
+    ]
+  },
+  {
+    "name": "piano",
+    "trans": [
+      "钢琴"
+    ]
+  },
+  {
+    "name": "violin",
+    "trans": [
+      "小提琴"
+    ]
+  },
+  {
+    "name": "saxophone",
+    "trans": [
+      "萨克斯管"
+    ]
+  },
+  {
+    "name": "flute",
+    "trans": [
+      "笛子"
+    ]
+  },
+  {
+    "name": "electric keyboard",
+    "trans": [
+      "电子琴"
+    ]
+  },
+  {
+    "name": "mime",
+    "trans": [
+      "哑剧"
+    ]
+  },
+  {
+    "name": "art festival",
+    "trans": [
+      "艺术节"
+    ]
+  },
+  {
+    "name": "performance",
+    "trans": [
+      "演出，表现"
+    ]
+  },
+  {
+    "name": "main stage",
+    "trans": [
+      "大舞台"
+    ]
+  },
+  {
+    "name": "fringe stage",
+    "trans": [
+      "边缘舞台"
+    ]
+  },
+  {
+    "name": "audience",
+    "trans": [
+      "观众"
+    ]
+  },
+  {
+    "name": "solo",
+    "trans": [
+      "独奏"
+    ]
+  },
+  {
+    "name": "band",
+    "trans": [
+      "乐队，阶段"
+    ]
+  },
+  {
+    "name": "sculpture",
+    "trans": [
+      "雕塑"
+    ]
+  },
+  {
+    "name": "pottery / porcelain / china / ceramics / crockery",
+    "trans": [
+      "陶器"
+    ]
+  },
+  {
+    "name": "drummer",
+    "trans": [
+      "鼓手"
+    ]
+  },
+  {
+    "name": "portrait",
+    "trans": [
+      "人物肖像"
+    ]
+  },
+  {
+    "name": "ballet",
+    "trans": [
+      "芭蕾舞"
+    ]
+  },
+  {
+    "name": "mask",
+    "trans": [
+      "面具"
+    ]
+  },
+  {
+    "name": "spotlight",
+    "trans": [
+      "聚光灯"
+    ]
+  },
+  {
+    "name": "conductor",
+    "trans": [
+      "指挥"
+    ]
+  },
+  {
+    "name": "mall",
+    "trans": [
+      "购物中心"
+    ]
+  },
+  {
+    "name": "purchase",
+    "trans": [
+      "购买"
+    ]
+  },
+  {
+    "name": "customer",
+    "trans": [
+      "顾客"
+    ]
+  },
+  {
+    "name": "annual fee",
+    "trans": [
+      "年费"
+    ]
+  },
+  {
+    "name": "budget",
+    "trans": [
+      "预算"
+    ]
+  },
+  {
+    "name": "subscription",
+    "trans": [
+      "订阅"
+    ]
+  },
+  {
+    "name": "retail",
+    "trans": [
+      "零售"
+    ]
+  },
+  {
+    "name": "wholesale",
+    "trans": [
+      "批发"
+    ]
+  },
+  {
+    "name": "bargain",
+    "trans": [
+      "讨价还价"
+    ]
+  },
+  {
+    "name": "discount / concession",
+    "trans": [
+      "折扣"
+    ]
+  },
+  {
+    "name": "rebate",
+    "trans": [
+      "回扣"
+    ]
+  },
+  {
+    "name": "receipt",
+    "trans": [
+      "收据"
+    ]
+  },
+  {
+    "name": "invoice",
+    "trans": [
+      "发票"
+    ]
+  },
+  {
+    "name": "price tag",
+    "trans": [
+      "价格标签"
+    ]
+  },
+  {
+    "name": "label",
+    "trans": [
+      "标签"
+    ]
+  },
+  {
+    "name": "sale price",
+    "trans": [
+      "促销价"
+    ]
+  },
+  {
+    "name": "article",
+    "trans": [
+      "物品，文章"
+    ]
+  },
+  {
+    "name": "item",
+    "trans": [
+      "项目，物品"
+    ]
+  },
+  {
+    "name": "display",
+    "trans": [
+      "展示，陈列"
+    ]
+  },
+  {
+    "name": "window-shopping",
+    "trans": [
+      "逛商店"
+    ]
+  },
+  {
+    "name": "convenience store",
+    "trans": [
+      "便利店"
+    ]
+  },
+  {
+    "name": "boutique",
+    "trans": [
+      "精品店"
+    ]
+  },
+  {
+    "name": "grocery",
+    "trans": [
+      "杂货店"
+    ]
+  },
+  {
+    "name": "grocer",
+    "trans": [
+      "食品杂货店"
+    ]
+  },
+  {
+    "name": "green grocer",
+    "trans": [
+      "蔬菜店"
+    ]
+  },
+  {
+    "name": "newsagent's / paper shop",
+    "trans": [
+      "报亭"
+    ]
+  },
+  {
+    "name": "checklist",
+    "trans": [
+      "清单"
+    ]
+  },
+  {
+    "name": "booklist",
+    "trans": [
+      "书单，推荐书目"
+    ]
+  },
+  {
+    "name": "worksheet",
+    "trans": [
+      "工作单，备忘录"
+    ]
+  },
+  {
+    "name": "cotton",
+    "trans": [
+      "棉花"
+    ]
+  },
+  {
+    "name": "nylon",
+    "trans": [
+      "尼龙"
+    ]
+  },
+  {
+    "name": "wool",
+    "trans": [
+      "羊毛"
+    ]
+  },
+  {
+    "name": "velvet",
+    "trans": [
+      "天鹅绒"
+    ]
+  },
+  {
+    "name": "silk",
+    "trans": [
+      "丝绸"
+    ]
+  },
+  {
+    "name": "rubber",
+    "trans": [
+      "橡胶，橡皮"
+    ]
+  },
+  {
+    "name": "timber",
+    "trans": [
+      "木材"
+    ]
+  },
+  {
+    "name": "grain pattern of timber",
+    "trans": [
+      "木材的天然纹理"
+    ]
+  },
+  {
+    "name": "model",
+    "trans": [
+      "款式，模型"
+    ]
+  },
+  {
+    "name": "stripe",
+    "trans": [
+      "条纹"
+    ]
+  },
+  {
+    "name": "pattern",
+    "trans": [
+      "图案，方式"
+    ]
+  },
+  {
+    "name": "texture",
+    "trans": [
+      "质地，手感",
+      "质地"
+    ]
+  },
+  {
+    "name": "size",
+    "trans": [
+      "型号",
+      "形状"
+    ]
+  },
+  {
+    "name": "small / medium / large",
+    "trans": [
+      "小（中、大）码"
+    ]
+  },
+  {
+    "name": "average",
+    "trans": [
+      "均码的",
+      "平均"
+    ]
+  },
+  {
+    "name": "demand",
+    "trans": [
+      "需求"
+    ]
+  },
+  {
+    "name": "supply",
+    "trans": [
+      "供给"
+    ]
+  },
+  {
+    "name": "must / maybe / never buys",
+    "trans": [
+      "必购（可购、非购）"
+    ]
+  },
+  {
+    "name": "sample",
+    "trans": [
+      "样品"
+    ]
+  },
+  {
+    "name": "household electrical appliances",
+    "trans": [
+      "家用电器"
+    ]
+  },
+  {
+    "name": "parcel / pack / package",
+    "trans": [
+      "包裹"
+    ]
+  },
+  {
+    "name": "cosmetics",
+    "trans": [
+      "化妆品"
+    ]
+  },
+  {
+    "name": "souvenir",
+    "trans": [
+      "纪念品"
+    ]
+  },
+  {
+    "name": "daily necessity",
+    "trans": [
+      "日用品"
+    ]
+  },
+  {
+    "name": "perfume",
+    "trans": [
+      "香水"
+    ]
+  },
+  {
+    "name": "stationery",
+    "trans": [
+      "文具"
+    ]
+  },
+  {
+    "name": "ink",
+    "trans": [
+      "墨水"
+    ]
+  },
+  {
+    "name": "paper clip",
+    "trans": [
+      "回形针"
+    ]
+  },
+  {
+    "name": "balloon",
+    "trans": [
+      "气球"
+    ]
+  },
+  {
+    "name": "string",
+    "trans": [
+      "细绳，粗线"
+    ]
+  },
+  {
+    "name": "bottle tops",
+    "trans": [
+      "瓶盖"
+    ]
+  },
+  {
+    "name": "metal work",
+    "trans": [
+      "金属制品"
+    ]
+  },
+  {
+    "name": "frame",
+    "trans": [
+      "画框"
+    ]
+  },
+  {
+    "name": "leather / hide",
+    "trans": [
+      "皮革"
+    ]
+  },
+  {
+    "name": "raw material",
+    "trans": [
+      "原材料"
+    ]
+  },
+  {
+    "name": "tool",
+    "trans": [
+      "用具"
+    ]
+  },
+  {
+    "name": "motor",
+    "trans": [
+      "发动机，摩托车"
+    ]
+  },
+  {
+    "name": "component",
+    "trans": [
+      "部件，元件"
+    ]
+  },
+  {
+    "name": "rear wheels",
+    "trans": [
+      "后轮"
+    ]
+  },
+  {
+    "name": "engine",
+    "trans": [
+      "引擎"
+    ]
+  },
+  {
+    "name": "brake",
+    "trans": [
+      "刹车"
+    ]
+  },
+  {
+    "name": "bunch",
+    "trans": [
+      "束"
+    ]
+  },
+  {
+    "name": "wheel chair",
+    "trans": [
+      "轮椅"
+    ]
+  },
+  {
+    "name": "container",
+    "trans": [
+      "容器"
+    ]
+  },
+  {
+    "name": "crystal",
+    "trans": [
+      "水晶，晶体",
+      "水晶"
+    ]
+  },
+  {
+    "name": "grill",
+    "trans": [
+      "格板"
+    ]
+  },
+  {
+    "name": "heat indicator",
+    "trans": [
+      "温度计"
+    ]
+  },
+  {
+    "name": "chewing gum",
+    "trans": [
+      "口香糖"
+    ]
+  },
+  {
+    "name": "mat",
+    "trans": [
+      "垫子"
+    ]
+  },
+  {
+    "name": "nail",
+    "trans": [
+      "钉子"
+    ]
+  },
+  {
+    "name": "lid",
+    "trans": [
+      "盖子"
+    ]
+  },
+  {
+    "name": "charter flight",
+    "trans": [
+      "包机"
+    ]
+  },
+  {
+    "name": "handicraft",
+    "trans": [
+      "工艺品"
+    ]
+  },
+  {
+    "name": "baby cot",
+    "trans": [
+      "婴儿车"
+    ]
+  },
+  {
+    "name": "iron",
+    "trans": [
+      "电熨斗"
+    ]
+  },
+  {
+    "name": "fabrics",
+    "trans": [
+      "棉织品"
+    ]
+  },
+  {
+    "name": "helmet",
+    "trans": [
+      "头盔"
+    ]
+  },
+  {
+    "name": "awful",
+    "trans": [
+      "糟糕的"
+    ]
+  },
+  {
+    "name": "smelly",
+    "trans": [
+      "有气味的"
+    ]
+  },
+  {
+    "name": "moderate",
+    "trans": [
+      "中等的"
+    ]
+  },
+  {
+    "name": "efficient",
+    "trans": [
+      "有效率的"
+    ]
+  },
+  {
+    "name": "rare",
+    "trans": [
+      "稀少的"
+    ]
+  },
+  {
+    "name": "second-hand",
+    "trans": [
+      "二手的"
+    ]
+  },
+  {
+    "name": "essential",
+    "trans": [
+      "必要的"
+    ]
+  },
+  {
+    "name": "precious",
+    "trans": [
+      "珍贵的"
+    ]
+  },
+  {
+    "name": "fashionable",
+    "trans": [
+      "时髦的"
+    ]
+  },
+  {
+    "name": "satisfactory",
+    "trans": [
+      "满意的"
+    ]
+  },
+  {
+    "name": "dangerous",
+    "trans": [
+      "危险的"
+    ]
+  },
+  {
+    "name": "sharp",
+    "trans": [
+      "锋利的"
+    ]
+  },
+  {
+    "name": "proper",
+    "trans": [
+      "合适的"
+    ]
+  },
+  {
+    "name": "smooth",
+    "trans": [
+      "平滑的"
+    ]
+  },
+  {
+    "name": "soft",
+    "trans": [
+      "柔软的"
+    ]
+  },
+  {
+    "name": "negative",
+    "trans": [
+      "负面的"
+    ]
+  },
+  {
+    "name": "expensive / costly / dear",
+    "trans": [
+      "昂贵的"
+    ]
+  },
+  {
+    "name": "attractive",
+    "trans": [
+      "吸引人的"
+    ]
+  },
+  {
+    "name": "effective",
+    "trans": [
+      "有效的"
+    ]
+  },
+  {
+    "name": "conservative",
+    "trans": [
+      "保守的"
+    ]
+  },
+  {
+    "name": "artificial",
+    "trans": [
+      "人造的"
+    ]
+  },
+  {
+    "name": "wealthy",
+    "trans": [
+      "富有的"
+    ]
+  },
+  {
+    "name": "favourite",
+    "trans": [
+      "特别受人喜欢的"
+    ]
+  },
+  {
+    "name": "reasonable",
+    "trans": [
+      "合理的，适度的"
+    ]
+  },
+  {
+    "name": "comfortable",
+    "trans": [
+      "舒适的"
+    ]
+  },
+  {
+    "name": "complex",
+    "trans": [
+      "复杂的"
+    ]
+  },
+  {
+    "name": "relevant",
+    "trans": [
+      "相关的"
+    ]
+  },
+  {
+    "name": "man-made",
+    "trans": [
+      "人造的"
+    ]
+  },
+  {
+    "name": "chemical",
+    "trans": [
+      "化学的，化学制品"
+    ]
+  },
+  {
+    "name": "reliable",
+    "trans": [
+      "可靠的"
+    ]
+  },
+  {
+    "name": "cheap / inexpensive",
+    "trans": [
+      "便宜的"
+    ]
+  },
+  {
+    "name": "distinctive",
+    "trans": [
+      "有特色的"
+    ]
+  },
+  {
+    "name": "masterpiece",
+    "trans": [
+      "杰作"
+    ]
+  },
+  {
+    "name": "realistic",
+    "trans": [
+      "实际的"
+    ]
+  },
+  {
+    "name": "useful",
+    "trans": [
+      "有用的"
+    ]
+  },
+  {
+    "name": "valuable",
+    "trans": [
+      "贵重的"
+    ]
+  },
+  {
+    "name": "solid",
+    "trans": [
+      "结实的",
+      "壮实的"
+    ]
+  },
+  {
+    "name": "transparent",
+    "trans": [
+      "透明的"
+    ]
+  },
+  {
+    "name": "versatile function",
+    "trans": [
+      "多种功能"
+    ]
+  },
+  {
+    "name": "labour-saving",
+    "trans": [
+      "省力的"
+    ]
+  },
+  {
+    "name": "helpful",
+    "trans": [
+      "有用的"
+    ]
+  },
+  {
+    "name": "well-fitting",
+    "trans": [
+      "合身的"
+    ]
+  },
+  {
+    "name": "old-fashioned",
+    "trans": [
+      "过时的"
+    ]
+  },
+  {
+    "name": "a range of",
+    "trans": [
+      "许多的，大量的"
+    ]
+  },
+  {
+    "name": "sophisticated",
+    "trans": [
+      "复杂的"
+    ]
+  },
+  {
+    "name": "magnificent",
+    "trans": [
+      "华丽的"
+    ]
+  },
+  {
+    "name": "exotic",
+    "trans": [
+      "奇异的"
+    ]
+  },
+  {
+    "name": "stunning",
+    "trans": [
+      "极好的"
+    ]
+  },
+  {
+    "name": "state-of-the-art",
+    "trans": [
+      "最先进的"
+    ]
+  },
+  {
+    "name": "score",
+    "trans": [
+      "计分，划线，划痕"
+    ]
+  },
+  {
+    "name": "Restaurant",
+    "trans": [
+      "餐馆"
+    ]
+  },
+  {
+    "name": "waiter / waitress",
+    "trans": [
+      "男（女）服务员"
+    ]
+  },
+  {
+    "name": "Café / cafeteria",
+    "trans": [
+      "小餐馆"
+    ]
+  },
+  {
+    "name": "snack bar",
+    "trans": [
+      "小吃店"
+    ]
+  },
+  {
+    "name": "catering service",
+    "trans": [
+      "餐饮服务"
+    ]
+  },
+  {
+    "name": "Canteen / Refectory",
+    "trans": [
+      "食堂"
+    ]
+  },
+  {
+    "name": "Dining Room / Hall",
+    "trans": [
+      "餐厅"
+    ]
+  },
+  {
+    "name": "take-away restaurant",
+    "trans": [
+      "外卖餐馆"
+    ]
+  },
+  {
+    "name": "take away",
+    "trans": [
+      "外卖"
+    ]
+  },
+  {
+    "name": "buffet",
+    "trans": [
+      "小卖部，自助餐"
+    ]
+  },
+  {
+    "name": "vending machine",
+    "trans": [
+      "自动售货机"
+    ]
+  },
+  {
+    "name": "drive-in",
+    "trans": [
+      "免下车路边餐厅"
+    ]
+  },
+  {
+    "name": "menu",
+    "trans": [
+      "菜单"
+    ]
+  },
+  {
+    "name": "cup",
+    "trans": [
+      "杯"
+    ]
+  },
+  {
+    "name": "tip",
+    "trans": [
+      "指点，小费，尖端"
+    ]
+  },
+  {
+    "name": "Food",
+    "trans": [
+      "食物"
+    ]
+  },
+  {
+    "name": "starter",
+    "trans": [
+      "启动，第一道菜"
+    ]
+  },
+  {
+    "name": "balanced diet",
+    "trans": [
+      "均衡的饮食"
+    ]
+  },
+  {
+    "name": "salad",
+    "trans": [
+      "色拉"
+    ]
+  },
+  {
+    "name": "chocolate",
+    "trans": [
+      "巧克力"
+    ]
+  },
+  {
+    "name": "seafood",
+    "trans": [
+      "海鲜"
+    ]
+  },
+  {
+    "name": "herring",
+    "trans": [
+      "鲱鱼"
+    ]
+  },
+  {
+    "name": "lemonade",
+    "trans": [
+      "柠檬汁"
+    ]
+  },
+  {
+    "name": "lean meat",
+    "trans": [
+      "瘦肉"
+    ]
+  },
+  {
+    "name": "cheese",
+    "trans": [
+      "奶酪"
+    ]
+  },
+  {
+    "name": "cake",
+    "trans": [
+      "蛋糕"
+    ]
+  },
+  {
+    "name": "hamburger",
+    "trans": [
+      "汉堡包"
+    ]
+  },
+  {
+    "name": "sandwich",
+    "trans": [
+      "三明治"
+    ]
+  },
+  {
+    "name": "juice",
+    "trans": [
+      "果汁"
+    ]
+  },
+  {
+    "name": "mineral water",
+    "trans": [
+      "矿泉水"
+    ]
+  },
+  {
+    "name": "nut",
+    "trans": [
+      "坚果"
+    ]
+  },
+  {
+    "name": "rice",
+    "trans": [
+      "米饭"
+    ]
+  },
+  {
+    "name": "lentil",
+    "trans": [
+      "扁豆",
+      "小扁豆，兵豆"
+    ]
+  },
+  {
+    "name": "curry",
+    "trans": [
+      "咖喱"
+    ]
+  },
+  {
+    "name": "olive oil",
+    "trans": [
+      "橄榄油"
+    ]
+  },
+  {
+    "name": "chicken",
+    "trans": [
+      "鸡肉"
+    ]
+  },
+  {
+    "name": "honey",
+    "trans": [
+      "蜂蜜"
+    ]
+  },
+  {
+    "name": "cigar",
+    "trans": [
+      "雪茄"
+    ]
+  },
+  {
+    "name": "beef",
+    "trans": [
+      "牛肉"
+    ]
+  },
+  {
+    "name": "lamb",
+    "trans": [
+      "羊肉",
+      "小羊羔"
+    ]
+  },
+  {
+    "name": "pork",
+    "trans": [
+      "猪肉"
+    ]
+  },
+  {
+    "name": "noodle",
+    "trans": [
+      "面条"
+    ]
+  },
+  {
+    "name": "bread",
+    "trans": [
+      "面包"
+    ]
+  },
+  {
+    "name": "pizza",
+    "trans": [
+      "比萨饼"
+    ]
+  },
+  {
+    "name": "French fries",
+    "trans": [
+      "炸薯条"
+    ]
+  },
+  {
+    "name": "chips",
+    "trans": [
+      "薯条"
+    ]
+  },
+  {
+    "name": "hot dog",
+    "trans": [
+      "热狗"
+    ]
+  },
+  {
+    "name": "egg roll",
+    "trans": [
+      "蛋卷"
+    ]
+  },
+  {
+    "name": "butter",
+    "trans": [
+      "黄油"
+    ]
+  },
+  {
+    "name": "jam",
+    "trans": [
+      "果酱"
+    ]
+  },
+  {
+    "name": "bacon",
+    "trans": [
+      "熏肉"
+    ]
+  },
+  {
+    "name": "steak",
+    "trans": [
+      "牛排"
+    ]
+  },
+  {
+    "name": "ham",
+    "trans": [
+      "火腿"
+    ]
+  },
+  {
+    "name": "sausage",
+    "trans": [
+      "香肠"
+    ]
+  },
+  {
+    "name": "turkey",
+    "trans": [
+      "火鸡"
+    ]
+  },
+  {
+    "name": "crab",
+    "trans": [
+      "螃蟹"
+    ]
+  },
+  {
+    "name": "shrimp",
+    "trans": [
+      "虾"
+    ]
+  },
+  {
+    "name": "oyster",
+    "trans": [
+      "牡蛎"
+    ]
+  },
+  {
+    "name": "carrot",
+    "trans": [
+      "胡萝卜"
+    ]
+  },
+  {
+    "name": "chili",
+    "trans": [
+      "红辣椒"
+    ]
+  },
+  {
+    "name": "cucumber",
+    "trans": [
+      "黄瓜"
+    ]
+  },
+  {
+    "name": "mushroom",
+    "trans": [
+      "蘑菇"
+    ]
+  },
+  {
+    "name": "sweet potato",
+    "trans": [
+      "番薯"
+    ]
+  },
+  {
+    "name": "onion",
+    "trans": [
+      "洋葱"
+    ]
+  },
+  {
+    "name": "broccoli",
+    "trans": [
+      "西蓝花"
+    ]
+  },
+  {
+    "name": "cabbage",
+    "trans": [
+      "卷心菜"
+    ]
+  },
+  {
+    "name": "cauliflower",
+    "trans": [
+      "花椰菜"
+    ]
+  },
+  {
+    "name": "celery",
+    "trans": [
+      "芹菜"
+    ]
+  },
+  {
+    "name": "corn",
+    "trans": [
+      "玉米"
+    ]
+  },
+  {
+    "name": "garlic",
+    "trans": [
+      "大蒜",
+      "蒜"
+    ]
+  },
+  {
+    "name": "lettuce",
+    "trans": [
+      "生菜",
+      "莴苣，生菜"
+    ]
+  },
+  {
+    "name": "peas",
+    "trans": [
+      "豌豆"
+    ]
+  },
+  {
+    "name": "spinach",
+    "trans": [
+      "菠菜"
+    ]
+  },
+  {
+    "name": "mulberry",
+    "trans": [
+      "桑树"
+    ]
+  },
+  {
+    "name": "yam",
+    "trans": [
+      "山药，红薯"
+    ]
+  },
+  {
+    "name": "champagne",
+    "trans": [
+      "香槟"
+    ]
+  },
+  {
+    "name": "cocktail",
+    "trans": [
+      "鸡尾酒"
+    ]
+  },
+  {
+    "name": "Alcohol addict",
+    "trans": [
+      "喝酒上瘾的人"
+    ]
+  },
+  {
+    "name": "cereal / grain",
+    "trans": [
+      "谷物"
+    ]
+  },
+  {
+    "name": "nutrition",
+    "trans": [
+      "营养"
+    ]
+  },
+  {
+    "name": "sugar",
+    "trans": [
+      "白糖"
+    ]
+  },
+  {
+    "name": "vitamin",
+    "trans": [
+      "维生素"
+    ]
+  },
+  {
+    "name": "carbonhydrate",
+    "trans": [
+      "碳水化合物"
+    ]
+  },
+  {
+    "name": "calorie",
+    "trans": [
+      "卡路里"
+    ]
+  },
+  {
+    "name": "protein",
+    "trans": [
+      "蛋白质"
+    ]
+  },
+  {
+    "name": "cholesterol",
+    "trans": [
+      "胆固醇"
+    ]
+  },
+  {
+    "name": "roast",
+    "trans": [
+      "烤"
+    ]
+  },
+  {
+    "name": "plum",
+    "trans": [
+      "李子"
+    ]
+  },
+  {
+    "name": "pudding",
+    "trans": [
+      "布丁"
+    ]
+  },
+  {
+    "name": "pie",
+    "trans": [
+      "馅饼"
+    ]
+  },
+  {
+    "name": "dessert",
+    "trans": [
+      "甜点"
+    ]
+  },
+  {
+    "name": "arrow",
+    "trans": [
+      "箭头"
+    ]
+  },
+  {
+    "name": "sign",
+    "trans": [
+      "指示语",
+      "地震前兆"
+    ]
+  },
+  {
+    "name": "opposite",
+    "trans": [
+      "相对"
+    ]
+  },
+  {
+    "name": "intersection / crossroad / junction",
+    "trans": [
+      "十字路口"
+    ]
+  },
+  {
+    "name": "T-road",
+    "trans": [
+      "丁字路口"
+    ]
+  },
+  {
+    "name": "fork road",
+    "trans": [
+      "分叉路口"
+    ]
+  },
+  {
+    "name": "path",
+    "trans": [
+      "小路"
+    ]
+  },
+  {
+    "name": "pedestrian / zebra crossing",
+    "trans": [
+      "斑马线"
+    ]
+  },
+  {
+    "name": "pavement / sidewalk",
+    "trans": [
+      "人行道"
+    ]
+  },
+  {
+    "name": "overpass",
+    "trans": [
+      "过街天桥"
+    ]
+  },
+  {
+    "name": "underpass",
+    "trans": [
+      "地下通道"
+    ]
+  },
+  {
+    "name": "block",
+    "trans": [
+      "街区"
+    ]
+  },
+  {
+    "name": "signpost",
+    "trans": [
+      "路标"
+    ]
+  },
+  {
+    "name": "Disease",
+    "trans": [
+      "疾病"
+    ]
+  },
+  {
+    "name": "Yellow fever",
+    "trans": [
+      "黄热病"
+    ]
+  },
+  {
+    "name": "epidemic",
+    "trans": [
+      "流行病"
+    ]
+  },
+  {
+    "name": "chronic",
+    "trans": [
+      "慢性的"
+    ]
+  },
+  {
+    "name": "acute",
+    "trans": [
+      "急性的"
+    ]
+  },
+  {
+    "name": "toothache",
+    "trans": [
+      "牙疼"
+    ]
+  },
+  {
+    "name": "backache",
+    "trans": [
+      "背疼"
+    ]
+  },
+  {
+    "name": "headache",
+    "trans": [
+      "头疼"
+    ]
+  },
+  {
+    "name": "back pain",
+    "trans": [
+      "（背疼）"
+    ]
+  },
+  {
+    "name": "stomachache",
+    "trans": [
+      "胃疼"
+    ]
+  },
+  {
+    "name": "sore throat",
+    "trans": [
+      "喉咙痛"
+    ]
+  },
+  {
+    "name": "heart disease",
+    "trans": [
+      "心脏病"
+    ]
+  },
+  {
+    "name": "flu / influenza",
+    "trans": [
+      "流感"
+    ]
+  },
+  {
+    "name": "cold",
+    "trans": [
+      "感冒"
+    ]
+  },
+  {
+    "name": "fever",
+    "trans": [
+      "发烧"
+    ]
+  },
+  {
+    "name": "asthma",
+    "trans": [
+      "哮喘"
+    ]
+  },
+  {
+    "name": "pneumonia",
+    "trans": [
+      "肺炎"
+    ]
+  },
+  {
+    "name": "liver trouble",
+    "trans": [
+      "肝炎"
+    ]
+  },
+  {
+    "name": "arthritis",
+    "trans": [
+      "关节炎"
+    ]
+  },
+  {
+    "name": "diabetes",
+    "trans": [
+      "糖尿病"
+    ]
+  },
+  {
+    "name": "diarrhea",
+    "trans": [
+      "腹泻"
+    ]
+  },
+  {
+    "name": "Cholera",
+    "trans": [
+      "霍乱"
+    ]
+  },
+  {
+    "name": "leprosy",
+    "trans": [
+      "麻风病"
+    ]
+  },
+  {
+    "name": "Symptom / Syndrome",
+    "trans": [
+      "症状"
+    ]
+  },
+  {
+    "name": "allergy",
+    "trans": [
+      "过敏"
+    ]
+  },
+  {
+    "name": "cough",
+    "trans": [
+      "咳嗽"
+    ]
+  },
+  {
+    "name": "runny / stuffy nose",
+    "trans": [
+      "流鼻涕（鼻塞）"
+    ]
+  },
+  {
+    "name": "infection",
+    "trans": [
+      "感染"
+    ]
+  },
+  {
+    "name": "insomnia",
+    "trans": [
+      "失眠"
+    ]
+  },
+  {
+    "name": "vomit / throw up",
+    "trans": [
+      "呕吐"
+    ]
+  },
+  {
+    "name": "feel chilly",
+    "trans": [
+      "感觉冷"
+    ]
+  },
+  {
+    "name": "ulcer",
+    "trans": [
+      "溃疡"
+    ]
+  },
+  {
+    "name": "depression",
+    "trans": [
+      "忧郁、沮丧",
+      "抑郁"
+    ]
+  },
+  {
+    "name": "stress",
+    "trans": [
+      "紧张"
+    ]
+  },
+  {
+    "name": "drowsiness",
+    "trans": [
+      "困倦"
+    ]
+  },
+  {
+    "name": "fatigue",
+    "trans": [
+      "疲劳"
+    ]
+  },
+  {
+    "name": "lump",
+    "trans": [
+      "肿块"
+    ]
+  },
+  {
+    "name": "indigestion",
+    "trans": [
+      "消化不良"
+    ]
+  },
+  {
+    "name": "sprain / twisted",
+    "trans": [
+      "扭伤"
+    ]
+  },
+  {
+    "name": "elbow",
+    "trans": [
+      "肘部"
+    ]
+  },
+  {
+    "name": "dislocation",
+    "trans": [
+      "脱臼"
+    ]
+  },
+  {
+    "name": "flat Foot",
+    "trans": [
+      "扁平足"
+    ]
+  },
+  {
+    "name": "fracture",
+    "trans": [
+      "骨折"
+    ]
+  },
+  {
+    "name": "wry neck",
+    "trans": [
+      "颈部僵硬"
+    ]
+  },
+  {
+    "name": "dizzy",
+    "trans": [
+      "眩晕"
+    ]
+  },
+  {
+    "name": "stiff neck",
+    "trans": [
+      "脖子发僵"
+    ]
+  },
+  {
+    "name": "obesity",
+    "trans": [
+      "肥胖"
+    ]
+  },
+  {
+    "name": "cramps",
+    "trans": [
+      "抽筋"
+    ]
+  },
+  {
+    "name": "bruise",
+    "trans": [
+      "瘀伤"
+    ]
+  },
+  {
+    "name": "baldness",
+    "trans": [
+      "秃顶"
+    ]
+  },
+  {
+    "name": "pregnant",
+    "trans": [
+      "怀孕"
+    ]
+  },
+  {
+    "name": "Drug / Medication / Medicine",
+    "trans": [
+      "药物"
+    ]
+  },
+  {
+    "name": "check",
+    "trans": [
+      "医生检查"
+    ]
+  },
+  {
+    "name": "prescribe",
+    "trans": [
+      "开药"
+    ]
+  },
+  {
+    "name": "instructions",
+    "trans": [
+      "注意事项"
+    ]
+  },
+  {
+    "name": "dosage / intake",
+    "trans": [
+      "剂量"
+    ]
+  },
+  {
+    "name": "antibiotics",
+    "trans": [
+      "抗生素"
+    ]
+  },
+  {
+    "name": "side effect",
+    "trans": [
+      "副作用"
+    ]
+  },
+  {
+    "name": "painkiller",
+    "trans": [
+      "镇痛剂"
+    ]
+  },
+  {
+    "name": "sleeping pills",
+    "trans": [
+      "安眠药"
+    ]
+  },
+  {
+    "name": "pill",
+    "trans": [
+      "药丸"
+    ]
+  },
+  {
+    "name": "tablet",
+    "trans": [
+      "药片"
+    ]
+  },
+  {
+    "name": "capsule",
+    "trans": [
+      "胶囊"
+    ]
+  },
+  {
+    "name": "ointment",
+    "trans": [
+      "药膏"
+    ]
+  },
+  {
+    "name": "mixture",
+    "trans": [
+      "合剂"
+    ]
+  },
+  {
+    "name": "eye drops",
+    "trans": [
+      "眼药水"
+    ]
+  },
+  {
+    "name": "syrup",
+    "trans": [
+      "糖浆"
+    ]
+  },
+  {
+    "name": "pad",
+    "trans": [
+      "药棉块"
+    ]
+  },
+  {
+    "name": "X-ray X",
+    "trans": [
+      "光"
+    ]
+  },
+  {
+    "name": "aspirin",
+    "trans": [
+      "阿司匹林"
+    ]
+  },
+  {
+    "name": "antibiotic",
+    "trans": [
+      "抗生素"
+    ]
+  },
+  {
+    "name": "penicillin",
+    "trans": [
+      "青霉素"
+    ]
+  },
+  {
+    "name": "cold cure",
+    "trans": [
+      "感冒药"
+    ]
+  },
+  {
+    "name": "ambulance",
+    "trans": [
+      "救护车"
+    ]
+  },
+  {
+    "name": "solution",
+    "trans": [
+      "解答"
+    ]
+  },
+  {
+    "name": "pharmacy / chemist's / drug store",
+    "trans": [
+      "药店"
+    ]
+  },
+  {
+    "name": "Treatment / Therapy",
+    "trans": [
+      "治疗，疗法"
+    ]
+  },
+  {
+    "name": "acupuncture",
+    "trans": [
+      "针灸"
+    ]
+  },
+  {
+    "name": "vein",
+    "trans": [
+      "静脉"
+    ]
+  },
+  {
+    "name": "injection",
+    "trans": [
+      "注射"
+    ]
+  },
+  {
+    "name": "thermometer",
+    "trans": [
+      "体温计"
+    ]
+  },
+  {
+    "name": "needle",
+    "trans": [
+      "针头"
+    ]
+  },
+  {
+    "name": "ward",
+    "trans": [
+      "病房"
+    ]
+  },
+  {
+    "name": "bandage",
+    "trans": [
+      "绷带"
+    ]
+  },
+  {
+    "name": "operation",
+    "trans": [
+      "手术"
+    ]
+  },
+  {
+    "name": "case history",
+    "trans": [
+      "病历"
+    ]
+  },
+  {
+    "name": "metabolism",
+    "trans": [
+      "新陈代谢"
+    ]
+  },
+  {
+    "name": "ligament",
+    "trans": [
+      "韧带"
+    ]
+  },
+  {
+    "name": "heel",
+    "trans": [
+      "足跟"
+    ]
+  },
+  {
+    "name": "cell",
+    "trans": [
+      "细胞"
+    ]
+  },
+  {
+    "name": "bacteria",
+    "trans": [
+      "细菌"
+    ]
+  },
+  {
+    "name": "Healthcare",
+    "trans": [
+      "健康保健"
+    ]
+  },
+  {
+    "name": "occupational factors",
+    "trans": [
+      "职业的原因"
+    ]
+  },
+  {
+    "name": "working irregular hours",
+    "trans": [
+      "工作时间不规律"
+    ]
+  },
+  {
+    "name": "sports injury",
+    "trans": [
+      "运动受伤"
+    ]
+  },
+  {
+    "name": "ignorance of their body",
+    "trans": [
+      "对身体的忽视"
+    ]
+  },
+  {
+    "name": "life expectancy",
+    "trans": [
+      "预期寿命"
+    ]
+  },
+  {
+    "name": "internal clock disorder",
+    "trans": [
+      "生物钟紊乱"
+    ]
+  },
+  {
+    "name": "unsocial hours",
+    "trans": [
+      "社交时间"
+    ]
+  },
+  {
+    "name": "family problems",
+    "trans": [
+      "家庭问题"
+    ]
+  },
+  {
+    "name": "high pressure",
+    "trans": [
+      "家庭的压力"
+    ]
+  },
+  {
+    "name": "unhealthy lifestyle",
+    "trans": [
+      "不良生活习惯"
+    ]
+  },
+  {
+    "name": "stress management",
+    "trans": [
+      "压力管理"
+    ]
+  },
+  {
+    "name": "hectic",
+    "trans": [
+      "节奏快"
+    ]
+  },
+  {
+    "name": "anxious",
+    "trans": [
+      "焦虑"
+    ]
+  },
+  {
+    "name": "depressed",
+    "trans": [
+      "抑郁"
+    ]
+  },
+  {
+    "name": "Clinic",
+    "trans": [
+      "诊所"
+    ]
+  },
+  {
+    "name": "dentist",
+    "trans": [
+      "牙医"
+    ]
+  },
+  {
+    "name": "Practice",
+    "trans": [
+      "私人诊所"
+    ]
+  },
+  {
+    "name": "General practitioner",
+    "trans": [
+      "全科执业医师"
+    ]
+  },
+  {
+    "name": "surgeon",
+    "trans": [
+      "外科医生"
+    ]
+  },
+  {
+    "name": "physician",
+    "trans": [
+      "内科医生"
+    ]
+  },
+  {
+    "name": "vet / veterinary",
+    "trans": [
+      "兽医"
+    ]
+  },
+  {
+    "name": "oculist / eye doctor",
+    "trans": [
+      "眼科医生"
+    ]
+  },
+  {
+    "name": "check-up",
+    "trans": [
+      "检查"
+    ]
+  },
+  {
+    "name": "diagnosis",
+    "trans": [
+      "诊断"
+    ]
+  },
+  {
+    "name": "prescription / prescribe",
+    "trans": [
+      "处方"
+    ]
+  },
+  {
+    "name": "virus",
+    "trans": [
+      "病毒"
+    ]
+  },
+  {
+    "name": "consultation",
+    "trans": [
+      "检查"
+    ]
+  },
+  {
+    "name": "eyesight",
+    "trans": [
+      "视力"
+    ]
+  },
+  {
+    "name": "Clinic Area",
+    "trans": [
+      "日间门诊"
+    ]
+  },
+  {
+    "name": "Out-patient Department",
+    "trans": [
+      "门诊部"
+    ]
+  },
+  {
+    "name": "OPD Laboratory",
+    "trans": [
+      "门诊检验"
+    ]
+  },
+  {
+    "name": "Outpatient Injection",
+    "trans": [
+      "门诊注射室"
+    ]
+  },
+  {
+    "name": "Consulting Room",
+    "trans": [
+      "诊室"
+    ]
+  },
+  {
+    "name": "bury",
+    "trans": [
+      "埋葬"
+    ]
+  },
+  {
+    "name": "nightmare",
+    "trans": [
+      "噩梦"
+    ]
+  },
+  {
+    "name": "disabled",
+    "trans": [
+      "残疾的"
+    ]
+  },
+  {
+    "name": "Bank",
+    "trans": [
+      "银行"
+    ]
+  },
+  {
+    "name": "currency",
+    "trans": [
+      "货币"
+    ]
+  },
+  {
+    "name": "fund",
+    "trans": [
+      "基金"
+    ]
+  },
+  {
+    "name": "Dollar",
+    "trans": [
+      "美元"
+    ]
+  },
+  {
+    "name": "Pound",
+    "trans": [
+      "英镑",
+      "磅"
+    ]
+  },
+  {
+    "name": "Yen",
+    "trans": [
+      "日元"
+    ]
+  },
+  {
+    "name": "Euro",
+    "trans": [
+      "欧元"
+    ]
+  },
+  {
+    "name": "Penny / pence",
+    "trans": [
+      "便士"
+    ]
+  },
+  {
+    "name": "Cent",
+    "trans": [
+      "美分"
+    ]
+  },
+  {
+    "name": "coin",
+    "trans": [
+      "硬币"
+    ]
+  },
+  {
+    "name": "nickel",
+    "trans": [
+      "（美、加）的五分硬币",
+      "镍"
+    ]
+  },
+  {
+    "name": "dime",
+    "trans": [
+      "（美、加）的十分硬币"
+    ]
+  },
+  {
+    "name": "unit",
+    "trans": [
+      "货币单位"
+    ]
+  },
+  {
+    "name": "value / worth",
+    "trans": [
+      "面值"
+    ]
+  },
+  {
+    "name": "denomination=face value",
+    "trans": [
+      "面额"
+    ]
+  },
+  {
+    "name": "four in hundred",
+    "trans": [
+      "四张一百元面额"
+    ]
+  },
+  {
+    "name": "give the money in fives",
+    "trans": [
+      "换成五元面额"
+    ]
+  },
+  {
+    "name": "change",
+    "trans": [
+      "零钱"
+    ]
+  },
+  {
+    "name": "cash",
+    "trans": [
+      "现金"
+    ]
+  },
+  {
+    "name": "credit card",
+    "trans": [
+      "信用卡",
+      "信用卡（"
+    ]
+  },
+  {
+    "name": "overdraw / overdraft",
+    "trans": [
+      "透支"
+    ]
+  },
+  {
+    "name": "password / code",
+    "trans": [
+      "密码"
+    ]
+  },
+  {
+    "name": "money order",
+    "trans": [
+      "汇票"
+    ]
+  },
+  {
+    "name": "check / cheque",
+    "trans": [
+      "支票"
+    ]
+  },
+  {
+    "name": "bill",
+    "trans": [
+      "钞票，账单"
+    ]
+  },
+  {
+    "name": "order check / cheque",
+    "trans": [
+      "记名支票"
+    ]
+  },
+  {
+    "name": "rubber check / cheque",
+    "trans": [
+      "空头支票"
+    ]
+  },
+  {
+    "name": "blank check / cheque",
+    "trans": [
+      "空白支票"
+    ]
+  },
+  {
+    "name": "bank book / pass book",
+    "trans": [
+      "存折"
+    ]
+  },
+  {
+    "name": "open an account",
+    "trans": [
+      "开户"
+    ]
+  },
+  {
+    "name": "joint account",
+    "trans": [
+      "联名帐户"
+    ]
+  },
+  {
+    "name": "current account",
+    "trans": [
+      "活期存款帐户"
+    ]
+  },
+  {
+    "name": "check / cheque account",
+    "trans": [
+      "支票帐户"
+    ]
+  },
+  {
+    "name": "deposit account",
+    "trans": [
+      "定期存款帐户"
+    ]
+  },
+  {
+    "name": "expense account",
+    "trans": [
+      "公款支付帐户"
+    ]
+  },
+  {
+    "name": "instant account",
+    "trans": [
+      "速成户头"
+    ]
+  },
+  {
+    "name": "service charge",
+    "trans": [
+      "服务费/手续费"
+    ]
+  },
+  {
+    "name": "teller",
+    "trans": [
+      "银行职员"
+    ]
+  },
+  {
+    "name": "statement",
+    "trans": [
+      "对帐单，陈述"
+    ]
+  },
+  {
+    "name": "apply for / grant a loan",
+    "trans": [
+      "申请/批准贷款"
+    ]
+  },
+  {
+    "name": "cooperation loan",
+    "trans": [
+      "筹资"
+    ]
+  },
+  {
+    "name": "commercial / merchant bank",
+    "trans": [
+      "商业银行"
+    ]
+  },
+  {
+    "name": "full refund",
+    "trans": [
+      "全额偿还，退款"
+    ]
+  },
+  {
+    "name": "draw / withdraw",
+    "trans": [
+      "提款"
+    ]
+  },
+  {
+    "name": "earn interest",
+    "trans": [
+      "赚取利息"
+    ]
+  },
+  {
+    "name": "interest rate",
+    "trans": [
+      "利率"
+    ]
+  },
+  {
+    "name": "exchange rate",
+    "trans": [
+      "汇率"
+    ]
+  },
+  {
+    "name": "amount in figures",
+    "trans": [
+      "小写金额"
+    ]
+  },
+  {
+    "name": "amount in words",
+    "trans": [
+      "大写金额"
+    ]
+  },
+  {
+    "name": "the balance of your bank account",
+    "trans": [
+      "帐户余额"
+    ]
+  },
+  {
+    "name": "A.T.M (automatic teller machine) / cash point machine",
+    "trans": [
+      "自动取款机"
+    ]
+  },
+  {
+    "name": "breakdown",
+    "trans": [
+      "损坏 (act up)"
+    ]
+  },
+  {
+    "name": "mortgage",
+    "trans": [
+      "抵押"
+    ]
+  },
+  {
+    "name": "payday",
+    "trans": [
+      "发薪日"
+    ]
+  },
+  {
+    "name": "pay slip / envelop",
+    "trans": [
+      "薪水单"
+    ]
+  },
+  {
+    "name": "by installment",
+    "trans": [
+      "分期付款"
+    ]
+  },
+  {
+    "name": "debt",
+    "trans": [
+      "债务"
+    ]
+  },
+  {
+    "name": "collateral",
+    "trans": [
+      "担保物"
+    ]
+  },
+  {
+    "name": "fill out / in",
+    "trans": [
+      "填写"
+    ]
+  },
+  {
+    "name": "Appearance",
+    "trans": [
+      "外貌"
+    ]
+  },
+  {
+    "name": "dyed hair",
+    "trans": [
+      "染发"
+    ]
+  },
+  {
+    "name": "blond(e) / golden / fair hair",
+    "trans": [
+      "金发"
+    ]
+  },
+  {
+    "name": "grey hair",
+    "trans": [
+      "白发"
+    ]
+  },
+  {
+    "name": "brown",
+    "trans": [
+      "棕色的"
+    ]
+  },
+  {
+    "name": "pigtail / ponytail",
+    "trans": [
+      "辫子"
+    ]
+  },
+  {
+    "name": "parting",
+    "trans": [
+      "分缝"
+    ]
+  },
+  {
+    "name": "bun",
+    "trans": [
+      "发髻"
+    ]
+  },
+  {
+    "name": "hair pin",
+    "trans": [
+      "发簪"
+    ]
+  },
+  {
+    "name": "pink",
+    "trans": [
+      "粉色的"
+    ]
+  },
+  {
+    "name": "chin",
+    "trans": [
+      "下巴"
+    ]
+  },
+  {
+    "name": "scar",
+    "trans": [
+      "疤痕"
+    ]
+  },
+  {
+    "name": "red cheeks",
+    "trans": [
+      "红润的脸颊"
+    ]
+  },
+  {
+    "name": "beard / moustache",
+    "trans": [
+      "胡子"
+    ]
+  },
+  {
+    "name": "clean-shaven",
+    "trans": [
+      "刮过脸的"
+    ]
+  },
+  {
+    "name": "wrinkle",
+    "trans": [
+      "皱纹"
+    ]
+  },
+  {
+    "name": "freckle",
+    "trans": [
+      "雀斑"
+    ]
+  },
+  {
+    "name": "pimple",
+    "trans": [
+      "粉刺"
+    ]
+  },
+  {
+    "name": "dimple",
+    "trans": [
+      "酒窝"
+    ]
+  },
+  {
+    "name": "vision",
+    "trans": [
+      "视力"
+    ]
+  },
+  {
+    "name": "funny",
+    "trans": [
+      "有趣的"
+    ]
+  },
+  {
+    "name": "intelligent",
+    "trans": [
+      "聪明的"
+    ]
+  },
+  {
+    "name": "confident",
+    "trans": [
+      "有信心的"
+    ]
+  },
+  {
+    "name": "mature",
+    "trans": [
+      "成熟的"
+    ]
+  },
+  {
+    "name": "elderly / old / senior",
+    "trans": [
+      "年老的，资深的"
+    ]
+  },
+  {
+    "name": "personality",
+    "trans": [
+      "个性，性格"
+    ]
+  },
+  {
+    "name": "weakness",
+    "trans": [
+      "虚弱"
+    ]
+  },
+  {
+    "name": "slim",
+    "trans": [
+      "苗条的"
+    ]
+  },
+  {
+    "name": "well-built",
+    "trans": [
+      "健壮的"
+    ]
+  },
+  {
+    "name": "medium-built",
+    "trans": [
+      "中等身材的"
+    ]
+  },
+  {
+    "name": "sturdy",
+    "trans": [
+      "强壮的"
+    ]
+  },
+  {
+    "name": "chubby",
+    "trans": [
+      "圆胖的"
+    ]
+  },
+  {
+    "name": "plump",
+    "trans": [
+      "丰满的"
+    ]
+  },
+  {
+    "name": "overweight",
+    "trans": [
+      "超重的"
+    ]
+  },
+  {
+    "name": "average height",
+    "trans": [
+      "普通身高"
+    ]
+  },
+  {
+    "name": "stout",
+    "trans": [
+      "矮胖的"
+    ]
+  },
+  {
+    "name": "slender",
+    "trans": [
+      "修长的"
+    ]
+  },
+  {
+    "name": "lanky",
+    "trans": [
+      "瘦高的"
+    ]
+  },
+  {
+    "name": "skinny",
+    "trans": [
+      "皮包骨的"
+    ]
+  },
+  {
+    "name": "lean",
+    "trans": [
+      "清瘦的"
+    ]
+  },
+  {
+    "name": "muscular",
+    "trans": [
+      "肌肉发达的"
+    ]
+  },
+  {
+    "name": "robust",
+    "trans": [
+      "精力充沛的"
+    ]
+  },
+  {
+    "name": "earring",
+    "trans": [
+      "耳环"
+    ]
+  },
+  {
+    "name": "bracelet",
+    "trans": [
+      "手镯"
+    ]
+  },
+  {
+    "name": "ring",
+    "trans": [
+      "戒指"
+    ]
+  },
+  {
+    "name": "brooch",
+    "trans": [
+      "胸针"
+    ]
+  },
+  {
+    "name": "resemble",
+    "trans": [
+      "类似于"
+    ]
+  },
+  {
+    "name": "palm",
+    "trans": [
+      "手掌，棕榈叶"
+    ]
+  },
+  {
+    "name": "finger",
+    "trans": [
+      "指头"
+    ]
+  },
+  {
+    "name": "toe",
+    "trans": [
+      "脚趾头"
+    ]
+  },
+  {
+    "name": "chest",
+    "trans": [
+      "胸部"
+    ]
+  },
+  {
+    "name": "orientation talking / tour",
+    "trans": [
+      "情况介绍"
+    ]
+  },
+  {
+    "name": "expectation",
+    "trans": [
+      "期待"
+    ]
+  },
+  {
+    "name": "opening ceremony",
+    "trans": [
+      "开学典礼"
+    ]
+  },
+  {
+    "name": "graduation ceremony",
+    "trans": [
+      "毕业典礼"
+    ]
+  },
+  {
+    "name": "close ceremony / commencement",
+    "trans": [
+      "闭幕式"
+    ]
+  },
+  {
+    "name": "enrollment",
+    "trans": [
+      "注册"
+    ]
+  },
+  {
+    "name": "registration",
+    "trans": [
+      "注册"
+    ]
+  },
+  {
+    "name": "check-in",
+    "trans": [
+      "签到"
+    ]
+  },
+  {
+    "name": "application form",
+    "trans": [
+      "申请表"
+    ]
+  },
+  {
+    "name": "letter of recommendation",
+    "trans": [
+      "推荐信"
+    ]
+  },
+  {
+    "name": "letter of acceptance",
+    "trans": [
+      "录取通知书"
+    ]
+  },
+  {
+    "name": "international student / oversea(s) student",
+    "trans": [
+      "国际/海外学生"
+    ]
+  },
+  {
+    "name": "term / semester / trimester",
+    "trans": [
+      "学期"
+    ]
+  },
+  {
+    "name": "curriculum",
+    "trans": [
+      "课程（表）"
+    ]
+  },
+  {
+    "name": "approval",
+    "trans": [
+      "批准"
+    ]
+  },
+  {
+    "name": "entry requirement",
+    "trans": [
+      "入学要求"
+    ]
+  },
+  {
+    "name": "academic durations",
+    "trans": [
+      "学业年限"
+    ]
+  },
+  {
+    "name": "tuition",
+    "trans": [
+      "学费"
+    ]
+  },
+  {
+    "name": "charge / expense / fee / toll / fare",
+    "trans": [
+      "费用"
+    ]
+  },
+  {
+    "name": "course number",
+    "trans": [
+      "课程代码"
+    ]
+  },
+  {
+    "name": "modular course",
+    "trans": [
+      "模块课程"
+    ]
+  },
+  {
+    "name": "specialised / specialist course",
+    "trans": [
+      "专业课程"
+    ]
+  },
+  {
+    "name": "selective / elective / optional courses",
+    "trans": [
+      "选修课"
+    ]
+  },
+  {
+    "name": "required / compulsory courses",
+    "trans": [
+      "必修课"
+    ]
+  },
+  {
+    "name": "exemption",
+    "trans": [
+      "免修"
+    ]
+  },
+  {
+    "name": "training course",
+    "trans": [
+      "培训课程"
+    ]
+  },
+  {
+    "name": "preparatory course",
+    "trans": [
+      "预科课程"
+    ]
+  },
+  {
+    "name": "professional",
+    "trans": [
+      "专业的"
+    ]
+  },
+  {
+    "name": "vocational",
+    "trans": [
+      "职业的"
+    ]
+  },
+  {
+    "name": "dual major",
+    "trans": [
+      "双专业"
+    ]
+  },
+  {
+    "name": "minor",
+    "trans": [
+      "辅修"
+    ]
+  },
+  {
+    "name": "course arrangement",
+    "trans": [
+      "课程安排"
+    ]
+  },
+  {
+    "name": "timetable",
+    "trans": [
+      "时间表"
+    ]
+  },
+  {
+    "name": "course schedule",
+    "trans": [
+      "课程安排"
+    ]
+  },
+  {
+    "name": "course outline",
+    "trans": [
+      "课程大纲"
+    ]
+  },
+  {
+    "name": "course focus",
+    "trans": [
+      "课程重点"
+    ]
+  },
+  {
+    "name": "teaching material",
+    "trans": [
+      "教材"
+    ]
+  },
+  {
+    "name": "teaching approach",
+    "trans": [
+      "教学方法"
+    ]
+  },
+  {
+    "name": "Arts",
+    "trans": [
+      "文科"
+    ]
+  },
+  {
+    "name": "Humanities",
+    "trans": [
+      "人文学科"
+    ]
+  },
+  {
+    "name": "Social science",
+    "trans": [
+      "社会科学"
+    ]
+  },
+  {
+    "name": "Sciences",
+    "trans": [
+      "理科"
+    ]
+  },
+  {
+    "name": "Engineering course",
+    "trans": [
+      "工科"
+    ]
+  },
+  {
+    "name": "Medical course",
+    "trans": [
+      "医科"
+    ]
+  },
+  {
+    "name": "Agronomy",
+    "trans": [
+      "农学"
+    ]
+  },
+  {
+    "name": "Natural science / physical science",
+    "trans": [
+      "自然科学"
+    ]
+  },
+  {
+    "name": "Economics",
+    "trans": [
+      "经济学"
+    ]
+  },
+  {
+    "name": "Anthropology",
+    "trans": [
+      "人类学"
+    ]
+  },
+  {
+    "name": "Literature",
+    "trans": [
+      "文学",
+      "文献资料"
+    ]
+  },
+  {
+    "name": "Archaeology",
+    "trans": [
+      "考古学"
+    ]
+  },
+  {
+    "name": "Linguistics",
+    "trans": [
+      "语言学"
+    ]
+  },
+  {
+    "name": "Education",
+    "trans": [
+      "教育学"
+    ]
+  },
+  {
+    "name": "Business",
+    "trans": [
+      "商务"
+    ]
+  },
+  {
+    "name": "Banking",
+    "trans": [
+      "银行学"
+    ]
+  },
+  {
+    "name": "Hotel / Hospitality management",
+    "trans": [
+      "酒店管理"
+    ]
+  },
+  {
+    "name": "Chronology",
+    "trans": [
+      "年表，年代学"
+    ]
+  },
+  {
+    "name": "Mathematics / Maths",
+    "trans": [
+      "数学"
+    ]
+  },
+  {
+    "name": "Statistics",
+    "trans": [
+      "统计学"
+    ]
+  },
+  {
+    "name": "Botany",
+    "trans": [
+      "植物学"
+    ]
+  },
+  {
+    "name": "Biochemistry",
+    "trans": [
+      "生物化学"
+    ]
+  },
+  {
+    "name": "Genetics",
+    "trans": [
+      "遗传学"
+    ]
+  },
+  {
+    "name": "Astronomy",
+    "trans": [
+      "天文学"
+    ]
+  },
+  {
+    "name": "Planetology",
+    "trans": [
+      "行星学"
+    ]
+  },
+  {
+    "name": "Geology",
+    "trans": [
+      "地质学"
+    ]
+  },
+  {
+    "name": "Oceanography / thalassography",
+    "trans": [
+      "海洋学"
+    ]
+  },
+  {
+    "name": "Electronics",
+    "trans": [
+      "电子学",
+      "电子，电子元件"
+    ]
+  },
+  {
+    "name": "Architecture",
+    "trans": [
+      "建筑学"
+    ]
+  },
+  {
+    "name": "Psychology",
+    "trans": [
+      "心理学"
+    ]
+  },
+  {
+    "name": "Electronic engineering",
+    "trans": [
+      "电子信息工程"
+    ]
+  },
+  {
+    "name": "Mechanical engineering",
+    "trans": [
+      "机械工程"
+    ]
+  },
+  {
+    "name": "Chemical engineering",
+    "trans": [
+      "化学工程"
+    ]
+  },
+  {
+    "name": "Architecture / architectonics",
+    "trans": [
+      "建筑学"
+    ]
+  },
+  {
+    "name": "Irrigation",
+    "trans": [
+      "水利",
+      "灌溉"
+    ]
+  },
+  {
+    "name": "Mechanics",
+    "trans": [
+      "力学"
+    ]
+  },
+  {
+    "name": "Communication engineering",
+    "trans": [
+      "通信工程"
+    ]
+  },
+  {
+    "name": "Environmental engineering",
+    "trans": [
+      "环境工程"
+    ]
+  },
+  {
+    "name": "Design",
+    "trans": [
+      "设计"
+    ]
+  },
+  {
+    "name": "Engineering",
+    "trans": [
+      "工程学"
+    ]
+  },
+  {
+    "name": "Surgery",
+    "trans": [
+      "外科学"
+    ]
+  },
+  {
+    "name": "Paediatrics",
+    "trans": [
+      "儿科学"
+    ]
+  },
+  {
+    "name": "Nursing",
+    "trans": [
+      "护理专业"
+    ]
+  },
+  {
+    "name": "Physiology",
+    "trans": [
+      "生理学"
+    ]
+  },
+  {
+    "name": "Agriculture",
+    "trans": [
+      "农学",
+      "农业"
+    ]
+  },
+  {
+    "name": "Horticulture",
+    "trans": [
+      "园艺学"
+    ]
+  },
+  {
+    "name": "Forestry",
+    "trans": [
+      "林学"
+    ]
+  },
+  {
+    "name": "Farming",
+    "trans": [
+      "畜牧",
+      "种植"
+    ]
+  },
+  {
+    "name": "Aquiculture",
+    "trans": [
+      "水产养殖"
+    ]
+  },
+  {
+    "name": "level of courses",
+    "trans": [
+      "课程级别"
+    ]
+  },
+  {
+    "name": "intensive reading",
+    "trans": [
+      "精读"
+    ]
+  },
+  {
+    "name": "extensive reading",
+    "trans": [
+      "泛读"
+    ]
+  },
+  {
+    "name": "introductory",
+    "trans": [
+      "预备级的"
+    ]
+  },
+  {
+    "name": "beginner / primary",
+    "trans": [
+      "初级的"
+    ]
+  },
+  {
+    "name": "fundamental",
+    "trans": [
+      "基本原理的"
+    ]
+  },
+  {
+    "name": "elementary",
+    "trans": [
+      "基础的"
+    ]
+  },
+  {
+    "name": "intermediate",
+    "trans": [
+      "中级的"
+    ]
+  },
+  {
+    "name": "secondary",
+    "trans": [
+      "次高级的"
+    ]
+  },
+  {
+    "name": "advanced",
+    "trans": [
+      "高级的"
+    ]
+  },
+  {
+    "name": "expert",
+    "trans": [
+      "专家"
+    ]
+  },
+  {
+    "name": "full-time / part-time student",
+    "trans": [
+      "全日制/业余学生"
+    ]
+  },
+  {
+    "name": "in advance",
+    "trans": [
+      "预先"
+    ]
+  },
+  {
+    "name": "undergraduate",
+    "trans": [
+      "本科生"
+    ]
+  },
+  {
+    "name": "graduate student / postgraduate",
+    "trans": [
+      "研究生"
+    ]
+  },
+  {
+    "name": "Master ofArts / Science",
+    "trans": [
+      "文（理）科硕士"
+    ]
+  },
+  {
+    "name": "Post-doctor",
+    "trans": [
+      "博士后"
+    ]
+  },
+  {
+    "name": "Pre-school education",
+    "trans": [
+      "学前教育"
+    ]
+  },
+  {
+    "name": "Nursery",
+    "trans": [
+      "托儿所"
+    ]
+  },
+  {
+    "name": "Kindergarten",
+    "trans": [
+      "幼儿园"
+    ]
+  },
+  {
+    "name": "Primary education",
+    "trans": [
+      "小学教育"
+    ]
+  },
+  {
+    "name": "pupil",
+    "trans": [
+      "小学生"
+    ]
+  },
+  {
+    "name": "Secondary education",
+    "trans": [
+      "中学教育"
+    ]
+  },
+  {
+    "name": "Tertiary / college education",
+    "trans": [
+      "大学教育"
+    ]
+  },
+  {
+    "name": "institute / school",
+    "trans": [
+      "学院"
+    ]
+  },
+  {
+    "name": "polytechnic school",
+    "trans": [
+      "理工学院"
+    ]
+  },
+  {
+    "name": "Freshman",
+    "trans": [
+      "大一新生"
+    ]
+  },
+  {
+    "name": "Sophomore",
+    "trans": [
+      "大二"
+    ]
+  },
+  {
+    "name": "Junior",
+    "trans": [
+      "大三，年少的"
+    ]
+  },
+  {
+    "name": "Senior",
+    "trans": [
+      "大四"
+    ]
+  },
+  {
+    "name": "alumnus / alumni",
+    "trans": [
+      "校友"
+    ]
+  },
+  {
+    "name": "graduate school",
+    "trans": [
+      "研究生院"
+    ]
+  },
+  {
+    "name": "technical school",
+    "trans": [
+      "技校"
+    ]
+  },
+  {
+    "name": "vocational school",
+    "trans": [
+      "职校"
+    ]
+  },
+  {
+    "name": "assignment / coursework / homework",
+    "trans": [
+      "作业"
+    ]
+  },
+  {
+    "name": "paper / thesis / dissertation",
+    "trans": [
+      "论文"
+    ]
+  },
+  {
+    "name": "essay",
+    "trans": [
+      "小论文"
+    ]
+  },
+  {
+    "name": "project",
+    "trans": [
+      "项目"
+    ]
+  },
+  {
+    "name": "internship / field trip / practice",
+    "trans": [
+      "实习"
+    ]
+  },
+  {
+    "name": "charity",
+    "trans": [
+      "慈善事业"
+    ]
+  },
+  {
+    "name": "speech",
+    "trans": [
+      "演讲"
+    ]
+  },
+  {
+    "name": "lecture",
+    "trans": [
+      "讲座"
+    ]
+  },
+  {
+    "name": "tutorial",
+    "trans": [
+      "辅导课程"
+    ]
+  },
+  {
+    "name": "seminar",
+    "trans": [
+      "研讨会"
+    ]
+  },
+  {
+    "name": "analytical assignment",
+    "trans": [
+      "分析性练习"
+    ]
+  },
+  {
+    "name": "mechanical exercise",
+    "trans": [
+      "机械性练习"
+    ]
+  },
+  {
+    "name": "virtual learning",
+    "trans": [
+      "虚拟学习"
+    ]
+  },
+  {
+    "name": "theoretical study",
+    "trans": [
+      "理论研究"
+    ]
+  },
+  {
+    "name": "presentation",
+    "trans": [
+      "专题报告，(v.)颁布"
+    ]
+  },
+  {
+    "name": "experiment",
+    "trans": [
+      "试验，实验"
+    ]
+  },
+  {
+    "name": "exploration",
+    "trans": [
+      "探险，考察"
+    ]
+  },
+  {
+    "name": "defense",
+    "trans": [
+      "答辩"
+    ]
+  },
+  {
+    "name": "publicity",
+    "trans": [
+      "宣传"
+    ]
+  },
+  {
+    "name": "explanation",
+    "trans": [
+      "解释"
+    ]
+  },
+  {
+    "name": "group discussion",
+    "trans": [
+      "集体讨论"
+    ]
+  },
+  {
+    "name": "venue",
+    "trans": [
+      "聚会地点"
+    ]
+  },
+  {
+    "name": "journal",
+    "trans": [
+      "读书笔记",
+      "杂志，期刊"
+    ]
+  },
+  {
+    "name": "powerpoint / slide",
+    "trans": [
+      "幻灯片"
+    ]
+  },
+  {
+    "name": "layout",
+    "trans": [
+      "布局，排版"
+    ]
+  },
+  {
+    "name": "structure",
+    "trans": [
+      "结构"
+    ]
+  },
+  {
+    "name": "syllabus",
+    "trans": [
+      "大纲"
+    ]
+  },
+  {
+    "name": "profile",
+    "trans": [
+      "简介"
+    ]
+  },
+  {
+    "name": "summary / abstract",
+    "trans": [
+      "摘要，概要"
+    ]
+  },
+  {
+    "name": "section / chapter",
+    "trans": [
+      "章节，部分"
+    ]
+  },
+  {
+    "name": "draft",
+    "trans": [
+      "草稿"
+    ]
+  },
+  {
+    "name": "revise / correction",
+    "trans": [
+      "修改，修正"
+    ]
+  },
+  {
+    "name": "proofreading",
+    "trans": [
+      "校对"
+    ]
+  },
+  {
+    "name": "submit",
+    "trans": [
+      "提交"
+    ]
+  },
+  {
+    "name": "length",
+    "trans": [
+      "（篇幅）长度"
+    ]
+  },
+  {
+    "name": "deadline",
+    "trans": [
+      "最后期限"
+    ]
+  },
+  {
+    "name": "flexible",
+    "trans": [
+      "可变通的，灵活的"
+    ]
+  },
+  {
+    "name": "extension",
+    "trans": [
+      "延期"
+    ]
+  },
+  {
+    "name": "word-processed",
+    "trans": [
+      "文字处理"
+    ]
+  },
+  {
+    "name": "grammar",
+    "trans": [
+      "语法"
+    ]
+  },
+  {
+    "name": "technical terms / vocabulary",
+    "trans": [
+      "科技术语"
+    ]
+  },
+  {
+    "name": "margin",
+    "trans": [
+      "边缘空白"
+    ]
+  },
+  {
+    "name": "assessment / evaluation",
+    "trans": [
+      "评估"
+    ]
+  },
+  {
+    "name": "standard / criterion / criteria",
+    "trans": [
+      "标准"
+    ]
+  },
+  {
+    "name": "dimension",
+    "trans": [
+      "维度，规格"
+    ]
+  },
+  {
+    "name": "attendance / participation",
+    "trans": [
+      "出勤"
+    ]
+  },
+  {
+    "name": "quiz",
+    "trans": [
+      "小测验"
+    ]
+  },
+  {
+    "name": "dictation",
+    "trans": [
+      "听写"
+    ]
+  },
+  {
+    "name": "objective / subjective exam",
+    "trans": [
+      "客（主）观性考试"
+    ]
+  },
+  {
+    "name": "final exam / midterm test",
+    "trans": [
+      "期末（中）考试"
+    ]
+  },
+  {
+    "name": "open / close book / open note exam",
+    "trans": [
+      "开（闭）卷，开笔记考试"
+    ]
+  },
+  {
+    "name": "oral / written test",
+    "trans": [
+      "口（笔）试"
+    ]
+  },
+  {
+    "name": "placement test",
+    "trans": [
+      "分级考试"
+    ]
+  },
+  {
+    "name": "score / mark",
+    "trans": [
+      "成绩"
+    ]
+  },
+  {
+    "name": "credit (point)",
+    "trans": [
+      "学分"
+    ]
+  },
+  {
+    "name": "scholarship",
+    "trans": [
+      "奖学金"
+    ]
+  },
+  {
+    "name": "grant",
+    "trans": [
+      "助学金"
+    ]
+  },
+  {
+    "name": "excellence",
+    "trans": [
+      "优秀"
+    ]
+  },
+  {
+    "name": "distinct",
+    "trans": [
+      "优异"
+    ]
+  },
+  {
+    "name": "merit",
+    "trans": [
+      "良好"
+    ]
+  },
+  {
+    "name": "pass",
+    "trans": [
+      "及格"
+    ]
+  },
+  {
+    "name": "fail",
+    "trans": [
+      "不及格"
+    ]
+  },
+  {
+    "name": "cheating",
+    "trans": [
+      "作弊"
+    ]
+  },
+  {
+    "name": "plagiarism / copy",
+    "trans": [
+      "剽窃"
+    ]
+  },
+  {
+    "name": "resit",
+    "trans": [
+      "重考"
+    ]
+  },
+  {
+    "name": "the expelled / drop out",
+    "trans": [
+      "退学"
+    ]
+  },
+  {
+    "name": "review",
+    "trans": [
+      "回顾"
+    ]
+  },
+  {
+    "name": "handout",
+    "trans": [
+      "讲义，传单"
+    ]
+  },
+  {
+    "name": "investigation / survey",
+    "trans": [
+      "调查研究"
+    ]
+  },
+  {
+    "name": "research approach / methods / methodology",
+    "trans": [
+      "研究方法"
+    ]
+  },
+  {
+    "name": "questionnaire",
+    "trans": [
+      "问卷调查"
+    ]
+  },
+  {
+    "name": "observation",
+    "trans": [
+      "观测"
+    ]
+  },
+  {
+    "name": "telephone survey / face-to-face interviews",
+    "trans": [
+      "访问"
+    ]
+  },
+  {
+    "name": "case study",
+    "trans": [
+      "案例分析"
+    ]
+  },
+  {
+    "name": "poll",
+    "trans": [
+      "民意调查"
+    ]
+  },
+  {
+    "name": "respondents / interviewee",
+    "trans": [
+      "回答者"
+    ]
+  },
+  {
+    "name": "opinion",
+    "trans": [
+      "观点"
+    ]
+  },
+  {
+    "name": "preference",
+    "trans": [
+      "偏好"
+    ]
+  },
+  {
+    "name": "drawbacks",
+    "trans": [
+      "缺点"
+    ]
+  },
+  {
+    "name": "feedback",
+    "trans": [
+      "反馈"
+    ]
+  },
+  {
+    "name": "quantitative",
+    "trans": [
+      "数量的，定量的"
+    ]
+  },
+  {
+    "name": "statistically valid",
+    "trans": [
+      "统计学上有效的"
+    ]
+  },
+  {
+    "name": "datum / data",
+    "trans": [
+      "数据"
+    ]
+  },
+  {
+    "name": "database",
+    "trans": [
+      "数据库"
+    ]
+  },
+  {
+    "name": "analysis",
+    "trans": [
+      "分析"
+    ]
+  },
+  {
+    "name": "interpretation",
+    "trans": [
+      "解释"
+    ]
+  },
+  {
+    "name": "hypothesis",
+    "trans": [
+      "假设"
+    ]
+  },
+  {
+    "name": "instruction",
+    "trans": [
+      "指示"
+    ]
+  },
+  {
+    "name": "theory",
+    "trans": [
+      "理论"
+    ]
+  },
+  {
+    "name": "study aid",
+    "trans": [
+      "教学用具"
+    ]
+  },
+  {
+    "name": "Faculty / Staff",
+    "trans": [
+      "全体教工"
+    ]
+  },
+  {
+    "name": "division / department",
+    "trans": [
+      "系"
+    ]
+  },
+  {
+    "name": "faculty",
+    "trans": [
+      "院系"
+    ]
+  },
+  {
+    "name": "Student Union",
+    "trans": [
+      "学生会(student 后面没有's)"
+    ]
+  },
+  {
+    "name": "council / committee",
+    "trans": [
+      "委员会"
+    ]
+  },
+  {
+    "name": "tutor / advisor / mentor",
+    "trans": [
+      "导师"
+    ]
+  },
+  {
+    "name": "lecturer",
+    "trans": [
+      "讲师"
+    ]
+  },
+  {
+    "name": "associate / vice professor",
+    "trans": [
+      "副教授"
+    ]
+  },
+  {
+    "name": "Director of Studies",
+    "trans": [
+      "教学主管"
+    ]
+  },
+  {
+    "name": "principal / president",
+    "trans": [
+      "校长"
+    ]
+  },
+  {
+    "name": "chancellor",
+    "trans": [
+      "名誉校长"
+    ]
+  },
+  {
+    "name": "headmaster / headmistress",
+    "trans": [
+      "小学校长"
+    ]
+  },
+  {
+    "name": "dean",
+    "trans": [
+      "主任"
+    ]
+  },
+  {
+    "name": "coordinator",
+    "trans": [
+      "协调员"
+    ]
+  },
+  {
+    "name": "counsellor",
+    "trans": [
+      "顾问"
+    ]
+  },
+  {
+    "name": "Teaching Assistant / TA",
+    "trans": [
+      "助教"
+    ]
+  },
+  {
+    "name": "Instructor",
+    "trans": [
+      "指导员"
+    ]
+  },
+  {
+    "name": "School Consultant",
+    "trans": [
+      "老师"
+    ]
+  },
+  {
+    "name": "Campus",
+    "trans": [
+      "校园"
+    ]
+  },
+  {
+    "name": "Reception",
+    "trans": [
+      "接待处"
+    ]
+  },
+  {
+    "name": "Front Desk",
+    "trans": [
+      "前台"
+    ]
+  },
+  {
+    "name": "Main Building / Hall",
+    "trans": [
+      "主楼"
+    ]
+  },
+  {
+    "name": "Lecture Theatre / Hall / Room",
+    "trans": [
+      "阶梯教室"
+    ]
+  },
+  {
+    "name": "Gym / Gymnasium / Keep-fit Studio / Fitness Center / Fitness Room / Workout Room",
+    "trans": [
+      "健身中心"
+    ]
+  },
+  {
+    "name": "Sports Center",
+    "trans": [
+      "运动中心"
+    ]
+  },
+  {
+    "name": "Common Room",
+    "trans": [
+      "公共休息室"
+    ]
+  },
+  {
+    "name": "Conference Room / Centre / hall",
+    "trans": [
+      "会议室"
+    ]
+  },
+  {
+    "name": "Safety Office / Security Post",
+    "trans": [
+      "保卫处"
+    ]
+  },
+  {
+    "name": "Lab / Laboratory",
+    "trans": [
+      "实验室"
+    ]
+  },
+  {
+    "name": "SelfAccess Centre / Room",
+    "trans": [
+      "自学中心"
+    ]
+  },
+  {
+    "name": "Administrating office / administration building",
+    "trans": [
+      "行政办公室"
+    ]
+  },
+  {
+    "name": "Stadium",
+    "trans": [
+      "体育馆"
+    ]
+  },
+  {
+    "name": "Recreation Centre",
+    "trans": [
+      "娱乐中心"
+    ]
+  },
+  {
+    "name": "Teaching building",
+    "trans": [
+      "教学楼"
+    ]
+  },
+  {
+    "name": "Auditorium",
+    "trans": [
+      "会堂"
+    ]
+  },
+  {
+    "name": "football pitch",
+    "trans": [
+      "足球场"
+    ]
+  },
+  {
+    "name": "tennis court",
+    "trans": [
+      "网球场"
+    ]
+  },
+  {
+    "name": "wing / annex",
+    "trans": [
+      "配楼"
+    ]
+  },
+  {
+    "name": "landmark",
+    "trans": [
+      "标志性建筑"
+    ]
+  },
+  {
+    "name": "Audio-Video Centre",
+    "trans": [
+      "视听中心"
+    ]
+  },
+  {
+    "name": "New Student Enrollment",
+    "trans": [
+      "新生报到处"
+    ]
+  },
+  {
+    "name": "drop-in centre",
+    "trans": [
+      "活动中心"
+    ]
+  },
+  {
+    "name": "newsagent's",
+    "trans": [
+      "报刊亭"
+    ]
+  },
+  {
+    "name": "premises",
+    "trans": [
+      "房产，房屋"
+    ]
+  },
+  {
+    "name": "playground",
+    "trans": [
+      "操场"
+    ]
+  },
+  {
+    "name": "surroundings / circumstance",
+    "trans": [
+      "环境"
+    ]
+  },
+  {
+    "name": "lawn",
+    "trans": [
+      "草地"
+    ]
+  },
+  {
+    "name": "parking lot",
+    "trans": [
+      "停车场"
+    ]
+  },
+  {
+    "name": "Head Office",
+    "trans": [
+      "总部"
+    ]
+  },
+  {
+    "name": "projector",
+    "trans": [
+      "幻灯机"
+    ]
+  },
+  {
+    "name": "reel",
+    "trans": [
+      "卷轴"
+    ]
+  },
+  {
+    "name": "stitch",
+    "trans": [
+      "（编织中的）一针"
+    ]
+  },
+  {
+    "name": "vessel",
+    "trans": [
+      "容器"
+    ]
+  },
+  {
+    "name": "fragment",
+    "trans": [
+      "碎片"
+    ]
+  },
+  {
+    "name": "imitation",
+    "trans": [
+      "仿制品"
+    ]
+  },
+  {
+    "name": "flask",
+    "trans": [
+      "瓶子"
+    ]
+  },
+  {
+    "name": "device",
+    "trans": [
+      "装备"
+    ]
+  },
+  {
+    "name": "strip",
+    "trans": [
+      "长条"
+    ]
+  },
+  {
+    "name": "manual",
+    "trans": [
+      "手册，手工的"
+    ]
+  },
+  {
+    "name": "seat belt",
+    "trans": [
+      "安全带"
+    ]
+  },
+  {
+    "name": "contest",
+    "trans": [
+      "竞赛"
+    ]
+  },
+  {
+    "name": "documentary",
+    "trans": [
+      "纪录片"
+    ]
+  },
+  {
+    "name": "cutlery",
+    "trans": [
+      "刀具"
+    ]
+  },
+  {
+    "name": "feature",
+    "trans": [
+      "特征，专题片"
+    ]
+  },
+  {
+    "name": "subtitle",
+    "trans": [
+      "字幕"
+    ]
+  },
+  {
+    "name": "inventory",
+    "trans": [
+      "详细目录"
+    ]
+  },
+  {
+    "name": "internal clock",
+    "trans": [
+      "生物钟"
+    ]
+  },
+  {
+    "name": "technology",
+    "trans": [
+      "科技，工艺"
+    ]
+  },
+  {
+    "name": "distribution",
+    "trans": [
+      "分散，分布"
+    ]
+  },
+  {
+    "name": "energy",
+    "trans": [
+      "能量"
+    ]
+  },
+  {
+    "name": "current",
+    "trans": [
+      "水流，电流"
+    ]
+  },
+  {
+    "name": "image",
+    "trans": [
+      "镜像"
+    ]
+  },
+  {
+    "name": "capacity",
+    "trans": [
+      "容积，容量"
+    ]
+  },
+  {
+    "name": "reverse",
+    "trans": [
+      "反转，推翻"
+    ]
+  },
+  {
+    "name": "isolate",
+    "trans": [
+      "隔离，孤立"
+    ]
+  },
+  {
+    "name": "calculation",
+    "trans": [
+      "计算，推算"
+    ]
+  },
+  {
+    "name": "splash",
+    "trans": [
+      "斑点"
+    ]
+  },
+  {
+    "name": "snap",
+    "trans": [
+      "断裂，拍照"
+    ]
+  },
+  {
+    "name": "vitality",
+    "trans": [
+      "活力，生命力"
+    ]
+  },
+  {
+    "name": "hazard",
+    "trans": [
+      "危险"
+    ]
+  },
+  {
+    "name": "decibel",
+    "trans": [
+      "分贝"
+    ]
+  },
+  {
+    "name": "plaster",
+    "trans": [
+      "石膏"
+    ]
+  },
+  {
+    "name": "perimeter",
+    "trans": [
+      "周边"
+    ]
+  },
+  {
+    "name": "insulation",
+    "trans": [
+      "绝缘"
+    ]
+  },
+  {
+    "name": "definition",
+    "trans": [
+      "定义"
+    ]
+  },
+  {
+    "name": "stuff",
+    "trans": [
+      "填塞物"
+    ]
+  },
+  {
+    "name": "reflectance rate",
+    "trans": [
+      "反光率",
+      "反射率"
+    ]
+  },
+  {
+    "name": "immune",
+    "trans": [
+      "免疫"
+    ]
+  },
+  {
+    "name": "pixel",
+    "trans": [
+      "像素"
+    ]
+  },
+  {
+    "name": "bloom",
+    "trans": [
+      "开花"
+    ]
+  },
+  {
+    "name": "fiber",
+    "trans": [
+      "纤维"
+    ]
+  },
+  {
+    "name": "descend",
+    "trans": [
+      "遗传"
+    ]
+  },
+  {
+    "name": "split",
+    "trans": [
+      "分裂"
+    ]
+  },
+  {
+    "name": "stock",
+    "trans": [
+      "储存"
+    ]
+  },
+  {
+    "name": "divert",
+    "trans": [
+      "转移"
+    ]
+  },
+  {
+    "name": "conjunction",
+    "trans": [
+      "连接，联合"
+    ]
+  },
+  {
+    "name": "vary",
+    "trans": [
+      "变化"
+    ]
+  },
+  {
+    "name": "overlap",
+    "trans": [
+      "部分重叠"
+    ]
+  },
+  {
+    "name": "slang",
+    "trans": [
+      "俚语"
+    ]
+  },
+  {
+    "name": "procedure",
+    "trans": [
+      "过程"
+    ]
+  },
+  {
+    "name": "trace",
+    "trans": [
+      "追踪，描绘"
+    ]
+  },
+  {
+    "name": "concentration",
+    "trans": [
+      "专心，集中"
+    ]
+  },
+  {
+    "name": "intelligence",
+    "trans": [
+      "智力"
+    ]
+  },
+  {
+    "name": "communication",
+    "trans": [
+      "交流"
+    ]
+  },
+  {
+    "name": "rule",
+    "trans": [
+      "规则"
+    ]
+  },
+  {
+    "name": "matching",
+    "trans": [
+      "搭配"
+    ]
+  },
+  {
+    "name": "enthusiasm",
+    "trans": [
+      "热情"
+    ]
+  },
+  {
+    "name": "origin",
+    "trans": [
+      "起点，来源"
+    ]
+  },
+  {
+    "name": "tone",
+    "trans": [
+      "语调，语气，风格"
+    ]
+  },
+  {
+    "name": "demonstrate",
+    "trans": [
+      "说明，演示"
+    ]
+  },
+  {
+    "name": "vacancy",
+    "trans": [
+      "空白，空虚"
+    ]
+  },
+  {
+    "name": "disguise",
+    "trans": [
+      "伪装，装扮"
+    ]
+  },
+  {
+    "name": "attachment",
+    "trans": [
+      "附属物，附着"
+    ]
+  },
+  {
+    "name": "creativity",
+    "trans": [
+      "创造力"
+    ]
+  },
+  {
+    "name": "mission",
+    "trans": [
+      "使命，任务",
+      "任务"
+    ]
+  },
+  {
+    "name": "composition",
+    "trans": [
+      "构成，作品"
+    ]
+  },
+  {
+    "name": "season",
+    "trans": [
+      "变干燥，调味，季节"
+    ]
+  },
+  {
+    "name": "support",
+    "trans": [
+      "支持"
+    ]
+  },
+  {
+    "name": "mistake",
+    "trans": [
+      "错误"
+    ]
+  },
+  {
+    "name": "simulation",
+    "trans": [
+      "模仿，模拟"
+    ]
+  },
+  {
+    "name": "translate",
+    "trans": [
+      "翻译"
+    ]
+  },
+  {
+    "name": "interface",
+    "trans": [
+      "界面"
+    ]
+  },
+  {
+    "name": "involve",
+    "trans": [
+      "参与，牵涉"
+    ]
+  },
+  {
+    "name": "footprint",
+    "trans": [
+      "足迹"
+    ]
+  },
+  {
+    "name": "context",
+    "trans": [
+      "背景，上下文"
+    ]
+  },
+  {
+    "name": "mood",
+    "trans": [
+      "情绪"
+    ]
+  },
+  {
+    "name": "purpose",
+    "trans": [
+      "目标"
+    ]
+  },
+  {
+    "name": "exclusive",
+    "trans": [
+      "专用的，高级的，独家报道"
+    ]
+  },
+  {
+    "name": "participate",
+    "trans": [
+      "参加"
+    ]
+  },
+  {
+    "name": "representative",
+    "trans": [
+      "代表，代表性的"
+    ]
+  },
+  {
+    "name": "describe / description",
+    "trans": [
+      "描述"
+    ]
+  },
+  {
+    "name": "strategy",
+    "trans": [
+      "策略"
+    ]
+  },
+  {
+    "name": "outcome",
+    "trans": [
+      "结果"
+    ]
+  },
+  {
+    "name": "sense",
+    "trans": [
+      "感觉"
+    ]
+  },
+  {
+    "name": "skim",
+    "trans": [
+      "略读，预览"
+    ]
+  },
+  {
+    "name": "ignore",
+    "trans": [
+      "忽略"
+    ]
+  },
+  {
+    "name": "co-orient",
+    "trans": [
+      "再调整"
+    ]
+  },
+  {
+    "name": "convert into",
+    "trans": [
+      "转变，转化"
+    ]
+  },
+  {
+    "name": "issue",
+    "trans": [
+      "问题"
+    ]
+  },
+  {
+    "name": "discipline",
+    "trans": [
+      "纪律"
+    ]
+  },
+  {
+    "name": "cite",
+    "trans": [
+      "引用"
+    ]
+  },
+  {
+    "name": "sort",
+    "trans": [
+      "分类"
+    ]
+  },
+  {
+    "name": "sensation",
+    "trans": [
+      "感觉，轰动"
+    ]
+  },
+  {
+    "name": "verdict",
+    "trans": [
+      "裁定，评估"
+    ]
+  },
+  {
+    "name": "factor",
+    "trans": [
+      "因素"
+    ]
+  },
+  {
+    "name": "pretension",
+    "trans": [
+      "主张，意图"
+    ]
+  },
+  {
+    "name": "prioritize",
+    "trans": [
+      "优先考虑"
+    ]
+  },
+  {
+    "name": "decoy",
+    "trans": [
+      "诱捕"
+    ]
+  },
+  {
+    "name": "trick",
+    "trans": [
+      "哄骗"
+    ]
+  },
+  {
+    "name": "modification",
+    "trans": [
+      "减轻"
+    ]
+  },
+  {
+    "name": "astray",
+    "trans": [
+      "歧途"
+    ]
+  },
+  {
+    "name": "overcome",
+    "trans": [
+      "克服"
+    ]
+  },
+  {
+    "name": "initiative",
+    "trans": [
+      "主动权"
+    ]
+  },
+  {
+    "name": "proportion",
+    "trans": [
+      "比例"
+    ]
+  },
+  {
+    "name": "trail",
+    "trans": [
+      "足迹"
+    ]
+  },
+  {
+    "name": "indicate",
+    "trans": [
+      "暗示"
+    ]
+  },
+  {
+    "name": "exaggerate",
+    "trans": [
+      "夸张"
+    ]
+  },
+  {
+    "name": "seek",
+    "trans": [
+      "寻找"
+    ]
+  },
+  {
+    "name": "branch",
+    "trans": [
+      "分支"
+    ]
+  },
+  {
+    "name": "tension",
+    "trans": [
+      "紧张"
+    ]
+  },
+  {
+    "name": "mental",
+    "trans": [
+      "精神的"
+    ]
+  },
+  {
+    "name": "intact",
+    "trans": [
+      "完整无缺的，未受触动的"
+    ]
+  },
+  {
+    "name": "massive",
+    "trans": [
+      "大量的"
+    ]
+  },
+  {
+    "name": "alternative",
+    "trans": [
+      "供替代的"
+    ]
+  },
+  {
+    "name": "appalling",
+    "trans": [
+      "骇人听闻的"
+    ]
+  },
+  {
+    "name": "damp",
+    "trans": [
+      "潮湿的"
+    ]
+  },
+  {
+    "name": "upwards",
+    "trans": [
+      "向上的"
+    ]
+  },
+  {
+    "name": "shiny",
+    "trans": [
+      "反光的"
+    ]
+  },
+  {
+    "name": "promising",
+    "trans": [
+      "有前途的"
+    ]
+  },
+  {
+    "name": "rival",
+    "trans": [
+      "竞争的"
+    ]
+  },
+  {
+    "name": "permanent",
+    "trans": [
+      "永久的"
+    ]
+  },
+  {
+    "name": "ample",
+    "trans": [
+      "足够的，大量的"
+    ]
+  },
+  {
+    "name": "steady",
+    "trans": [
+      "稳定的"
+    ]
+  },
+  {
+    "name": "vulnerable",
+    "trans": [
+      "脆弱的"
+    ]
+  },
+  {
+    "name": "contentious",
+    "trans": [
+      "有争议的"
+    ]
+  },
+  {
+    "name": "conical",
+    "trans": [
+      "圆锥形的"
+    ]
+  },
+  {
+    "name": "definite",
+    "trans": [
+      "明确的"
+    ]
+  },
+  {
+    "name": "straightforward",
+    "trans": [
+      "简单的，易懂的"
+    ]
+  },
+  {
+    "name": "pale",
+    "trans": [
+      "苍白的，淡的"
+    ]
+  },
+  {
+    "name": "eligible",
+    "trans": [
+      "合适的"
+    ]
+  },
+  {
+    "name": "voluntary",
+    "trans": [
+      "自愿的，义务的"
+    ]
+  },
+  {
+    "name": "optical",
+    "trans": [
+      "视觉的，光学的"
+    ]
+  },
+  {
+    "name": "confidential",
+    "trans": [
+      "机密的"
+    ]
+  },
+  {
+    "name": "dynamic",
+    "trans": [
+      "有活力的，动态的"
+    ]
+  },
+  {
+    "name": "sponsor",
+    "trans": [
+      "赞助"
+    ]
+  },
+  {
+    "name": "drop-out",
+    "trans": [
+      "逃学"
+    ]
+  },
+  {
+    "name": "childcare / childmind / babysit",
+    "trans": [
+      "带人照顾孩子"
+    ]
+  },
+  {
+    "name": "toddler",
+    "trans": [
+      "学走路的小孩"
+    ]
+  },
+  {
+    "name": "niggle",
+    "trans": [
+      "小问题，小岔子"
+    ]
+  },
+  {
+    "name": "prize",
+    "trans": [
+      "奖励"
+    ]
+  },
+  {
+    "name": "award",
+    "trans": [
+      "奖励"
+    ]
+  },
+  {
+    "name": "warn",
+    "trans": [
+      "警告"
+    ]
+  },
+  {
+    "name": "accident",
+    "trans": [
+      "事故"
+    ]
+  },
+  {
+    "name": "barrier",
+    "trans": [
+      "阻碍，关卡"
+    ]
+  },
+  {
+    "name": "leg-room",
+    "trans": [
+      "伸腿的空间"
+    ]
+  },
+  {
+    "name": "backstage",
+    "trans": [
+      "后台"
+    ]
+  },
+  {
+    "name": "glaze",
+    "trans": [
+      "上釉，上光"
+    ]
+  },
+  {
+    "name": "sew",
+    "trans": [
+      "缝"
+    ]
+  },
+  {
+    "name": "decline",
+    "trans": [
+      "减少"
+    ]
+  },
+  {
+    "name": "trap",
+    "trans": [
+      "困住"
+    ]
+  },
+  {
+    "name": "stick",
+    "trans": [
+      "黏贴"
+    ]
+  },
+  {
+    "name": "detach",
+    "trans": [
+      "分开"
+    ]
+  },
+  {
+    "name": "attributable",
+    "trans": [
+      "归因于"
+    ]
+  },
+  {
+    "name": "Library",
+    "trans": [
+      "图书馆"
+    ]
+  },
+  {
+    "name": "variety",
+    "trans": [
+      "品种，多样化"
+    ]
+  },
+  {
+    "name": "category",
+    "trans": [
+      "种类"
+    ]
+  },
+  {
+    "name": "card index",
+    "trans": [
+      "卡片索引"
+    ]
+  },
+  {
+    "name": "pigeon hole sort",
+    "trans": [
+      "鸽笼式分类（归档）"
+    ]
+  },
+  {
+    "name": "stack",
+    "trans": [
+      "书库"
+    ]
+  },
+  {
+    "name": "glossary",
+    "trans": [
+      "词汇表"
+    ]
+  },
+  {
+    "name": "librarianship",
+    "trans": [
+      "图书馆学"
+    ]
+  },
+  {
+    "name": "Dewey Decimal Classification System",
+    "trans": [
+      "杜威十进制分类法则"
+    ]
+  },
+  {
+    "name": "press",
+    "trans": [
+      "出版社"
+    ]
+  },
+  {
+    "name": "videotape",
+    "trans": [
+      "录像带"
+    ]
+  },
+  {
+    "name": "cassette recorder",
+    "trans": [
+      "磁带"
+    ]
+  },
+  {
+    "name": "newspaper",
+    "trans": [
+      "报纸"
+    ]
+  },
+  {
+    "name": "magazine",
+    "trans": [
+      "杂志"
+    ]
+  },
+  {
+    "name": "microform",
+    "trans": [
+      "微缩版"
+    ]
+  },
+  {
+    "name": "publication",
+    "trans": [
+      "出版物"
+    ]
+  },
+  {
+    "name": "classification",
+    "trans": [
+      "分类"
+    ]
+  },
+  {
+    "name": "volume",
+    "trans": [
+      "卷"
+    ]
+  },
+  {
+    "name": "dictionary",
+    "trans": [
+      "字典"
+    ]
+  },
+  {
+    "name": "bound periodical",
+    "trans": [
+      "合订期刊"
+    ]
+  },
+  {
+    "name": "current / back issue",
+    "trans": [
+      "现（过）刊"
+    ]
+  },
+  {
+    "name": "supplementary material",
+    "trans": [
+      "补充材料"
+    ]
+  },
+  {
+    "name": "multimedia materials",
+    "trans": [
+      "多媒体资料"
+    ]
+  },
+  {
+    "name": "reference book",
+    "trans": [
+      "参考书"
+    ]
+  },
+  {
+    "name": "bibliography",
+    "trans": [
+      "参考书目"
+    ]
+  },
+  {
+    "name": "(non-)fiction",
+    "trans": [
+      "（非）小说类"
+    ]
+  },
+  {
+    "name": "prescribed textbooks",
+    "trans": [
+      "指定教材"
+    ]
+  },
+  {
+    "name": "encyclopedia",
+    "trans": [
+      "百科全书"
+    ]
+  },
+  {
+    "name": "Encyclopedia Britannia",
+    "trans": [
+      "大英百科全书"
+    ]
+  },
+  {
+    "name": "atlas",
+    "trans": [
+      "地图册"
+    ]
+  },
+  {
+    "name": "almanac",
+    "trans": [
+      "年鉴"
+    ]
+  },
+  {
+    "name": "content",
+    "trans": [
+      "目录"
+    ]
+  },
+  {
+    "name": "handout / leaflet / pamphlet / booklet / brochure",
+    "trans": [
+      "小册子"
+    ]
+  },
+  {
+    "name": "library / admission card",
+    "trans": [
+      "借书卡"
+    ]
+  },
+  {
+    "name": "call slip",
+    "trans": [
+      "索书单"
+    ]
+  },
+  {
+    "name": "check out",
+    "trans": [
+      "借出"
+    ]
+  },
+  {
+    "name": "renew",
+    "trans": [
+      "续借"
+    ]
+  },
+  {
+    "name": "available",
+    "trans": [
+      "可以借到"
+    ]
+  },
+  {
+    "name": "out on loan",
+    "trans": [
+      "借出的"
+    ]
+  },
+  {
+    "name": "reserve",
+    "trans": [
+      "预借"
+    ]
+  },
+  {
+    "name": "closed reserve",
+    "trans": [
+      "只读不借"
+    ]
+  },
+  {
+    "name": "in circulation",
+    "trans": [
+      "在书库里"
+    ]
+  },
+  {
+    "name": "out of circulation",
+    "trans": [
+      "借走了"
+    ]
+  },
+  {
+    "name": "not for circulation",
+    "trans": [
+      "不外借"
+    ]
+  },
+  {
+    "name": "access to",
+    "trans": [
+      "有权使用"
+    ]
+  },
+  {
+    "name": "overdue",
+    "trans": [
+      "超期"
+    ]
+  },
+  {
+    "name": "deadline / due time / date of expire / date slip",
+    "trans": [
+      "期限"
+    ]
+  },
+  {
+    "name": "loan period",
+    "trans": [
+      "租借期限"
+    ]
+  },
+  {
+    "name": "due(s)",
+    "trans": [
+      "应付费"
+    ]
+  },
+  {
+    "name": "fine",
+    "trans": [
+      "罚款"
+    ]
+  },
+  {
+    "name": "recorder",
+    "trans": [
+      "录音机"
+    ]
+  },
+  {
+    "name": "headphone",
+    "trans": [
+      "头戴式耳机"
+    ]
+  },
+  {
+    "name": "open / closed shelf",
+    "trans": [
+      "开架/闭架借阅"
+    ]
+  },
+  {
+    "name": "magnetize / demagnetize",
+    "trans": [
+      "磁化/消磁"
+    ]
+  },
+  {
+    "name": "Touch Screen",
+    "trans": [
+      "触摸屏"
+    ]
+  },
+  {
+    "name": "Return Area",
+    "trans": [
+      "还书处"
+    ]
+  },
+  {
+    "name": "Information Desk",
+    "trans": [
+      "信息台"
+    ]
+  },
+  {
+    "name": "Delivery / Circulation Desk",
+    "trans": [
+      "借书台"
+    ]
+  },
+  {
+    "name": "opening time / hours",
+    "trans": [
+      "开门（放）时间"
+    ]
+  },
+  {
+    "name": "librarian",
+    "trans": [
+      "图书管理员"
+    ]
+  },
+  {
+    "name": "lock",
+    "trans": [
+      "锁"
+    ]
+  },
+  {
+    "name": "folder",
+    "trans": [
+      "文件夹"
+    ]
+  },
+  {
+    "name": "Forbes",
+    "trans": [
+      "《福布斯》"
+    ]
+  },
+  {
+    "name": "Guardian",
+    "trans": [
+      "《卫报》（英国）"
+    ]
+  },
+  {
+    "name": "Observer",
+    "trans": [
+      "《观察家报》（美国）"
+    ]
+  },
+  {
+    "name": "Independent",
+    "trans": [
+      "《独立报》（英国）",
+      "独立的"
+    ]
+  },
+  {
+    "name": "Times",
+    "trans": [
+      "《泰晤士报》（英国）"
+    ]
+  },
+  {
+    "name": "Sundaytimes",
+    "trans": [
+      "《星期日泰晤士报》"
+    ]
+  },
+  {
+    "name": "laptop / notebook",
+    "trans": [
+      "笔记本"
+    ]
+  },
+  {
+    "name": "screen",
+    "trans": [
+      "屏幕"
+    ]
+  },
+  {
+    "name": "printer",
+    "trans": [
+      "打印机"
+    ]
+  },
+  {
+    "name": "scanner",
+    "trans": [
+      "扫描仪"
+    ]
+  },
+  {
+    "name": "type",
+    "trans": [
+      "打字，类别"
+    ]
+  },
+  {
+    "name": "photocopier / copier",
+    "trans": [
+      "复印机"
+    ]
+  },
+  {
+    "name": "laser printer",
+    "trans": [
+      "激光打印机"
+    ]
+  },
+  {
+    "name": "dot-matrix printer",
+    "trans": [
+      "针式打印机"
+    ]
+  },
+  {
+    "name": "color inject printer",
+    "trans": [
+      "彩色喷墨打印机"
+    ]
+  },
+  {
+    "name": "mainframe",
+    "trans": [
+      "主机"
+    ]
+  },
+  {
+    "name": "monitor",
+    "trans": [
+      "监视器，班长，(v.)监控"
+    ]
+  },
+  {
+    "name": "button",
+    "trans": [
+      "按键"
+    ]
+  },
+  {
+    "name": "keyboard",
+    "trans": [
+      "键盘"
+    ]
+  },
+  {
+    "name": "modem",
+    "trans": [
+      "调制解调器"
+    ]
+  },
+  {
+    "name": "cable",
+    "trans": [
+      "宽带"
+    ]
+  },
+  {
+    "name": "mouse",
+    "trans": [
+      "鼠标"
+    ]
+  },
+  {
+    "name": "hard disk",
+    "trans": [
+      "硬盘"
+    ]
+  },
+  {
+    "name": "floppy disk",
+    "trans": [
+      "软盘"
+    ]
+  },
+  {
+    "name": "disc",
+    "trans": [
+      "光盘（圆形）"
+    ]
+  },
+  {
+    "name": "memory",
+    "trans": [
+      "内存"
+    ]
+  },
+  {
+    "name": "sound card",
+    "trans": [
+      "声卡"
+    ]
+  },
+  {
+    "name": "graphic card",
+    "trans": [
+      "图形卡，显卡"
+    ]
+  },
+  {
+    "name": "loud speaker",
+    "trans": [
+      "扬声器"
+    ]
+  },
+  {
+    "name": "software",
+    "trans": [
+      "软件"
+    ]
+  },
+  {
+    "name": "copyright",
+    "trans": [
+      "版权"
+    ]
+  },
+  {
+    "name": "prospectus",
+    "trans": [
+      "简介"
+    ]
+  },
+  {
+    "name": "website",
+    "trans": [
+      "网页"
+    ]
+  },
+  {
+    "name": "online",
+    "trans": [
+      "联网的"
+    ]
+  },
+  {
+    "name": "Environment",
+    "trans": [
+      "环境"
+    ]
+  },
+  {
+    "name": "ecological balance",
+    "trans": [
+      "生态平衡"
+    ]
+  },
+  {
+    "name": "balance of nature",
+    "trans": [
+      "自然平衡"
+    ]
+  },
+  {
+    "name": "food chain",
+    "trans": [
+      "食物链"
+    ]
+  },
+  {
+    "name": "environmental protection",
+    "trans": [
+      "环境保护"
+    ]
+  },
+  {
+    "name": "environmental pollution",
+    "trans": [
+      "环境污染"
+    ]
+  },
+  {
+    "name": "environmental issue",
+    "trans": [
+      "环境问题"
+    ]
+  },
+  {
+    "name": "greenhouse effect",
+    "trans": [
+      "温室效应"
+    ]
+  },
+  {
+    "name": "global warming",
+    "trans": [
+      "全球变暖"
+    ]
+  },
+  {
+    "name": "meteorology",
+    "trans": [
+      "气象(学)"
+    ]
+  },
+  {
+    "name": "rainfall",
+    "trans": [
+      "降雨"
+    ]
+  },
+  {
+    "name": "ecosystem",
+    "trans": [
+      "生态系统"
+    ]
+  },
+  {
+    "name": "preservation",
+    "trans": [
+      "保护"
+    ]
+  },
+  {
+    "name": "deteriorate",
+    "trans": [
+      "恶化"
+    ]
+  },
+  {
+    "name": "extinction",
+    "trans": [
+      "灭绝"
+    ]
+  },
+  {
+    "name": "contamination",
+    "trans": [
+      "污染"
+    ]
+  },
+  {
+    "name": "pollution index",
+    "trans": [
+      "污染指数"
+    ]
+  },
+  {
+    "name": "pollutant",
+    "trans": [
+      "污染物"
+    ]
+  },
+  {
+    "name": "public awareness campaign",
+    "trans": [
+      "旨在唤起公众觉醒的宣传活动"
+    ]
+  },
+  {
+    "name": "habitat",
+    "trans": [
+      "栖息地"
+    ]
+  },
+  {
+    "name": "firewood",
+    "trans": [
+      "木柴"
+    ]
+  },
+  {
+    "name": "coal",
+    "trans": [
+      "煤炭"
+    ]
+  },
+  {
+    "name": "charcoal",
+    "trans": [
+      "木炭"
+    ]
+  },
+  {
+    "name": "natural gas",
+    "trans": [
+      "天然气"
+    ]
+  },
+  {
+    "name": "oil / petroleum",
+    "trans": [
+      "石油"
+    ]
+  },
+  {
+    "name": "petrol",
+    "trans": [
+      "汽油"
+    ]
+  },
+  {
+    "name": "tide",
+    "trans": [
+      "潮汐"
+    ]
+  },
+  {
+    "name": "hydro-electric power",
+    "trans": [
+      "水力发电"
+    ]
+  },
+  {
+    "name": "nuclear plant",
+    "trans": [
+      "核电站"
+    ]
+  },
+  {
+    "name": "nuclear test",
+    "trans": [
+      "核试验"
+    ]
+  },
+  {
+    "name": "wind power",
+    "trans": [
+      "风能"
+    ]
+  },
+  {
+    "name": "water power",
+    "trans": [
+      "水能"
+    ]
+  },
+  {
+    "name": "solar energy",
+    "trans": [
+      "太阳能"
+    ]
+  },
+  {
+    "name": "alternative energy",
+    "trans": [
+      "其他可采用能源"
+    ]
+  },
+  {
+    "name": "drainage",
+    "trans": [
+      "排水系统/排水设施"
+    ]
+  },
+  {
+    "name": "rainfall distribution",
+    "trans": [
+      "降雨量分布情况"
+    ]
+  },
+  {
+    "name": "subterranean water",
+    "trans": [
+      "地下水"
+    ]
+  },
+  {
+    "name": "non-renewable",
+    "trans": [
+      "不可再生"
+    ]
+  },
+  {
+    "name": "sustainable",
+    "trans": [
+      "可持续的"
+    ]
+  },
+  {
+    "name": "fossil fuel",
+    "trans": [
+      "矿物燃料"
+    ]
+  },
+  {
+    "name": "lunar",
+    "trans": [
+      "月亮的"
+    ]
+  },
+  {
+    "name": "solar",
+    "trans": [
+      "太阳的"
+    ]
+  },
+  {
+    "name": "atmosphere",
+    "trans": [
+      "大气"
+    ]
+  },
+  {
+    "name": "particulate",
+    "trans": [
+      "颗粒"
+    ]
+  },
+  {
+    "name": "oxygen",
+    "trans": [
+      "氧气"
+    ]
+  },
+  {
+    "name": "ozone layer",
+    "trans": [
+      "臭氧层"
+    ]
+  },
+  {
+    "name": "glacier",
+    "trans": [
+      "冰川"
+    ]
+  },
+  {
+    "name": "plastic",
+    "trans": [
+      "塑料"
+    ]
+  },
+  {
+    "name": "surface",
+    "trans": [
+      "表面"
+    ]
+  },
+  {
+    "name": "leak",
+    "trans": [
+      "漏，泄露"
+    ]
+  },
+  {
+    "name": "release",
+    "trans": [
+      "释放"
+    ]
+  },
+  {
+    "name": "garbage",
+    "trans": [
+      "垃圾"
+    ]
+  },
+  {
+    "name": "waste disposal",
+    "trans": [
+      "废物处理"
+    ]
+  },
+  {
+    "name": "emission",
+    "trans": [
+      "废气排放"
+    ]
+  },
+  {
+    "name": "carbon dioxide",
+    "trans": [
+      "二氧化碳"
+    ]
+  },
+  {
+    "name": "city expansion",
+    "trans": [
+      "城市扩张"
+    ]
+  },
+  {
+    "name": "air / water / soil / noise pollution",
+    "trans": [
+      "空气/水/土/噪音污染"
+    ]
+  },
+  {
+    "name": "sulphur emission",
+    "trans": [
+      "硫磺排放"
+    ]
+  },
+  {
+    "name": "ultraviolet / infrared radiation",
+    "trans": [
+      "紫（红）外线"
+    ]
+  },
+  {
+    "name": "toxic / poisonous / venomous",
+    "trans": [
+      "有毒的"
+    ]
+  },
+  {
+    "name": "fumes",
+    "trans": [
+      "废气，浓烟"
+    ]
+  },
+  {
+    "name": "sewage",
+    "trans": [
+      "废水，污水"
+    ]
+  },
+  {
+    "name": "water treatment plant",
+    "trans": [
+      "污水处理厂"
+    ]
+  },
+  {
+    "name": "biodegradable",
+    "trans": [
+      "可生物降解的"
+    ]
+  },
+  {
+    "name": "harness",
+    "trans": [
+      "治理"
+    ]
+  },
+  {
+    "name": "phenomenon",
+    "trans": [
+      "现象"
+    ]
+  },
+  {
+    "name": "deterioration",
+    "trans": [
+      "恶化"
+    ]
+  },
+  {
+    "name": "radiation",
+    "trans": [
+      "辐射"
+    ]
+  },
+  {
+    "name": "acid rain",
+    "trans": [
+      "酸雨"
+    ]
+  },
+  {
+    "name": "smog",
+    "trans": [
+      "烟雾"
+    ]
+  },
+  {
+    "name": "afforestation",
+    "trans": [
+      "植树造林"
+    ]
+  },
+  {
+    "name": "forestation",
+    "trans": [
+      "植树造林"
+    ]
+  },
+  {
+    "name": "woodland",
+    "trans": [
+      "森林"
+    ]
+  },
+  {
+    "name": "deforestation",
+    "trans": [
+      "滥砍滥伐（森林）"
+    ]
+  },
+  {
+    "name": "greenbelt",
+    "trans": [
+      "绿化带"
+    ]
+  },
+  {
+    "name": "evaporation",
+    "trans": [
+      "蒸发"
+    ]
+  },
+  {
+    "name": "marine",
+    "trans": [
+      "海洋的"
+    ]
+  },
+  {
+    "name": "drought",
+    "trans": [
+      "干旱",
+      "旱灾"
+    ]
+  },
+  {
+    "name": "moisture",
+    "trans": [
+      "水分"
+    ]
+  },
+  {
+    "name": "humidity",
+    "trans": [
+      "湿度"
+    ]
+  },
+  {
+    "name": "seep",
+    "trans": [
+      "渗透"
+    ]
+  },
+  {
+    "name": "soil erosion",
+    "trans": [
+      "水土流失",
+      "土壤腐蚀"
+    ]
+  },
+  {
+    "name": "inundate",
+    "trans": [
+      "淹没"
+    ]
+  },
+  {
+    "name": "sediment",
+    "trans": [
+      "沉积（物）"
+    ]
+  },
+  {
+    "name": "sand bank",
+    "trans": [
+      "沙堤"
+    ]
+  },
+  {
+    "name": "embankment",
+    "trans": [
+      "筑堤"
+    ]
+  },
+  {
+    "name": "delta",
+    "trans": [
+      "三角洲"
+    ]
+  },
+  {
+    "name": "alluvial",
+    "trans": [
+      "冲积的"
+    ]
+  },
+  {
+    "name": "dust-storm",
+    "trans": [
+      "沙尘暴"
+    ]
+  },
+  {
+    "name": "barren",
+    "trans": [
+      "贫瘠的，不育的，无效的"
+    ]
+  },
+  {
+    "name": "log",
+    "trans": [
+      "原木，日志，伐木"
+    ]
+  },
+  {
+    "name": "vegetation",
+    "trans": [
+      "植物，植被"
+    ]
+  },
+  {
+    "name": "demographic",
+    "trans": [
+      "人口统计的"
+    ]
+  },
+  {
+    "name": "counterbalance",
+    "trans": [
+      "使平衡，弥补"
+    ]
+  },
+  {
+    "name": "mechanism",
+    "trans": [
+      "机理，机制"
+    ]
+  },
+  {
+    "name": "precipitation",
+    "trans": [
+      "陡降，降水"
+    ]
+  },
+  {
+    "name": "circulation",
+    "trans": [
+      "流通，循环"
+    ]
+  },
+  {
+    "name": "dump",
+    "trans": [
+      "倾倒，倾销"
+    ]
+  },
+  {
+    "name": "contaminate",
+    "trans": [
+      "弄脏"
+    ]
+  },
+  {
+    "name": "irreversible",
+    "trans": [
+      "不可逆的"
+    ]
+  },
+  {
+    "name": "recurrent",
+    "trans": [
+      "反复发生的"
+    ]
+  },
+  {
+    "name": "reclaim",
+    "trans": [
+      "开垦，改造"
+    ]
+  },
+  {
+    "name": "geological age",
+    "trans": [
+      "地址年代"
+    ]
+  },
+  {
+    "name": "fossil",
+    "trans": [
+      "化石"
+    ]
+  },
+  {
+    "name": "terrain",
+    "trans": [
+      "地形，地带"
+    ]
+  },
+  {
+    "name": "crust",
+    "trans": [
+      "地壳"
+    ]
+  },
+  {
+    "name": "layer",
+    "trans": [
+      "底层"
+    ]
+  },
+  {
+    "name": "mantle",
+    "trans": [
+      "地幔"
+    ]
+  },
+  {
+    "name": "core",
+    "trans": [
+      "地核"
+    ]
+  },
+  {
+    "name": "plate",
+    "trans": [
+      "板块"
+    ]
+  },
+  {
+    "name": "fault",
+    "trans": [
+      "断层"
+    ]
+  },
+  {
+    "name": "abundance",
+    "trans": [
+      "丰富"
+    ]
+  },
+  {
+    "name": "wind tunnel",
+    "trans": [
+      "风洞"
+    ]
+  },
+  {
+    "name": "cross passages",
+    "trans": [
+      "岔道，通道"
+    ]
+  },
+  {
+    "name": "Radar",
+    "trans": [
+      "雷达"
+    ]
+  },
+  {
+    "name": "sounding",
+    "trans": [
+      "声纳技术"
+    ]
+  },
+  {
+    "name": "salt",
+    "trans": [
+      "盐"
+    ]
+  },
+  {
+    "name": "mine",
+    "trans": [
+      "矿"
+    ]
+  },
+  {
+    "name": "mineral",
+    "trans": [
+      "矿物质"
+    ]
+  },
+  {
+    "name": "coal deposit",
+    "trans": [
+      "煤矿储备量"
+    ]
+  },
+  {
+    "name": "quartz",
+    "trans": [
+      "石英"
+    ]
+  },
+  {
+    "name": "ore",
+    "trans": [
+      "矿石"
+    ]
+  },
+  {
+    "name": "limestone",
+    "trans": [
+      "石灰石"
+    ]
+  },
+  {
+    "name": "marble",
+    "trans": [
+      "大理石"
+    ]
+  },
+  {
+    "name": "granite",
+    "trans": [
+      "花岗岩"
+    ]
+  },
+  {
+    "name": "sandstone",
+    "trans": [
+      "砂岩"
+    ]
+  },
+  {
+    "name": "jewel",
+    "trans": [
+      "宝石"
+    ]
+  },
+  {
+    "name": "gem",
+    "trans": [
+      "宝石"
+    ]
+  },
+  {
+    "name": "diamond",
+    "trans": [
+      "钻石"
+    ]
+  },
+  {
+    "name": "ruby",
+    "trans": [
+      "红宝石"
+    ]
+  },
+  {
+    "name": "prospect",
+    "trans": [
+      "勘探"
+    ]
+  },
+  {
+    "name": "copper / brass / bronze",
+    "trans": [
+      "铜"
+    ]
+  },
+  {
+    "name": "aluminium",
+    "trans": [
+      "铝"
+    ]
+  },
+  {
+    "name": "gold",
+    "trans": [
+      "金"
+    ]
+  },
+  {
+    "name": "silver",
+    "trans": [
+      "银"
+    ]
+  },
+  {
+    "name": "cast iron",
+    "trans": [
+      "铸铁（注意读音）"
+    ]
+  },
+  {
+    "name": "stainless steel",
+    "trans": [
+      "不锈钢"
+    ]
+  },
+  {
+    "name": "rust",
+    "trans": [
+      "生锈的"
+    ]
+  },
+  {
+    "name": "zinc",
+    "trans": [
+      "锌"
+    ]
+  },
+  {
+    "name": "tin",
+    "trans": [
+      "锡"
+    ]
+  },
+  {
+    "name": "mercury",
+    "trans": [
+      "汞"
+    ]
+  },
+  {
+    "name": "copper",
+    "trans": [
+      "铜"
+    ]
+  },
+  {
+    "name": "lead",
+    "trans": [
+      "铅"
+    ]
+  },
+  {
+    "name": "iceberg",
+    "trans": [
+      "冰山"
+    ]
+  },
+  {
+    "name": "ocean vent",
+    "trans": [
+      "海底火山"
+    ]
+  },
+  {
+    "name": "active volcano",
+    "trans": [
+      "活火山"
+    ]
+  },
+  {
+    "name": "dormant volcano",
+    "trans": [
+      "休眠火山"
+    ]
+  },
+  {
+    "name": "extinct volcano",
+    "trans": [
+      "死火山"
+    ]
+  },
+  {
+    "name": "eruption (v. erupt )",
+    "trans": [
+      "火山爆发"
+    ]
+  },
+  {
+    "name": "volcanic ash / dust",
+    "trans": [
+      "火山灰"
+    ]
+  },
+  {
+    "name": "eruption",
+    "trans": [
+      "喷发"
+    ]
+  },
+  {
+    "name": "crater",
+    "trans": [
+      "火山口"
+    ]
+  },
+  {
+    "name": "altitude",
+    "trans": [
+      "海拔"
+    ]
+  },
+  {
+    "name": "lava",
+    "trans": [
+      "岩浆"
+    ]
+  },
+  {
+    "name": "earth quake",
+    "trans": [
+      "地震"
+    ]
+  },
+  {
+    "name": "epicenter",
+    "trans": [
+      "震中"
+    ]
+  },
+  {
+    "name": "after shock",
+    "trans": [
+      "余震"
+    ]
+  },
+  {
+    "name": "seismic wave",
+    "trans": [
+      "地震波"
+    ]
+  },
+  {
+    "name": "recycle",
+    "trans": [
+      "回收再利用"
+    ]
+  },
+  {
+    "name": "ooze",
+    "trans": [
+      "渗出， 渗出物"
+    ]
+  },
+  {
+    "name": "seismograph",
+    "trans": [
+      "地震仪"
+    ]
+  },
+  {
+    "name": "Weather / Climate",
+    "trans": [
+      "气候"
+    ]
+  },
+  {
+    "name": "temperature",
+    "trans": [
+      "温度"
+    ]
+  },
+  {
+    "name": "minus twenty degrees Centigrade",
+    "trans": [
+      "摄氏零下20度"
+    ]
+  },
+  {
+    "name": "Fahrenheit",
+    "trans": [
+      "华氏温度"
+    ]
+  },
+  {
+    "name": "windy",
+    "trans": [
+      "大风的"
+    ]
+  },
+  {
+    "name": "wet / humid",
+    "trans": [
+      "潮湿的"
+    ]
+  },
+  {
+    "name": "rainy",
+    "trans": [
+      "多雨的"
+    ]
+  },
+  {
+    "name": "cloudy",
+    "trans": [
+      "有云的"
+    ]
+  },
+  {
+    "name": "sunny",
+    "trans": [
+      "天晴的"
+    ]
+  },
+  {
+    "name": "mild",
+    "trans": [
+      "温和的"
+    ]
+  },
+  {
+    "name": "flood",
+    "trans": [
+      "洪水"
+    ]
+  },
+  {
+    "name": "tornado",
+    "trans": [
+      "龙卷风"
+    ]
+  },
+  {
+    "name": "hurricane",
+    "trans": [
+      "飓风"
+    ]
+  },
+  {
+    "name": "avalanche",
+    "trans": [
+      "雪崩"
+    ]
+  },
+  {
+    "name": "thunderstorm",
+    "trans": [
+      "暴风雨"
+    ]
+  },
+  {
+    "name": "tsunami",
+    "trans": [
+      "海啸"
+    ]
+  },
+  {
+    "name": "tropical",
+    "trans": [
+      "热带的"
+    ]
+  },
+  {
+    "name": "temperate",
+    "trans": [
+      "温带的"
+    ]
+  },
+  {
+    "name": "arctic circle",
+    "trans": [
+      "北极圈"
+    ]
+  },
+  {
+    "name": "fishing",
+    "trans": [
+      "捕鱼"
+    ]
+  },
+  {
+    "name": "soil",
+    "trans": [
+      "土壤"
+    ]
+  },
+  {
+    "name": "agricultural tools",
+    "trans": [
+      "农业工具"
+    ]
+  },
+  {
+    "name": "husbandry",
+    "trans": [
+      "耕种，务农"
+    ]
+  },
+  {
+    "name": "thin land",
+    "trans": [
+      "贫瘠的土地"
+    ]
+  },
+  {
+    "name": "dryness",
+    "trans": [
+      "干旱"
+    ]
+  },
+  {
+    "name": "aridity",
+    "trans": [
+      "贫瘠"
+    ]
+  },
+  {
+    "name": "surface soil",
+    "trans": [
+      "表面土壤"
+    ]
+  },
+  {
+    "name": "fertile",
+    "trans": [
+      "肥沃的"
+    ]
+  },
+  {
+    "name": "lean land",
+    "trans": [
+      "贫瘠之地"
+    ]
+  },
+  {
+    "name": "virgin land",
+    "trans": [
+      "未开垦的土地"
+    ]
+  },
+  {
+    "name": "clay",
+    "trans": [
+      "粘土"
+    ]
+  },
+  {
+    "name": "plough",
+    "trans": [
+      "犁地"
+    ]
+  },
+  {
+    "name": "tractor",
+    "trans": [
+      "拖拉机"
+    ]
+  },
+  {
+    "name": "draw",
+    "trans": [
+      "拖"
+    ]
+  },
+  {
+    "name": "chop",
+    "trans": [
+      "砍"
+    ]
+  },
+  {
+    "name": "chip",
+    "trans": [
+      "切成碎片"
+    ]
+  },
+  {
+    "name": "exploit",
+    "trans": [
+      "开发，剥削"
+    ]
+  },
+  {
+    "name": "cultivate / nurture / foster",
+    "trans": [
+      "培养"
+    ]
+  },
+  {
+    "name": "plantation",
+    "trans": [
+      "种植园"
+    ]
+  },
+  {
+    "name": "axe",
+    "trans": [
+      "斧子"
+    ]
+  },
+  {
+    "name": "sow",
+    "trans": [
+      "播种"
+    ]
+  },
+  {
+    "name": "harvest",
+    "trans": [
+      "收获"
+    ]
+  },
+  {
+    "name": "pest",
+    "trans": [
+      "害虫"
+    ]
+  },
+  {
+    "name": "pesticide",
+    "trans": [
+      "杀虫剂"
+    ]
+  },
+  {
+    "name": "herbicide",
+    "trans": [
+      "除草剂"
+    ]
+  },
+  {
+    "name": "become resistant",
+    "trans": [
+      "抗/耐…的"
+    ]
+  },
+  {
+    "name": "fertiliser",
+    "trans": [
+      "化肥"
+    ]
+  },
+  {
+    "name": "Other industry",
+    "trans": [
+      "其他工业"
+    ]
+  },
+  {
+    "name": "grind",
+    "trans": [
+      "打磨"
+    ]
+  },
+  {
+    "name": "polish",
+    "trans": [
+      "抛光，蜡",
+      "波兰人 Poland"
+    ]
+  },
+  {
+    "name": "carve",
+    "trans": [
+      "雕刻"
+    ]
+  },
+  {
+    "name": "processing",
+    "trans": [
+      "加工"
+    ]
+  },
+  {
+    "name": "wax",
+    "trans": [
+      "蜡"
+    ]
+  },
+  {
+    "name": "candle",
+    "trans": [
+      "蜡烛"
+    ]
+  },
+  {
+    "name": "manufacture",
+    "trans": [
+      "制造"
+    ]
+  },
+  {
+    "name": "sheep and cattle farming",
+    "trans": [
+      "牛羊畜牧业"
+    ]
+  },
+  {
+    "name": "fish farming",
+    "trans": [
+      "水产养殖"
+    ]
+  },
+  {
+    "name": "wine-making",
+    "trans": [
+      "酿酒"
+    ]
+  },
+  {
+    "name": "printing",
+    "trans": [
+      "印刷"
+    ]
+  },
+  {
+    "name": "nourish",
+    "trans": [
+      "滋养，喂养"
+    ]
+  },
+  {
+    "name": "barley",
+    "trans": [
+      "大麦"
+    ]
+  },
+  {
+    "name": "grain",
+    "trans": [
+      "谷物"
+    ]
+  },
+  {
+    "name": "cereal",
+    "trans": [
+      "麦片"
+    ]
+  },
+  {
+    "name": "yoghurt",
+    "trans": [
+      "奶酪"
+    ]
+  },
+  {
+    "name": "ginger",
+    "trans": [
+      "姜"
+    ]
+  },
+  {
+    "name": "pumpkin",
+    "trans": [
+      "南瓜"
+    ]
+  },
+  {
+    "name": "pea",
+    "trans": [
+      "豌豆"
+    ]
+  },
+  {
+    "name": "pasture",
+    "trans": [
+      "牧场"
+    ]
+  },
+  {
+    "name": "cow",
+    "trans": [
+      "奶牛"
+    ]
+  },
+  {
+    "name": "hen",
+    "trans": [
+      "母鸡"
+    ]
+  },
+  {
+    "name": "hatch an egg",
+    "trans": [
+      "孵蛋"
+    ]
+  },
+  {
+    "name": "lay an egg",
+    "trans": [
+      "下蛋"
+    ]
+  },
+  {
+    "name": "livestock",
+    "trans": [
+      "牲畜"
+    ]
+  },
+  {
+    "name": "poultry",
+    "trans": [
+      "家禽"
+    ]
+  },
+  {
+    "name": "dairy",
+    "trans": [
+      "牛奶制品"
+    ]
+  },
+  {
+    "name": "weed",
+    "trans": [
+      "杂草"
+    ]
+  },
+  {
+    "name": "cattle",
+    "trans": [
+      "牛群"
+    ]
+  },
+  {
+    "name": "herd",
+    "trans": [
+      "兽群"
+    ]
+  },
+  {
+    "name": "poverty",
+    "trans": [
+      "贫穷"
+    ]
+  },
+  {
+    "name": "Zoology",
+    "trans": [
+      "动物学"
+    ]
+  },
+  {
+    "name": "wildlife",
+    "trans": [
+      "野生动物"
+    ]
+  },
+  {
+    "name": "beast",
+    "trans": [
+      "野兽"
+    ]
+  },
+  {
+    "name": "herbivorous",
+    "trans": [
+      "食草性的"
+    ]
+  },
+  {
+    "name": "carnivorous",
+    "trans": [
+      "食肉性的"
+    ]
+  },
+  {
+    "name": "omnivorous",
+    "trans": [
+      "杂食性的"
+    ]
+  },
+  {
+    "name": "mammals",
+    "trans": [
+      "哺乳动物"
+    ]
+  },
+  {
+    "name": "vertebrate",
+    "trans": [
+      "脊椎动物"
+    ]
+  },
+  {
+    "name": "backbone / spine",
+    "trans": [
+      "脊椎"
+    ]
+  },
+  {
+    "name": "reptile",
+    "trans": [
+      "爬行动物"
+    ]
+  },
+  {
+    "name": "amphibian",
+    "trans": [
+      "两栖动物"
+    ]
+  },
+  {
+    "name": "(sub-)species",
+    "trans": [
+      "（亚）物种"
+    ]
+  },
+  {
+    "name": "calf",
+    "trans": [
+      "幼崽"
+    ]
+  },
+  {
+    "name": "chick",
+    "trans": [
+      "幼雏"
+    ]
+  },
+  {
+    "name": "pet",
+    "trans": [
+      "宠物"
+    ]
+  },
+  {
+    "name": "lion",
+    "trans": [
+      "狮子"
+    ]
+  },
+  {
+    "name": "monkey",
+    "trans": [
+      "猴子"
+    ]
+  },
+  {
+    "name": "snake",
+    "trans": [
+      "蛇"
+    ]
+  },
+  {
+    "name": "rabbit",
+    "trans": [
+      "兔子"
+    ]
+  },
+  {
+    "name": "bear",
+    "trans": [
+      "熊"
+    ]
+  },
+  {
+    "name": "Teddy Bear",
+    "trans": [
+      "玩具熊"
+    ]
+  },
+  {
+    "name": "ape",
+    "trans": [
+      "类人猿"
+    ]
+  },
+  {
+    "name": "crocodile",
+    "trans": [
+      "鳄鱼"
+    ]
+  },
+  {
+    "name": "insect",
+    "trans": [
+      "昆虫"
+    ]
+  },
+  {
+    "name": "whale",
+    "trans": [
+      "鲸"
+    ]
+  },
+  {
+    "name": "goose / geese",
+    "trans": [
+      "鹅"
+    ]
+  },
+  {
+    "name": "swan",
+    "trans": [
+      "天鹅"
+    ]
+  },
+  {
+    "name": "frog",
+    "trans": [
+      "青蛙"
+    ]
+  },
+  {
+    "name": "dinosaur",
+    "trans": [
+      "恐龙"
+    ]
+  },
+  {
+    "name": "pigeon",
+    "trans": [
+      "鸽子"
+    ]
+  },
+  {
+    "name": "donkey",
+    "trans": [
+      "驴"
+    ]
+  },
+  {
+    "name": "camel",
+    "trans": [
+      "骆驼"
+    ]
+  },
+  {
+    "name": "pony",
+    "trans": [
+      "小马"
+    ]
+  },
+  {
+    "name": "bull",
+    "trans": [
+      "公牛"
+    ]
+  },
+  {
+    "name": "goat",
+    "trans": [
+      "山羊"
+    ]
+  },
+  {
+    "name": "deer",
+    "trans": [
+      "鹿"
+    ]
+  },
+  {
+    "name": "giraffe",
+    "trans": [
+      "长颈鹿"
+    ]
+  },
+  {
+    "name": "elephant",
+    "trans": [
+      "象"
+    ]
+  },
+  {
+    "name": "puma",
+    "trans": [
+      "美洲狮"
+    ]
+  },
+  {
+    "name": "leopard",
+    "trans": [
+      "豹"
+    ]
+  },
+  {
+    "name": "jaguar",
+    "trans": [
+      "美洲虎"
+    ]
+  },
+  {
+    "name": "fox",
+    "trans": [
+      "狐狸"
+    ]
+  },
+  {
+    "name": "squirrel",
+    "trans": [
+      "松鼠"
+    ]
+  },
+  {
+    "name": "hare",
+    "trans": [
+      "野兔"
+    ]
+  },
+  {
+    "name": "chimpanzee",
+    "trans": [
+      "黑猩猩"
+    ]
+  },
+  {
+    "name": "gorilla",
+    "trans": [
+      "大猩猩"
+    ]
+  },
+  {
+    "name": "kangaroo",
+    "trans": [
+      "袋鼠"
+    ]
+  },
+  {
+    "name": "koala",
+    "trans": [
+      "考拉"
+    ]
+  },
+  {
+    "name": "bat",
+    "trans": [
+      "蝙蝠"
+    ]
+  },
+  {
+    "name": "dolphin",
+    "trans": [
+      "海豚"
+    ]
+  },
+  {
+    "name": "falcon",
+    "trans": [
+      "猎鹰"
+    ]
+  },
+  {
+    "name": "ostrich",
+    "trans": [
+      "鸵鸟"
+    ]
+  },
+  {
+    "name": "parrot",
+    "trans": [
+      "鹦鹉"
+    ]
+  },
+  {
+    "name": "stork",
+    "trans": [
+      "鹳"
+    ]
+  },
+  {
+    "name": "swallow",
+    "trans": [
+      "燕子"
+    ]
+  },
+  {
+    "name": "lizard",
+    "trans": [
+      "蜥蜴"
+    ]
+  },
+  {
+    "name": "toad",
+    "trans": [
+      "蟾蜍"
+    ]
+  },
+  {
+    "name": "seal",
+    "trans": [
+      "海豹，封闭，印章"
+    ]
+  },
+  {
+    "name": "jellyfish",
+    "trans": [
+      "水母"
+    ]
+  },
+  {
+    "name": "termites",
+    "trans": [
+      "白蚁"
+    ]
+  },
+  {
+    "name": "butterfly",
+    "trans": [
+      "蝴蝶"
+    ]
+  },
+  {
+    "name": "dragonfly",
+    "trans": [
+      "蜻蜓"
+    ]
+  },
+  {
+    "name": "crickets",
+    "trans": [
+      "蟋蟀"
+    ]
+  },
+  {
+    "name": "cocoon",
+    "trans": [
+      "茧"
+    ]
+  },
+  {
+    "name": "silkworm",
+    "trans": [
+      "蚕"
+    ]
+  },
+  {
+    "name": "cicada",
+    "trans": [
+      "蝉"
+    ]
+  },
+  {
+    "name": "grasshopper",
+    "trans": [
+      "蚱蜢"
+    ]
+  },
+  {
+    "name": "leech",
+    "trans": [
+      "水蛭"
+    ]
+  },
+  {
+    "name": "cockroach",
+    "trans": [
+      "蟑螂"
+    ]
+  },
+  {
+    "name": "beetle",
+    "trans": [
+      "甲虫"
+    ]
+  },
+  {
+    "name": "locust",
+    "trans": [
+      "蝗虫"
+    ]
+  },
+  {
+    "name": "mosquito",
+    "trans": [
+      "蚊子"
+    ]
+  },
+  {
+    "name": "spider",
+    "trans": [
+      "蜘蛛"
+    ]
+  },
+  {
+    "name": "mantis",
+    "trans": [
+      "螳螂"
+    ]
+  },
+  {
+    "name": "worm",
+    "trans": [
+      "蠕虫"
+    ]
+  },
+  {
+    "name": "bug",
+    "trans": [
+      "小虫"
+    ]
+  },
+  {
+    "name": "fungi",
+    "trans": [
+      "真菌"
+    ]
+  },
+  {
+    "name": "germ",
+    "trans": [
+      "微生物"
+    ]
+  },
+  {
+    "name": "wing",
+    "trans": [
+      "翅膀"
+    ]
+  },
+  {
+    "name": "nest",
+    "trans": [
+      "巢"
+    ]
+  },
+  {
+    "name": "creep",
+    "trans": [
+      "爬行"
+    ]
+  },
+  {
+    "name": "pollen",
+    "trans": [
+      "花粉"
+    ]
+  },
+  {
+    "name": "insecticide / pesticide",
+    "trans": [
+      "杀虫剂"
+    ]
+  },
+  {
+    "name": "jaw",
+    "trans": [
+      "颚"
+    ]
+  },
+  {
+    "name": "tongue",
+    "trans": [
+      "舌头"
+    ]
+  },
+  {
+    "name": "scent",
+    "trans": [
+      "气味"
+    ]
+  },
+  {
+    "name": "claw",
+    "trans": [
+      "爪子"
+    ]
+  },
+  {
+    "name": "feather",
+    "trans": [
+      "羽毛"
+    ]
+  },
+  {
+    "name": "breed / rear / feed",
+    "trans": [
+      "饲养"
+    ]
+  },
+  {
+    "name": "hatch",
+    "trans": [
+      "孵化"
+    ]
+  },
+  {
+    "name": "incubator",
+    "trans": [
+      "孵化器，恒温箱"
+    ]
+  },
+  {
+    "name": "scale",
+    "trans": [
+      "鳞片"
+    ]
+  },
+  {
+    "name": "fin",
+    "trans": [
+      "鳍"
+    ]
+  },
+  {
+    "name": "beak / bill",
+    "trans": [
+      "鸟嘴"
+    ]
+  },
+  {
+    "name": "paw",
+    "trans": [
+      "掌"
+    ]
+  },
+  {
+    "name": "fang",
+    "trans": [
+      "尖牙"
+    ]
+  },
+  {
+    "name": "horn",
+    "trans": [
+      "角"
+    ]
+  },
+  {
+    "name": "oak tree",
+    "trans": [
+      "橡树"
+    ]
+  },
+  {
+    "name": "coral",
+    "trans": [
+      "珊瑚"
+    ]
+  },
+  {
+    "name": "hindquarter",
+    "trans": [
+      "（动物的）后腿"
+    ]
+  },
+  {
+    "name": "ripen",
+    "trans": [
+      "成熟"
+    ]
+  },
+  {
+    "name": "seed",
+    "trans": [
+      "种子"
+    ]
+  },
+  {
+    "name": "shortage",
+    "trans": [
+      "缺乏"
+    ]
+  },
+  {
+    "name": "bark",
+    "trans": [
+      "狗叫"
+    ]
+  },
+  {
+    "name": "sniff",
+    "trans": [
+      "嗅"
+    ]
+  },
+  {
+    "name": "brain",
+    "trans": [
+      "大脑"
+    ]
+  },
+  {
+    "name": "difficulty",
+    "trans": [
+      "困难"
+    ]
+  },
+  {
+    "name": "birthday",
+    "trans": [
+      "生日"
+    ]
+  },
+  {
+    "name": "well-organized",
+    "trans": [
+      "组织很好的"
+    ]
+  },
+  {
+    "name": "opportunity",
+    "trans": [
+      "机会"
+    ]
+  },
+  {
+    "name": "gap",
+    "trans": [
+      "缺口，间隙"
+    ]
+  },
+  {
+    "name": "roll over",
+    "trans": [
+      "翻车"
+    ]
+  },
+  {
+    "name": "crowd",
+    "trans": [
+      "拥挤的"
+    ]
+  },
+  {
+    "name": "stretch",
+    "trans": [
+      "伸展运动"
+    ]
+  },
+  {
+    "name": "row",
+    "trans": [
+      "一排，一行"
+    ]
+  },
+  {
+    "name": "install",
+    "trans": [
+      "安装"
+    ]
+  },
+  {
+    "name": "embed",
+    "trans": [
+      "嵌入"
+    ]
+  },
+  {
+    "name": "strand",
+    "trans": [
+      "（绳、发的）一股"
+    ]
+  },
+  {
+    "name": "entitle to",
+    "trans": [
+      "赋予...做..."
+    ]
+  },
+  {
+    "name": "embark",
+    "trans": [
+      "装载"
+    ]
+  },
+  {
+    "name": "ultimate",
+    "trans": [
+      "最终的，极限程度的"
+    ]
+  },
+  {
+    "name": "Surname / last / family name",
+    "trans": [
+      "姓"
+    ]
+  },
+  {
+    "name": "initial",
+    "trans": [
+      "缩写，最初的"
+    ]
+  },
+  {
+    "name": "namelist",
+    "trans": [
+      "名单"
+    ]
+  },
+  {
+    "name": "Thomson",
+    "trans": [
+      "汤姆森"
+    ]
+  },
+  {
+    "name": "UK(the United Kingdom of Great Britain and Northern Ireland)",
+    "trans": [
+      "英国"
+    ]
+  },
+  {
+    "name": "England",
+    "trans": [
+      "英格兰"
+    ]
+  },
+  {
+    "name": "Scotland",
+    "trans": [
+      "苏格兰"
+    ]
+  },
+  {
+    "name": "Ireland",
+    "trans": [
+      "爱尔兰"
+    ]
+  },
+  {
+    "name": "Wales",
+    "trans": [
+      "威尔士"
+    ]
+  },
+  {
+    "name": "Bristol",
+    "trans": [
+      "布里斯托尔（记住拼写）"
+    ]
+  },
+  {
+    "name": "Bath",
+    "trans": [
+      "巴斯"
+    ]
+  },
+  {
+    "name": "Belfast",
+    "trans": [
+      "贝尔法斯特"
+    ]
+  },
+  {
+    "name": "Birmingham",
+    "trans": [
+      "伯明翰"
+    ]
+  },
+  {
+    "name": "Cambridge",
+    "trans": [
+      "剑桥"
+    ]
+  },
+  {
+    "name": "Oxford",
+    "trans": [
+      "牛津"
+    ]
+  },
+  {
+    "name": "Edinburgh",
+    "trans": [
+      "爱丁堡"
+    ]
+  },
+  {
+    "name": "Leeds",
+    "trans": [
+      "利兹"
+    ]
+  },
+  {
+    "name": "Liverpool",
+    "trans": [
+      "利物浦"
+    ]
+  },
+  {
+    "name": "London",
+    "trans": [
+      "伦敦"
+    ]
+  },
+  {
+    "name": "Manchester",
+    "trans": [
+      "曼切斯特",
+      "曼彻斯特"
+    ]
+  },
+  {
+    "name": "Sheffield",
+    "trans": [
+      "谢菲尔德"
+    ]
+  },
+  {
+    "name": "York",
+    "trans": [
+      "约克"
+    ]
+  },
+  {
+    "name": "Australia",
+    "trans": [
+      "澳大利亚"
+    ]
+  },
+  {
+    "name": "Adelaide",
+    "trans": [
+      "阿德莱德"
+    ]
+  },
+  {
+    "name": "Brisbane",
+    "trans": [
+      "布里斯班"
+    ]
+  },
+  {
+    "name": "Canberra",
+    "trans": [
+      "堪培拉"
+    ]
+  },
+  {
+    "name": "Melbourne",
+    "trans": [
+      "墨尔本",
+      "墨尔本四"
+    ]
+  },
+  {
+    "name": "Perth",
+    "trans": [
+      "珀斯"
+    ]
+  },
+  {
+    "name": "Queensland",
+    "trans": [
+      "昆士兰",
+      "昆士兰州"
+    ]
+  },
+  {
+    "name": "Victoria",
+    "trans": [
+      "维多拉亚",
+      "维多利亚州",
+      "维多利亚"
+    ]
+  },
+  {
+    "name": "New Zealand",
+    "trans": [
+      "新西兰"
+    ]
+  },
+  {
+    "name": "Auckland",
+    "trans": [
+      "奥克兰"
+    ]
+  },
+  {
+    "name": "Wellington",
+    "trans": [
+      "惠灵顿",
+      "惠灵顿五"
+    ]
+  },
+  {
+    "name": "America",
+    "trans": [
+      "美国 U.S.A. United State",
+      "美洲"
+    ]
+  },
+  {
+    "name": "U.S.S.R.",
+    "trans": [
+      "苏联"
+    ]
+  },
+  {
+    "name": "Alaska",
+    "trans": [
+      "阿拉斯加"
+    ]
+  },
+  {
+    "name": "Atlanta",
+    "trans": [
+      "亚特兰大"
+    ]
+  },
+  {
+    "name": "Boston",
+    "trans": [
+      "波士顿"
+    ]
+  },
+  {
+    "name": "Chicago",
+    "trans": [
+      "芝加哥"
+    ]
+  },
+  {
+    "name": "Hawaii",
+    "trans": [
+      "夏威夷"
+    ]
+  },
+  {
+    "name": "Los Angeles",
+    "trans": [
+      "洛杉矶"
+    ]
+  },
+  {
+    "name": "New York",
+    "trans": [
+      "纽约"
+    ]
+  },
+  {
+    "name": "Seattle",
+    "trans": [
+      "西雅图"
+    ]
+  },
+  {
+    "name": "Canada",
+    "trans": [
+      "加拿大"
+    ]
+  },
+  {
+    "name": "Alberta",
+    "trans": [
+      "艾伯塔"
+    ]
+  },
+  {
+    "name": "Montreal",
+    "trans": [
+      "蒙特利尔"
+    ]
+  },
+  {
+    "name": "Ontario",
+    "trans": [
+      "安大略",
+      "安大略省"
+    ]
+  },
+  {
+    "name": "Ottawa",
+    "trans": [
+      "渥太华"
+    ]
+  },
+  {
+    "name": "Quebec",
+    "trans": [
+      "魁北克"
+    ]
+  },
+  {
+    "name": "Toronto",
+    "trans": [
+      "多伦多",
+      "多伦多六"
+    ]
+  },
+  {
+    "name": "Vancouver",
+    "trans": [
+      "温哥华"
+    ]
+  },
+  {
+    "name": "Amsterdan",
+    "trans": [
+      "阿姆斯特丹"
+    ]
+  },
+  {
+    "name": "Athens",
+    "trans": [
+      "雅典"
+    ]
+  },
+  {
+    "name": "Bali",
+    "trans": [
+      "巴厘岛"
+    ]
+  },
+  {
+    "name": "Bankok",
+    "trans": [
+      "曼谷"
+    ]
+  },
+  {
+    "name": "Berlin",
+    "trans": [
+      "柏林"
+    ]
+  },
+  {
+    "name": "Caribbean",
+    "trans": [
+      "加勒比"
+    ]
+  },
+  {
+    "name": "Mediterranean",
+    "trans": [
+      "地中海"
+    ]
+  },
+  {
+    "name": "Seoul",
+    "trans": [
+      "首尔，汉城"
+    ]
+  },
+  {
+    "name": "Vienna",
+    "trans": [
+      "维也纳"
+    ]
+  },
+  {
+    "name": "Tokyo",
+    "trans": [
+      "东京"
+    ]
+  },
+  {
+    "name": "British / English",
+    "trans": [
+      "英国人"
+    ]
+  },
+  {
+    "name": "German",
+    "trans": [
+      "德国人 Germany"
+    ]
+  },
+  {
+    "name": "New Zealander",
+    "trans": [
+      "新西兰 New Zealand"
+    ]
+  },
+  {
+    "name": "American",
+    "trans": [
+      "美国人 America"
+    ]
+  },
+  {
+    "name": "Indian",
+    "trans": [
+      "印度人 India"
+    ]
+  },
+  {
+    "name": "Spanish",
+    "trans": [
+      "西班牙人 Spain"
+    ]
+  },
+  {
+    "name": "Malaysia",
+    "trans": [
+      "马来西亚"
+    ]
+  },
+  {
+    "name": "Swedish",
+    "trans": [
+      "瑞典人 Sweden"
+    ]
+  },
+  {
+    "name": "Danish",
+    "trans": [
+      "丹麦人 Danmark"
+    ]
+  },
+  {
+    "name": "Irish",
+    "trans": [
+      "爱尔兰人 Ireland"
+    ]
+  },
+  {
+    "name": "Turkish",
+    "trans": [
+      "土耳其人 Turkey"
+    ]
+  },
+  {
+    "name": "Canadian",
+    "trans": [
+      "加拿大人 Canada"
+    ]
+  },
+  {
+    "name": "Austrian",
+    "trans": [
+      "奥地利人 Austria"
+    ]
+  },
+  {
+    "name": "Russian",
+    "trans": [
+      "俄罗斯人 Russia"
+    ]
+  },
+  {
+    "name": "Australian",
+    "trans": [
+      "澳大利亚人 Australia"
+    ]
+  },
+  {
+    "name": "Chinese",
+    "trans": [
+      "中国人 China"
+    ]
+  },
+  {
+    "name": "Japanese",
+    "trans": [
+      "日本人 Japan"
+    ]
+  },
+  {
+    "name": "Vietnamese",
+    "trans": [
+      "缅甸人 Vietnam"
+    ]
+  },
+  {
+    "name": "Portuguese",
+    "trans": [
+      "葡萄牙人 Portugal"
+    ]
+  },
+  {
+    "name": "Iraqi",
+    "trans": [
+      "伊拉克人 Iraq"
+    ]
+  },
+  {
+    "name": "Kuwaiti",
+    "trans": [
+      "科威特人 Kuwait"
+    ]
+  },
+  {
+    "name": "Pakistani",
+    "trans": [
+      "巴基斯坦人 Pakistan"
+    ]
+  },
+  {
+    "name": "Arabic",
+    "trans": [
+      "阿拉伯人 Arab"
+    ]
+  },
+  {
+    "name": "French",
+    "trans": [
+      "法国人 France"
+    ]
+  },
+  {
+    "name": "Swiss",
+    "trans": [
+      "瑞士人 Switzerland"
+    ]
+  },
+  {
+    "name": "Greek",
+    "trans": [
+      "希腊人 Greece"
+    ]
+  },
+  {
+    "name": "Dutch",
+    "trans": [
+      "荷兰人 Holland / Netherlands"
+    ]
+  },
+  {
+    "name": "Thai",
+    "trans": [
+      "泰国人 Thailand"
+    ]
+  },
+  {
+    "name": "Egyptian",
+    "trans": [
+      "埃及人 Egypt"
+    ]
+  },
+  {
+    "name": "Italian",
+    "trans": [
+      "意大利人 Italy"
+    ]
+  },
+  {
+    "name": "Singaporean",
+    "trans": [
+      "新加坡人 Singapore"
+    ]
+  },
+  {
+    "name": "Rome",
+    "trans": [
+      "罗马"
+    ]
+  },
+  {
+    "name": "Indonesia",
+    "trans": [
+      "印度尼西亚"
+    ]
+  },
+  {
+    "name": "passport number",
+    "trans": [
+      "护照号码"
+    ]
+  },
+  {
+    "name": "passport-sized photos",
+    "trans": [
+      "护照尺寸的照片"
+    ]
+  },
+  {
+    "name": "weight",
+    "trans": [
+      "体重"
+    ]
+  },
+  {
+    "name": "accent",
+    "trans": [
+      "方言"
+    ]
+  },
+  {
+    "name": "visa",
+    "trans": [
+      "签证",
+      "维萨卡"
+    ]
+  },
+  {
+    "name": "ID / identification / identity",
+    "trans": [
+      "身份证"
+    ]
+  },
+  {
+    "name": "driving / driver's license / licence",
+    "trans": [
+      "驾驶执照"
+    ]
+  },
+  {
+    "name": "date of birth",
+    "trans": [
+      "出生年月日,"
+    ]
+  },
+  {
+    "name": "age",
+    "trans": [
+      "年龄"
+    ]
+  },
+  {
+    "name": "blood type",
+    "trans": [
+      "血型"
+    ]
+  },
+  {
+    "name": "height",
+    "trans": [
+      "身高"
+    ]
+  },
+  {
+    "name": "marital status",
+    "trans": [
+      "婚姻状况"
+    ]
+  },
+  {
+    "name": "home address",
+    "trans": [
+      "家庭住址"
+    ]
+  },
+  {
+    "name": "English proficiency",
+    "trans": [
+      "英语水平"
+    ]
+  },
+  {
+    "name": "date of arrival / departure",
+    "trans": [
+      "到达/出发日期"
+    ]
+  },
+  {
+    "name": "signature",
+    "trans": [
+      "签名"
+    ]
+  },
+  {
+    "name": "Africa",
+    "trans": [
+      "非洲"
+    ]
+  },
+  {
+    "name": "Europe",
+    "trans": [
+      "欧洲"
+    ]
+  },
+  {
+    "name": "Asia",
+    "trans": [
+      "亚洲"
+    ]
+  },
+  {
+    "name": "Oceania",
+    "trans": [
+      "大洋洲"
+    ]
+  },
+  {
+    "name": "Antarctica",
+    "trans": [
+      "南极洲"
+    ]
+  },
+  {
+    "name": "Atlantic Ocean",
+    "trans": [
+      "大西洋"
+    ]
+  },
+  {
+    "name": "Pacific Ocean",
+    "trans": [
+      "太平洋"
+    ]
+  },
+  {
+    "name": "Indian Ocean",
+    "trans": [
+      "印度洋"
+    ]
+  },
+  {
+    "name": "Arctic Ocean",
+    "trans": [
+      "北冰洋"
+    ]
+  },
+  {
+    "name": "Tropical Zone",
+    "trans": [
+      "热带"
+    ]
+  },
+  {
+    "name": "Temperate Zone",
+    "trans": [
+      "温带"
+    ]
+  },
+  {
+    "name": "Frigid Zone",
+    "trans": [
+      "寒带"
+    ]
+  },
+  {
+    "name": "Alps",
+    "trans": [
+      "阿尔卑斯山"
+    ]
+  },
+  {
+    "name": "Amazon",
+    "trans": [
+      "亚马逊河"
+    ]
+  },
+  {
+    "name": "Hymalayas / Mount Everest",
+    "trans": [
+      "喜马拉雅山"
+    ]
+  },
+  {
+    "name": "Mississippi River",
+    "trans": [
+      "密西西比河"
+    ]
+  },
+  {
+    "name": "Nile",
+    "trans": [
+      "尼罗河"
+    ]
+  },
+  {
+    "name": "Rocky Mountain",
+    "trans": [
+      "落基山脉"
+    ]
+  },
+  {
+    "name": "Sahara",
+    "trans": [
+      "撒哈拉沙漠"
+    ]
+  },
+  {
+    "name": "Seine",
+    "trans": [
+      "塞纳河"
+    ]
+  },
+  {
+    "name": "Thames",
+    "trans": [
+      "泰晤士河"
+    ]
+  },
+  {
+    "name": "Yangtze River",
+    "trans": [
+      "长江"
+    ]
+  },
+  {
+    "name": "South Pole",
+    "trans": [
+      "南极点"
+    ]
+  },
+  {
+    "name": "equator",
+    "trans": [
+      "赤道"
+    ]
+  },
+  {
+    "name": "longitude",
+    "trans": [
+      "经度"
+    ]
+  },
+  {
+    "name": "latitude",
+    "trans": [
+      "维度"
+    ]
+  },
+  {
+    "name": "tropics zone",
+    "trans": [
+      "热带"
+    ]
+  },
+  {
+    "name": "province",
+    "trans": [
+      "省"
+    ]
+  },
+  {
+    "name": "county",
+    "trans": [
+      "县"
+    ]
+  },
+  {
+    "name": "state",
+    "trans": [
+      "州"
+    ]
+  },
+  {
+    "name": "time",
+    "trans": [
+      "时间"
+    ]
+  },
+  {
+    "name": "National Holiday",
+    "trans": [
+      "法定假日"
+    ]
+  },
+  {
+    "name": "century",
+    "trans": [
+      "世纪"
+    ]
+  },
+  {
+    "name": "decade",
+    "trans": [
+      "十年"
+    ]
+  },
+  {
+    "name": "per annum",
+    "trans": [
+      "每年（=per year）"
+    ]
+  },
+  {
+    "name": "quarter",
+    "trans": [
+      "季度，一刻钟，1/4"
+    ]
+  },
+  {
+    "name": "monthly",
+    "trans": [
+      "每月的"
+    ]
+  },
+  {
+    "name": "fortnight",
+    "trans": [
+      "半月"
+    ]
+  },
+  {
+    "name": "January",
+    "trans": [
+      "一月"
+    ]
+  },
+  {
+    "name": "February",
+    "trans": [
+      "二月"
+    ]
+  },
+  {
+    "name": "March",
+    "trans": [
+      "三月"
+    ]
+  },
+  {
+    "name": "April",
+    "trans": [
+      "四月"
+    ]
+  },
+  {
+    "name": "May",
+    "trans": [
+      "五月"
+    ]
+  },
+  {
+    "name": "June",
+    "trans": [
+      "六月"
+    ]
+  },
+  {
+    "name": "July",
+    "trans": [
+      "七月"
+    ]
+  },
+  {
+    "name": "August",
+    "trans": [
+      "八月"
+    ]
+  },
+  {
+    "name": "September",
+    "trans": [
+      "九月"
+    ]
+  },
+  {
+    "name": "October",
+    "trans": [
+      "十月"
+    ]
+  },
+  {
+    "name": "November",
+    "trans": [
+      "十一月"
+    ]
+  },
+  {
+    "name": "December",
+    "trans": [
+      "十二月"
+    ]
+  },
+  {
+    "name": "Monday",
+    "trans": [
+      "星期一"
+    ]
+  },
+  {
+    "name": "Tuesday",
+    "trans": [
+      "星期二"
+    ]
+  },
+  {
+    "name": "Wednesday",
+    "trans": [
+      "星期三"
+    ]
+  },
+  {
+    "name": "Thursday",
+    "trans": [
+      "星期四"
+    ]
+  },
+  {
+    "name": "Friday",
+    "trans": [
+      "星期五"
+    ]
+  },
+  {
+    "name": "Saturday",
+    "trans": [
+      "星期六"
+    ]
+  },
+  {
+    "name": "Sunday",
+    "trans": [
+      "星期天"
+    ]
+  },
+  {
+    "name": "weekdays",
+    "trans": [
+      "工作日"
+    ]
+  },
+  {
+    "name": "weekend",
+    "trans": [
+      "周末"
+    ]
+  },
+  {
+    "name": "midmorning / midday / noon",
+    "trans": [
+      "中午"
+    ]
+  },
+  {
+    "name": "measurement",
+    "trans": [
+      "测量"
+    ]
+  },
+  {
+    "name": "Metre",
+    "trans": [
+      "米"
+    ]
+  },
+  {
+    "name": "naught / zero / null / nill",
+    "trans": [
+      "零"
+    ]
+  },
+  {
+    "name": "percent",
+    "trans": [
+      "百分比"
+    ]
+  },
+  {
+    "name": "area / zip code",
+    "trans": [
+      "区号"
+    ]
+  },
+  {
+    "name": "fax",
+    "trans": [
+      "传真"
+    ]
+  },
+  {
+    "name": "Centimetre",
+    "trans": [
+      "厘米"
+    ]
+  },
+  {
+    "name": "Millimetre",
+    "trans": [
+      "毫米"
+    ]
+  },
+  {
+    "name": "Gramme",
+    "trans": [
+      "克"
+    ]
+  },
+  {
+    "name": "Foot",
+    "trans": [
+      "英尺"
+    ]
+  },
+  {
+    "name": "Inch",
+    "trans": [
+      "英寸"
+    ]
+  },
+  {
+    "name": "Litre",
+    "trans": [
+      "升"
+    ]
+  },
+  {
+    "name": "Acre",
+    "trans": [
+      "英亩"
+    ]
+  },
+  {
+    "name": "Mile",
+    "trans": [
+      "英里"
+    ]
+  },
+  {
+    "name": "Square",
+    "trans": [
+      "平方",
+      "正方形"
+    ]
+  },
+  {
+    "name": "Hectare",
+    "trans": [
+      "公顷"
+    ]
+  },
+  {
+    "name": "Ounce",
+    "trans": [
+      "盎司"
+    ]
+  },
+  {
+    "name": "7-fold 7",
+    "trans": [
+      "倍的"
+    ]
+  },
+  {
+    "name": "triangle",
+    "trans": [
+      "三角形"
+    ]
+  },
+  {
+    "name": "rectangle / rectangular",
+    "trans": [
+      "矩形"
+    ]
+  },
+  {
+    "name": "circle / circular",
+    "trans": [
+      "圆形，圈"
+    ]
+  },
+  {
+    "name": "star",
+    "trans": [
+      "星形"
+    ]
+  },
+  {
+    "name": "pentagon",
+    "trans": [
+      "五边形"
+    ]
+  },
+  {
+    "name": "radius",
+    "trans": [
+      "半径"
+    ]
+  },
+  {
+    "name": "angle",
+    "trans": [
+      "角度"
+    ]
+  },
+  {
+    "name": "Olympic games",
+    "trans": [
+      "奥运会"
+    ]
+  },
+  {
+    "name": "satellite",
+    "trans": [
+      "卫星"
+    ]
+  },
+  {
+    "name": "sun",
+    "trans": [
+      "恒星"
+    ]
+  },
+  {
+    "name": "meteor",
+    "trans": [
+      "流星"
+    ]
+  },
+  {
+    "name": "comet",
+    "trans": [
+      "彗星"
+    ]
+  },
+  {
+    "name": "planet",
+    "trans": [
+      "行星"
+    ]
+  },
+  {
+    "name": "Jupiter",
+    "trans": [
+      "木星"
+    ]
+  },
+  {
+    "name": "relationship",
+    "trans": [
+      "关系，联系"
+    ]
+  },
+  {
+    "name": "innovation",
+    "trans": [
+      "改革，创新"
+    ]
+  },
+  {
+    "name": "revolution",
+    "trans": [
+      "革命，改革"
+    ]
+  },
+  {
+    "name": "evolution",
+    "trans": [
+      "演变，进化"
+    ]
+  },
+  {
+    "name": "corruption",
+    "trans": [
+      "腐败"
+    ]
+  },
+  {
+    "name": "morale",
+    "trans": [
+      "士气，斗志"
+    ]
+  },
+  {
+    "name": "freedom",
+    "trans": [
+      "自由"
+    ]
+  },
+  {
+    "name": "mass media",
+    "trans": [
+      "大众媒体"
+    ]
+  },
+  {
+    "name": "construction",
+    "trans": [
+      "建设"
+    ]
+  },
+  {
+    "name": "sanitary",
+    "trans": [
+      "卫生的"
+    ]
+  },
+  {
+    "name": "needy",
+    "trans": [
+      "极度贫穷的"
+    ]
+  },
+  {
+    "name": "prosperous",
+    "trans": [
+      "繁荣的"
+    ]
+  },
+  {
+    "name": "military",
+    "trans": [
+      "军事的"
+    ]
+  },
+  {
+    "name": "Socialism",
+    "trans": [
+      "社会主义"
+    ]
+  },
+  {
+    "name": "Capitalism",
+    "trans": [
+      "资本主义"
+    ]
+  },
+  {
+    "name": "trend",
+    "trans": [
+      "趋势"
+    ]
+  },
+  {
+    "name": "slave",
+    "trans": [
+      "奴隶"
+    ]
+  },
+  {
+    "name": "prince",
+    "trans": [
+      "王子"
+    ]
+  },
+  {
+    "name": "invasion",
+    "trans": [
+      "入侵"
+    ]
+  },
+  {
+    "name": "Neolithic",
+    "trans": [
+      "新石器时代"
+    ]
+  },
+  {
+    "name": "colony",
+    "trans": [
+      "殖民地"
+    ]
+  },
+  {
+    "name": "nomad",
+    "trans": [
+      "游牧民族"
+    ]
+  },
+  {
+    "name": "modern",
+    "trans": [
+      "现代的"
+    ]
+  },
+  {
+    "name": "tribe",
+    "trans": [
+      "部落"
+    ]
+  },
+  {
+    "name": "wedding",
+    "trans": [
+      "婚礼"
+    ]
+  },
+  {
+    "name": "divorce",
+    "trans": [
+      "离婚"
+    ]
+  },
+  {
+    "name": "burglar",
+    "trans": [
+      "小偷"
+    ]
+  },
+  {
+    "name": "robbery",
+    "trans": [
+      "抢劫"
+    ]
+  },
+  {
+    "name": "murder",
+    "trans": [
+      "谋杀"
+    ]
+  },
+  {
+    "name": "violent crime",
+    "trans": [
+      "凶残的犯罪"
+    ]
+  },
+  {
+    "name": "legal",
+    "trans": [
+      "合法的"
+    ]
+  },
+  {
+    "name": "injure",
+    "trans": [
+      "伤害，受伤"
+    ]
+  },
+  {
+    "name": "regulation",
+    "trans": [
+      "管理"
+    ]
+  },
+  {
+    "name": "evidence",
+    "trans": [
+      "证据"
+    ]
+  },
+  {
+    "name": "priority",
+    "trans": [
+      "优先权"
+    ]
+  },
+  {
+    "name": "embassy",
+    "trans": [
+      "大使馆"
+    ]
+  },
+  {
+    "name": "royal",
+    "trans": [
+      "皇家的"
+    ]
+  },
+  {
+    "name": "religion",
+    "trans": [
+      "宗教"
+    ]
+  },
+  {
+    "name": "individual",
+    "trans": [
+      "个人的"
+    ]
+  },
+  {
+    "name": "domestic",
+    "trans": [
+      "国内的，家用的，驯养的"
+    ]
+  },
+  {
+    "name": "local",
+    "trans": [
+      "当地的"
+    ]
+  },
+  {
+    "name": "native",
+    "trans": [
+      "本国的，本地人"
+    ]
+  },
+  {
+    "name": "vote",
+    "trans": [
+      "选举"
+    ]
+  },
+  {
+    "name": "donation",
+    "trans": [
+      "捐赠"
+    ]
+  },
+  {
+    "name": "policy",
+    "trans": [
+      "政策"
+    ]
+  },
+  {
+    "name": "crisis",
+    "trans": [
+      "危机"
+    ]
+  },
+  {
+    "name": "investment",
+    "trans": [
+      "投资"
+    ]
+  },
+  {
+    "name": "advertisement",
+    "trans": [
+      "广告"
+    ]
+  },
+  {
+    "name": "productivity",
+    "trans": [
+      "生产力"
+    ]
+  },
+  {
+    "name": "workforce",
+    "trans": [
+      "劳动力"
+    ]
+  },
+  {
+    "name": "leadership",
+    "trans": [
+      "领导力"
+    ]
+  },
+  {
+    "name": "monopoly",
+    "trans": [
+      "垄断"
+    ]
+  },
+  {
+    "name": "labour",
+    "trans": [
+      "劳动"
+    ]
+  },
+  {
+    "name": "adult",
+    "trans": [
+      "成年人"
+    ]
+  },
+  {
+    "name": "teenager",
+    "trans": [
+      "青少年"
+    ]
+  },
+  {
+    "name": "population",
+    "trans": [
+      "人口"
+    ]
+  },
+  {
+    "name": "migrate",
+    "trans": [
+      "移民"
+    ]
+  },
+  {
+    "name": "community",
+    "trans": [
+      "社区"
+    ]
+  },
+  {
+    "name": "partner",
+    "trans": [
+      "同伴"
+    ]
+  },
+  {
+    "name": "spouse",
+    "trans": [
+      "配偶"
+    ]
+  },
+  {
+    "name": "pal",
+    "trans": [
+      "老友，兄弟"
+    ]
+  },
+  {
+    "name": "sympathy",
+    "trans": [
+      "同情心"
+    ]
+  },
+  {
+    "name": "filter",
+    "trans": [
+      "过滤"
+    ]
+  },
+  {
+    "name": "relative",
+    "trans": [
+      "亲戚，相对的"
+    ]
+  },
+  {
+    "name": "resistant",
+    "trans": [
+      "有抵抗力的"
+    ]
+  },
+  {
+    "name": "document",
+    "trans": [
+      "文件，证明"
+    ]
+  },
+  {
+    "name": "documental",
+    "trans": [
+      "文件的，记录的"
+    ]
+  },
+  {
+    "name": "overhead",
+    "trans": [
+      "头顶上的.总开销;"
+    ]
+  },
+  {
+    "name": "emergency",
+    "trans": [
+      "紧急的"
+    ]
+  },
+  {
+    "name": "panic",
+    "trans": [
+      "紧张，恐慌"
+    ]
+  },
+  {
+    "name": "argument",
+    "trans": [
+      "讨论"
+    ]
+  },
+  {
+    "name": "challenge",
+    "trans": [
+      "挑战"
+    ]
+  },
+  {
+    "name": "behaviour",
+    "trans": [
+      "行为"
+    ]
+  },
+  {
+    "name": "tune",
+    "trans": [
+      "曲调"
+    ]
+  },
+  {
+    "name": "loyal",
+    "trans": [
+      "忠实的"
+    ]
+  },
+  {
+    "name": "iron forge",
+    "trans": [
+      "钢铁车间"
+    ]
+  },
+  {
+    "name": "flange / rim / edge",
+    "trans": [
+      "边缘"
+    ]
+  },
+  {
+    "name": "accompany",
+    "trans": [
+      "陪伴"
+    ]
+  },
+  {
+    "name": "compensate",
+    "trans": [
+      "补偿"
+    ]
+  },
+  {
+    "name": "privacy",
+    "trans": [
+      "隐私，隐居"
+    ]
+  },
+  {
+    "name": "haven / shelter / sanctuary",
+    "trans": [
+      "避难所"
+    ]
+  },
+  {
+    "name": "miserable",
+    "trans": [
+      "令人痛苦的"
+    ]
+  },
+  {
+    "name": "pledge",
+    "trans": [
+      "保证，许诺"
+    ]
+  },
+  {
+    "name": "incredible",
+    "trans": [
+      "难以置信的"
+    ]
+  },
+  {
+    "name": "awareness",
+    "trans": [
+      "知道"
+    ]
+  },
+  {
+    "name": "exhibition",
+    "trans": [
+      "展览"
+    ]
+  },
+  {
+    "name": "permit / permission",
+    "trans": [
+      "许可证，允许"
+    ]
+  },
+  {
+    "name": "goal / aim",
+    "trans": [
+      "目标"
+    ]
+  },
+  {
+    "name": "reinforce",
+    "trans": [
+      "加强"
+    ]
+  },
+  {
+    "name": "motivation",
+    "trans": [
+      "动力"
+    ]
+  },
+  {
+    "name": "organization / organisation",
+    "trans": [
+      "团体"
+    ]
+  },
+  {
+    "name": "risk",
+    "trans": [
+      "风险"
+    ]
+  },
+  {
+    "name": "strike",
+    "trans": [
+      "打击，罢工"
+    ]
+  },
+  {
+    "name": "link",
+    "trans": [
+      "连接"
+    ]
+  },
+  {
+    "name": "adopt",
+    "trans": [
+      "采用，通过"
+    ]
+  },
+  {
+    "name": "chat show",
+    "trans": [
+      "谈话节目 (talkshow)"
+    ]
+  },
+  {
+    "name": "poster",
+    "trans": [
+      "海报"
+    ]
+  },
+  {
+    "name": "clever",
+    "trans": [
+      "聪明的"
+    ]
+  },
+  {
+    "name": "sector",
+    "trans": [
+      "部门"
+    ]
+  },
+  {
+    "name": "tank",
+    "trans": [
+      "油箱，水罐"
+    ]
+  },
+  {
+    "name": "platform",
+    "trans": [
+      "平台"
+    ]
+  },
+  {
+    "name": "message",
+    "trans": [
+      "信息"
+    ]
+  },
+  {
+    "name": "supervise",
+    "trans": [
+      "监管"
+    ]
+  },
+  {
+    "name": "depth",
+    "trans": [
+      "深度"
+    ]
+  },
+  {
+    "name": "consequence",
+    "trans": [
+      "结果，后果"
+    ]
+  },
+  {
+    "name": "bother / disturb",
+    "trans": [
+      "打扰"
+    ]
+  },
+  {
+    "name": "ambitious",
+    "trans": [
+      "抱负，雄心"
+    ]
+  },
+  {
+    "name": "track",
+    "trans": [
+      "轨道"
+    ]
+  },
+  {
+    "name": "pump",
+    "trans": [
+      "泵"
+    ]
+  },
+  {
+    "name": "attitude",
+    "trans": [
+      "态度"
+    ]
+  },
+  {
+    "name": "flavor / taste",
+    "trans": [
+      "风味，滋味，口味"
+    ]
+  },
+  {
+    "name": "bitterness",
+    "trans": [
+      "苦"
+    ]
+  },
+  {
+    "name": "sensible",
+    "trans": [
+      "合情理的"
+    ]
+  },
+  {
+    "name": "general",
+    "trans": [
+      "广泛的"
+    ]
+  },
+  {
+    "name": "artistic",
+    "trans": [
+      "艺术的"
+    ]
+  },
+  {
+    "name": "soul",
+    "trans": [
+      "灵魂"
+    ]
+  },
+  {
+    "name": "habit",
+    "trans": [
+      "习惯"
+    ]
+  },
+  {
+    "name": "disappear",
+    "trans": [
+      "消失"
+    ]
+  },
+  {
+    "name": "collection",
+    "trans": [
+      "收集"
+    ]
+  },
+  {
+    "name": "combination",
+    "trans": [
+      "结合"
+    ]
+  },
+  {
+    "name": "control",
+    "trans": [
+      "控制"
+    ]
+  },
+  {
+    "name": "factory",
+    "trans": [
+      "工厂"
+    ]
+  },
+  {
+    "name": "skill",
+    "trans": [
+      "技能"
+    ]
+  },
+  {
+    "name": "steam",
+    "trans": [
+      "蒸汽"
+    ]
+  },
+  {
+    "name": "morality",
+    "trans": [
+      "道德"
+    ]
+  },
+  {
+    "name": "mucky",
+    "trans": [
+      "弄脏的"
+    ]
+  },
+  {
+    "name": "wander",
+    "trans": [
+      "徘徊"
+    ]
+  },
+  {
+    "name": "roam",
+    "trans": [
+      "漫游"
+    ]
+  },
+  {
+    "name": "vast",
+    "trans": [
+      "巨大的"
+    ]
+  },
+  {
+    "name": "viable",
+    "trans": [
+      "能维持下去的"
+    ]
+  },
+  {
+    "name": "scatter",
+    "trans": [
+      "分散"
+    ]
+  },
+  {
+    "name": "sustain",
+    "trans": [
+      "维持"
+    ]
+  },
+  {
+    "name": "retain",
+    "trans": [
+      "保持"
+    ]
+  },
+  {
+    "name": "remarkable",
+    "trans": [
+      "不寻常的"
+    ]
+  },
+  {
+    "name": "remote",
+    "trans": [
+      "遥远的"
+    ]
+  },
+  {
+    "name": "hostile",
+    "trans": [
+      "不友善的"
+    ]
+  },
+  {
+    "name": "survival",
+    "trans": [
+      "生存的"
+    ]
+  },
+  {
+    "name": "predict",
+    "trans": [
+      "预计"
+    ]
+  },
+  {
+    "name": "quotation",
+    "trans": [
+      "报价，引用"
+    ]
+  },
+  {
+    "name": "stable",
+    "trans": [
+      "稳定的"
+    ]
+  },
+  {
+    "name": "fluctuate",
+    "trans": [
+      "波动"
+    ]
+  },
+  {
+    "name": "misleading",
+    "trans": [
+      "误导的"
+    ]
+  },
+  {
+    "name": "delay",
+    "trans": [
+      "延迟"
+    ]
+  },
+  {
+    "name": "expansion",
+    "trans": [
+      "扩大，膨胀"
+    ]
+  },
+  {
+    "name": "adequate",
+    "trans": [
+      "合适的"
+    ]
+  },
+  {
+    "name": "concern",
+    "trans": [
+      "焦虑，担心"
+    ]
+  },
+  {
+    "name": "conclusive",
+    "trans": [
+      "令人信服的"
+    ]
+  },
+  {
+    "name": "upset",
+    "trans": [
+      "使心烦"
+    ]
+  },
+  {
+    "name": "security / safety",
+    "trans": [
+      "安全"
+    ]
+  },
+  {
+    "name": "strengthen",
+    "trans": [
+      "加强"
+    ]
+  },
+  {
+    "name": "temporary",
+    "trans": [
+      "暂时的"
+    ]
+  },
+  {
+    "name": "restriction",
+    "trans": [
+      "限制"
+    ]
+  },
+  {
+    "name": "scarce",
+    "trans": [
+      "缺乏的"
+    ]
+  },
+  {
+    "name": "loss",
+    "trans": [
+      "损失"
+    ]
+  },
+  {
+    "name": "conversation",
+    "trans": [
+      "交流"
+    ]
+  },
+  {
+    "name": "persuade",
+    "trans": [
+      "说服"
+    ]
+  },
+  {
+    "name": "complete",
+    "trans": [
+      "完成"
+    ]
+  },
+  {
+    "name": "maintain",
+    "trans": [
+      "维持"
+    ]
+  },
+  {
+    "name": "detail",
+    "trans": [
+      "细节"
+    ]
+  },
+  {
+    "name": "sufficient",
+    "trans": [
+      "足够的"
+    ]
+  },
+  {
+    "name": "badge",
+    "trans": [
+      "徽章"
+    ]
+  },
+  {
+    "name": "additional",
+    "trans": [
+      "额外的，附加的"
+    ]
+  },
+  {
+    "name": "spare / extra",
+    "trans": [
+      "额外的"
+    ]
+  },
+  {
+    "name": "even",
+    "trans": [
+      "平衡的，持平，甚至"
+    ]
+  },
+  {
+    "name": "relax",
+    "trans": [
+      "休闲"
+    ]
+  },
+  {
+    "name": "calm",
+    "trans": [
+      "冷静的"
+    ]
+  },
+  {
+    "name": "shame",
+    "trans": [
+      "害羞"
+    ]
+  },
+  {
+    "name": "beneath",
+    "trans": [
+      "在...下面"
+    ]
+  },
+  {
+    "name": "vice versa",
+    "trans": [
+      "反之亦然"
+    ]
+  },
+  {
+    "name": "holder",
+    "trans": [
+      "持有人"
+    ]
+  },
+  {
+    "name": "enormous",
+    "trans": [
+      "巨大的"
+    ]
+  },
+  {
+    "name": "devastated",
+    "trans": [
+      "悲痛的"
+    ]
+  },
+  {
+    "name": "steer",
+    "trans": [
+      "驾驶，驱动"
+    ]
+  },
+  {
+    "name": "query",
+    "trans": [
+      "疑问"
+    ]
+  },
+  {
+    "name": "whereas",
+    "trans": [
+      "但是"
+    ]
+  },
+  {
+    "name": "punctual",
+    "trans": [
+      "守时的"
+    ]
+  },
+  {
+    "name": "flash",
+    "trans": [
+      "闪烁"
+    ]
+  },
+  {
+    "name": "large-scale",
+    "trans": [
+      "大规模的"
+    ]
+  },
+  {
+    "name": "plus",
+    "trans": [
+      "加"
+    ]
+  },
+  {
+    "name": "abbreviation",
+    "trans": [
+      "缩写"
+    ]
+  },
+  {
+    "name": "random",
+    "trans": [
+      "随意的"
+    ]
+  },
+  {
+    "name": "tough",
+    "trans": [
+      "坚韧的"
+    ]
+  },
+  {
+    "name": "alarm",
+    "trans": [
+      "警报"
+    ]
+  },
+  {
+    "name": "flow",
+    "trans": [
+      "流动"
+    ]
+  },
+  {
+    "name": "formal",
+    "trans": [
+      "正式的"
+    ]
+  },
+  {
+    "name": "distance",
+    "trans": [
+      "距离"
+    ]
+  },
+  {
+    "name": "count",
+    "trans": [
+      "数，计算"
+    ]
+  },
+  {
+    "name": "outstanding",
+    "trans": [
+      "突出的"
+    ]
+  },
+  {
+    "name": "heroin",
+    "trans": [
+      "女英雄"
+    ]
+  },
+  {
+    "name": "assume / assumption",
+    "trans": [
+      "假设"
+    ]
+  },
+  {
+    "name": "presumably",
+    "trans": [
+      "大概"
+    ]
+  },
+  {
+    "name": "exceed",
+    "trans": [
+      "超过，超越"
+    ]
+  },
+  {
+    "name": "blade",
+    "trans": [
+      "剑刃"
+    ]
+  },
+  {
+    "name": "exterior / external",
+    "trans": [
+      "外部的"
+    ]
+  },
+  {
+    "name": "internal",
+    "trans": [
+      "内部的"
+    ]
+  },
+  {
+    "name": "region",
+    "trans": [
+      "区域"
+    ]
+  },
+  {
+    "name": "previous",
+    "trans": [
+      "之前的"
+    ]
+  },
+  {
+    "name": "incapacitate",
+    "trans": [
+      "使无能为力"
+    ]
+  },
+  {
+    "name": "delicate",
+    "trans": [
+      "娇弱的，易碎的"
+    ]
+  },
+  {
+    "name": "tender",
+    "trans": [
+      "脆弱的，嫩的"
+    ]
+  },
+  {
+    "name": "italic",
+    "trans": [
+      "斜体的"
+    ]
+  },
+  {
+    "name": "gender",
+    "trans": [
+      "性别的"
+    ]
+  },
+  {
+    "name": "visual",
+    "trans": [
+      "视觉的"
+    ]
+  },
+  {
+    "name": "traditional",
+    "trans": [
+      "传统的"
+    ]
+  },
+  {
+    "name": "strict",
+    "trans": [
+      "严格的"
+    ]
+  },
+  {
+    "name": "destroy",
+    "trans": [
+      "破坏"
+    ]
+  },
+  {
+    "name": "boring",
+    "trans": [
+      "无聊的"
+    ]
+  },
+  {
+    "name": "symbol",
+    "trans": [
+      "符号，记号"
+    ]
+  },
+  {
+    "name": "problem solving",
+    "trans": [
+      "解决问题"
+    ]
+  },
+  {
+    "name": "integrate",
+    "trans": [
+      "结合"
+    ]
+  },
+  {
+    "name": "deserts",
+    "trans": [
+      "沙漠"
+    ]
+  },
+  {
+    "name": "hilly areas",
+    "trans": [
+      "丘陵地带"
+    ]
+  },
+  {
+    "name": "wetlands",
+    "trans": [
+      "沼泽地"
+    ]
+  },
+  {
+    "name": "bush land",
+    "trans": [
+      "灌木丛"
+    ]
+  },
+  {
+    "name": "tropical rain forests",
+    "trans": [
+      "热带雨林"
+    ]
+  },
+  {
+    "name": "resorts",
+    "trans": [
+      "胜地"
+    ]
+  },
+  {
+    "name": "coastal areas",
+    "trans": [
+      "沿海地区"
+    ]
+  },
+  {
+    "name": "water fall",
+    "trans": [
+      "瀑布"
+    ]
+  },
+  {
+    "name": "public transport",
+    "trans": [
+      "公共交通"
+    ]
+  },
+  {
+    "name": "private transport",
+    "trans": [
+      "私人交通"
+    ]
+  },
+  {
+    "name": "underground / subway / tube / Metro",
+    "trans": [
+      "地铁"
+    ]
+  },
+  {
+    "name": "Canadian dollars",
+    "trans": [
+      "加元"
+    ]
+  },
+  {
+    "name": "Pounds",
+    "trans": [
+      "镑"
+    ]
+  },
+  {
+    "name": "Japanese Yen",
+    "trans": [
+      "日元"
+    ]
+  },
+  {
+    "name": "MasterCard",
+    "trans": [
+      "万事达"
+    ]
+  },
+  {
+    "name": "American Express",
+    "trans": [
+      "美国运通"
+    ]
+  },
+  {
+    "name": "hotsprings",
+    "trans": [
+      "温泉"
+    ]
+  },
+  {
+    "name": "north pole",
+    "trans": [
+      "北极"
+    ]
+  },
+  {
+    "name": "U.K. / the United Kingdom / Great Britain",
+    "trans": [
+      "英国（大不列颠）"
+    ]
+  },
+  {
+    "name": "Cardiff",
+    "trans": [
+      "加的夫"
+    ]
+  },
+  {
+    "name": "North Ireland",
+    "trans": [
+      "北爱尔兰"
+    ]
+  },
+  {
+    "name": "New South Wales",
+    "trans": [
+      "新南威尔士州"
+    ]
+  },
+  {
+    "name": "Sydney",
+    "trans": [
+      "悉尼"
+    ]
+  },
+  {
+    "name": "South Australia",
+    "trans": [
+      "南澳大利亚州"
+    ]
+  },
+  {
+    "name": "British Columbia",
+    "trans": [
+      "不列颠哥伦比亚省"
+    ]
+  },
+  {
+    "name": "The United States of America",
+    "trans": [
+      "美国"
+    ]
+  },
+  {
+    "name": "Washington",
+    "trans": [
+      "华盛顿"
+    ]
+  },
+  {
+    "name": "Los Angeles / L.A.",
+    "trans": [
+      "洛杉矶"
+    ]
+  }
+]
